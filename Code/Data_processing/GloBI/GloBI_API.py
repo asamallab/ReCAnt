@@ -29,4 +29,4 @@ for k in species:
 
 df_all = df_all.explode(column=['target_taxon_name'])
 
-df_all.to_csv('../Output/food_web_data.tsv', sep='\t', index=False)
+df_all.to_csv('./food_web_data.tsv', sep='\t', index=False)

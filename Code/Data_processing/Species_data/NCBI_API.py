@@ -9,7 +9,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # configure entrez
 Entrez.api_key = ""
 
-spdata = pd.read_csv('../Data/spdata_std_for_fishbase_fetching.tsv', sep='\t', dtype=str)
+spdata = pd.read_csv('./external_data/spdata_std_for_fishbase_fetching.tsv', sep='\t', dtype=str)
 
 taxids = set(spdata['ncbi_taxid']) - {''}
 

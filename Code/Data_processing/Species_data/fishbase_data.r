@@ -3,7 +3,7 @@ install.packages("dplyr")
 library(rfishbase)
 library(dplyr)
 
-species_list <- read.csv("../Output/spdata_std_for_fishbase_fetching.tsv", sep = '\t')$species_name
+species_list <- read.csv("./external_data/spdata_std_for_fishbase_fetching.tsv", sep = '\t')$species_name
 species_list <- species_list[species_list != ""]
 
 sp_list      <- list()
@@ -82,5 +82,5 @@ fb_data <- sp %>%
     fb_anacat           = AnaCat
   )
 
-write.csv(fb_data, "../Output/fishbase_data.csv", row.names = FALSE)
+write.csv(fb_data, "../fishbase_data.csv", row.names = FALSE)
 cat("Saved to fishbase_data.csv —", nrow(fb_data), "rows\n")
