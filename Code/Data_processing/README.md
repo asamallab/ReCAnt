@@ -7,7 +7,16 @@ This folder contains scripts for retrieving and processing data from external da
 ## Subfolders
 
 ### CTD
-Scripts to process data downloaded from the [Comparative Toxicogenomics Database (CTD)](http://ctdbase.org/).
+Scripts to process data downloaded from the [Comparative Toxicogenomics Database (CTD)](https://ctdbase.org/downloads/).
+
+The following files must be manually downloaded from the CTD downloads page before running the scripts:
+
+- `CTD_chem_gene_ixns.tsv`
+- `CTD_chemicals_diseases.tsv`
+- `CTD_chemicals.tsv`
+- `CTD_curated_chemicals_diseases.tsv`
+- `CTD_curated_genes_diseases.tsv`
+- `CTD_pheno_term_ixns.tsv`
 
 CTD version used: Oct 23, 2025
 Gene2Go version used: Oct 1 2025
@@ -20,7 +29,7 @@ Gene2Go version used: Oct 1 2025
 ---
 
 ### ECOTOX
-Scripts to parse and process ecotoxicity data from the [ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/).
+Scripts to parse and process ecotoxicity data from the [ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/). The ASCII Data file must be manually downloaded from the ECOTOX downloads page before running the scripts.
 
 ECOTOX version used: 11 Sept 2025
 
