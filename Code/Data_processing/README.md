@@ -18,9 +18,9 @@ The following files must be manually downloaded from the CTD downloads page befo
 - `CTD_curated_genes_diseases.tsv`
 - `CTD_pheno_term_ixns.tsv`
 
-CTD version used: Oct 23, 2025
+CTD version used: 23 Oct 2025
 
-Gene2Go version used: Oct 1 2025
+Gene2Go version used: 1 Oct 2025
 
 | File | Description |
 |---|---|

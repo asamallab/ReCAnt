@@ -51,3 +51,5 @@ Scripts for food web-based trophic transfer analysis of aquaculture chemicals.
 | `ssd_foodweb.ipynb` | Integrates SSD outputs with the filtered food web network for trophic transfer analysis |
 | `external_data/acute_averaged_hc05_all_chemicals.tsv` | Averaged HC05 values from acute SSD analysis used as input |
 | `external_data/chronic_averaged_hc05_all_chemicals.tsv` | Averaged HC05 values from chronic SSD analysis used as input |
+
+---
