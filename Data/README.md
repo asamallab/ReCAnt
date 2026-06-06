@@ -9,7 +9,7 @@ This folder contains the core ReCAnt database as flat `.tsv` files. These files 
 | File | Description |
 |---|---|
 | `MAIN_aqsoldb_data.tsv` | Aqueous solubility data sourced from AqSolDB |
-| `MAIN_biotransformation_data.tsv` | Processed biotransformation pathway data |
+| `MAIN_biotransformation_data.tsv` | Biotransformation pathway data |
 | `MAIN_chem_category.tsv` | Chemical category classifications |
 | `MAIN_chemical_structure_data.tsv` | Chemical structure information including SMILES and identifiers |
 | `MAIN_ctd_chem_dis.tsv` | CTD chemical-disease association data |
