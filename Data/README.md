@@ -12,12 +12,12 @@ This folder contains the core ReCAnt database as flat `.tsv` files. These files 
 | `MAIN_biotransformation_data.tsv` | Processed biotransformation pathway data |
 | `MAIN_chem_category.tsv` | Chemical category classifications |
 | `MAIN_chemical_structure_data.tsv` | Chemical structure information including SMILES and identifiers |
-| `MAIN_ctd_chem_dis.tsv` | CTD chemical–disease association data |
-| `MAIN_ctd_chem_genes.tsv` | CTD chemical–gene interaction data |
-| `MAIN_ctd_chem_pheno.tsv` | CTD chemical–phenotype association data |
+| `MAIN_ctd_chem_dis.tsv` | CTD chemical-disease association data |
+| `MAIN_ctd_chem_genes.tsv` | CTD chemical-gene interaction data |
+| `MAIN_ctd_chem_pheno.tsv` | CTD chemical-phenotype association data |
 | `MAIN_curated_therapeutic_effects_data.tsv` | Curated therapeutic use data for aquaculture chemicals |
 | `MAIN_curated_toxic_effects_data.tsv` | Curated toxic effects data for aquaculture chemicals |
-| `MAIN_descriptors.tsv` | Molecular descriptors for machine-learning applications |
+| `MAIN_descriptors.tsv` | Molecular descriptors |
 | `MAIN_ecosar_data.tsv` | Predicted ecotoxicity data from ECOSAR |
 | `MAIN_ecotox_bcf_data.tsv` | Bioconcentration factor (BCF) data from the ECOTOX Knowledgebase |
 | `MAIN_ecotox_toxicity_data.tsv` | Ecotoxicity data from the ECOTOX Knowledgebase |
