@@ -19,6 +19,7 @@ The following files must be manually downloaded from the CTD downloads page befo
 - `CTD_pheno_term_ixns.tsv`
 
 CTD version used: Oct 23, 2025
+
 Gene2Go version used: Oct 1 2025
 
 | File | Description |
