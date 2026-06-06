@@ -1,0 +1,494 @@
+id	pubchemid	casrn	aquaculture_predator_species	prey_species	bcf_value
+RID00105	CID:2730	CAS:2921-88-2	Acipenser baerii	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Oreochromis niloticus	Gambusia affinis	0.197
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus tshawytscha	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus tshawytscha	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Zygoptera	12.500000000000002
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Sialis lutaria	69400.76008229301
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Pimephales promelas	2321.2112802983984
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Poecilia reticulata	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Monopterus albus	Poecilia reticulata	764.897096219957
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Zygoptera	12.500000000000002
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Sialis lutaria	69400.76008229301
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Poecilia reticulata	764.897096219957
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Pimephales promelas	2321.2112802983984
+RID00105	CID:2730	CAS:2921-88-2	Oncorhynchus mykiss	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Neocaridina denticulata	11564.873929273941
+RID00105	CID:2730	CAS:2921-88-2	Rhamdia quelen	Poecilia reticulata	764.897096219957
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Sparus aurata	Mytilus galloprovincialis	4.751581291430859
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Simulium vittatum	67.79999999999997
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Sialis lutaria	69400.76008229301
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Notonecta maculata	2084.790876802755
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Mytilus edulis	354.2232854857071
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Lepomis macrochirus	480.69314218359807
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Asellus aquaticus	2956.873605623816
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Asellus aquaticus	2956.873605623816
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Salmo salar	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Salmo trutta	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Molanna angustata	31140.23492204254
+RID00105	CID:2730	CAS:2921-88-2	Pimephales promelas	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Lepomis macrochirus	480.69314218359807
+RID00105	CID:2730	CAS:2921-88-2	Carassius carassius	Notonecta maculata	2084.790876802755
+RID00105	CID:2730	CAS:2921-88-2	Carassius carassius	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Carassius carassius	Daphnia magna	5574.353505116084
+RID00105	CID:2730	CAS:2921-88-2	Carassius carassius	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Carassius auratus	Notonecta maculata	2084.790876802755
+RID00105	CID:2730	CAS:2921-88-2	Carassius auratus	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Carassius auratus	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Channa striata	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Sialis lutaria	69400.76008229301
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Mytilus edulis	354.2232854857071
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Asellus aquaticus	2956.873605623816
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Menidia beryllina	186.1674846247054
+RID00105	CID:2730	CAS:2921-88-2	Anguilla anguilla	Notonecta maculata	2084.790876802755
+RID00105	CID:2730	CAS:2921-88-2	Cyprinus carpio	Cloeon dipterum	6634.275996670621
+RID00105	CID:2730	CAS:2921-88-2	Acipenser ruthenus	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Cyprinus carpio	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Cyprinus carpio	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Gammarus pulex	22255.672567254984
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Gambusia affinis	0.197
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Micropterus salmoides	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Lepomis macrochirus	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Lepomis macrochirus	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Lates calcarifer	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Lepomis macrochirus	Carassius auratus	446.43050055948584
+RID00105	CID:2730	CAS:2921-88-2	Ictalurus punctatus	Lepomis macrochirus	480.69314218359807
+RID00105	CID:2730	CAS:2921-88-2	Ictalurus punctatus	Cyprinus carpio	418.4814226051592
+RID00105	CID:2730	CAS:2921-88-2	Homarus americanus	Mytilus edulis	354.2232854857071
+RID00105	CID:2730	CAS:2921-88-2	Gadus morhua	Mytilus edulis	354.2232854857071
+RID00105	CID:2730	CAS:2921-88-2	Gadus morhua	Gasterosteus aculeatus	20761.72045948244
+RID00105	CID:2730	CAS:2921-88-2	Danio rerio	Daphnia magna	5574.353505116084
+RID00105	CID:2730	CAS:2921-88-2	Cyprinus carpio	Trichoptera	40.20000000000001
+RID00105	CID:2730	CAS:2921-88-2	Cyprinus carpio	Notonecta maculata	2084.790876802755
+RID00105	CID:2730	CAS:2921-88-2	Ictalurus punctatus	Pimephales promelas	2321.2112802983984
+RID00111	CID:2912	CAS:52315-07-8	Oncorhynchus mykiss	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Salmo trutta	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Salmo salar	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Salmo trutta	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Oncorhynchus tshawytscha	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Oncorhynchus mykiss	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Salmo salar	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Micropterus salmoides	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Micropterus salmoides	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Ictalurus punctatus	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Gadus morhua	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Anguilla anguilla	Salmo salar	4.561352502579926
+RID00111	CID:2912	CAS:52315-07-8	Anguilla anguilla	Oncorhynchus mykiss	458.7917928853488
+RID00111	CID:2912	CAS:52315-07-8	Oncorhynchus aguabonita	Oncorhynchus mykiss	458.7917928853488
+RID00113	CID:3039	CAS:62-73-7	Salmo trutta	Mytilus edulis	1.1
+RID00113	CID:3039	CAS:62-73-7	Salmo trutta	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Salmo salar	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Oncorhynchus mykiss	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Lepomis macrochirus	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Lates calcarifer	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Micropterus salmoides	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Homarus americanus	Mytilus edulis	1.1
+RID00113	CID:3039	CAS:62-73-7	Gadus morhua	Mytilus edulis	1.1
+RID00113	CID:3039	CAS:62-73-7	Cyprinus carpio	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Channa striata	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Anguilla anguilla	Mytilus edulis	1.1
+RID00113	CID:3039	CAS:62-73-7	Anguilla anguilla	Cyprinus carpio	0.5
+RID00113	CID:3039	CAS:62-73-7	Ictalurus punctatus	Cyprinus carpio	0.5
+RID00116	CID:3120	CAS:330-54-1	Oreochromis niloticus	Gambusia affinis	289.99999999999994
+RID00116	CID:3120	CAS:330-54-1	Oncorhynchus mykiss	Pimephales promelas	35.62575252334682
+RID00116	CID:3120	CAS:330-54-1	Micropterus salmoides	Pimephales promelas	35.62575252334682
+RID00116	CID:3120	CAS:330-54-1	Ictalurus punctatus	Pimephales promelas	35.62575252334682
+RID00116	CID:3120	CAS:330-54-1	Danio rerio	Daphnia magna	259.99999999999994
+RID00116	CID:3120	CAS:330-54-1	Carassius carassius	Daphnia magna	259.99999999999994
+RID00116	CID:3120	CAS:330-54-1	Micropterus salmoides	Gambusia affinis	289.99999999999994
+RID00127	CID:3496	CAS:1071-83-6	Micropterus salmoides	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Salmo trutta	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Salmo salar	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Oncorhynchus mykiss	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Micropterus salmoides	Oreochromis mossambicus	21.089059948402515
+RID00127	CID:3496	CAS:1071-83-6	Lepomis macrochirus	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Cyprinus carpio	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Ictalurus punctatus	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Clarias gariepinus	Oreochromis mossambicus	21.089059948402515
+RID00127	CID:3496	CAS:1071-83-6	Channa striata	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Anguilla anguilla	Cyprinus carpio	18.827264687224467
+RID00127	CID:3496	CAS:1071-83-6	Lates calcarifer	Cyprinus carpio	18.827264687224467
+RID00132	CID:37123	CAS:35367-38-5	Salmo trutta	Lepomis macrochirus	159.99999999999994
+RID00132	CID:37123	CAS:35367-38-5	Salmo trutta	Ctenopharyngodon idella	110.9453026795793
+RID00132	CID:37123	CAS:35367-38-5	Salmo salar	Ctenopharyngodon idella	110.9453026795793
+RID00132	CID:37123	CAS:35367-38-5	Oreochromis niloticus	Gambusia affinis	1.2517470633177628
+RID00132	CID:37123	CAS:35367-38-5	Oncorhynchus mykiss	Ctenopharyngodon idella	110.9453026795793
+RID00132	CID:37123	CAS:35367-38-5	Micropterus salmoides	Pomoxis nigromaculatus	33.0
+RID00132	CID:37123	CAS:35367-38-5	Oreochromis niloticus	Oreochromis niloticus	86.74099376880572
+RID00132	CID:37123	CAS:35367-38-5	Micropterus salmoides	Gambusia affinis	1.2517470633177628
+RID00132	CID:37123	CAS:35367-38-5	Micropterus salmoides	Ctenopharyngodon idella	110.9453026795793
+RID00132	CID:37123	CAS:35367-38-5	Micropterus salmoides	Ameiurus nebulosus	23.0
+RID00132	CID:37123	CAS:35367-38-5	Ictalurus punctatus	Lepomis macrochirus	159.99999999999994
+RID00132	CID:37123	CAS:35367-38-5	Clarias gariepinus	Oreochromis niloticus	86.74099376880572
+RID00132	CID:37123	CAS:35367-38-5	Anguilla anguilla	Ctenopharyngodon idella	110.9453026795793
+RID00132	CID:37123	CAS:35367-38-5	Micropterus salmoides	Lepomis macrochirus	159.99999999999994
+RID00137	CID:4004	CAS:121-75-5	Micropterus salmoides	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Micropterus salmoides	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Oncorhynchus mykiss	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Oncorhynchus mykiss	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Oncorhynchus mykiss	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Salmo salar	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Salmo salar	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Salmo salar	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Salmo trutta	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Salmo trutta	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Salmo trutta	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Oreochromis niloticus	Oreochromis niloticus	14.959612446913418
+RID00137	CID:4004	CAS:121-75-5	Micropterus salmoides	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Ictalurus punctatus	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Lates calcarifer	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Lepomis macrochirus	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Anguilla anguilla	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Anguilla anguilla	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Carassius auratus	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Carassius carassius	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Anguilla anguilla	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Clarias gariepinus	Oreochromis niloticus	14.959612446913418
+RID00137	CID:4004	CAS:121-75-5	Ctenopharyngodon idella	Elodea canadensis	1.2
+RID00137	CID:4004	CAS:121-75-5	Cyprinus carpio	Cyprinus carpio	7.7581987997642115
+RID00137	CID:4004	CAS:121-75-5	Cyprinus carpio	Gammarus pulex	114.79891114466194
+RID00137	CID:4004	CAS:121-75-5	Cyprinus carpio	Pseudorasbora parva	2.0
+RID00137	CID:4004	CAS:121-75-5	Channa striata	Cyprinus carpio	7.7581987997642115
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus tshawytscha	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Pimephales promelas	2590.8455173410152
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Salmo salar	24.202134025183938
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Zygoptera	4.1
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus tshawytscha	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Pimephales promelas	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Salmo trutta	Salmo salar	24.202134025183938
+RID00139	CID:40326	CAS:52645-53-1	Salmo salar	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Salmo salar	Salmo salar	24.202134025183938
+RID00139	CID:40326	CAS:52645-53-1	Salmo salar	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Salmo trutta	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Salmo trutta	Simulium vittatum	17.899999999999995
+RID00139	CID:40326	CAS:52645-53-1	Salmo trutta	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Poecilia reticulata	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Micropterus salmoides	Zygoptera	4.1
+RID00139	CID:40326	CAS:52645-53-1	Micropterus salmoides	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Oncorhynchus aguabonita	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Acipenser baerii	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Acipenser ruthenus	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Anguilla anguilla	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Anguilla anguilla	Salmo salar	24.202134025183938
+RID00139	CID:40326	CAS:52645-53-1	Cyprinus carpio	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Anguilla anguilla	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Ictalurus punctatus	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Ictalurus punctatus	Pimephales promelas	2590.8455173410152
+RID00139	CID:40326	CAS:52645-53-1	Lepomis macrochirus	Trichoptera	30.4
+RID00139	CID:40326	CAS:52645-53-1	Micropterus salmoides	Oncorhynchus mykiss	1426.6935364395758
+RID00139	CID:40326	CAS:52645-53-1	Micropterus salmoides	Pimephales promelas	2590.8455173410152
+RID00139	CID:40326	CAS:52645-53-1	Micropterus salmoides	Salmo salar	24.202134025183938
+RID00139	CID:40326	CAS:52645-53-1	Gadus morhua	Salmo salar	24.202134025183938
+RID00141	CID:40585	CAS:52918-63-5	Oncorhynchus mykiss	Pimephales promelas	211.41514087530967
+RID00141	CID:40585	CAS:52918-63-5	Salmo trutta	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Salmo salar	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Oncorhynchus tshawytscha	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Oncorhynchus mykiss	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Ictalurus punctatus	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Micropterus salmoides	Pimephales promelas	211.41514087530967
+RID00141	CID:40585	CAS:52918-63-5	Micropterus salmoides	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Ictalurus punctatus	Pimephales promelas	211.41514087530967
+RID00141	CID:40585	CAS:52918-63-5	Anguilla anguilla	Oncorhynchus mykiss	225.6188668607475
+RID00141	CID:40585	CAS:52918-63-5	Oncorhynchus aguabonita	Oncorhynchus mykiss	225.6188668607475
+RID00168	CID:4471	CAS:50-65-7	Micropterus salmoides	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Salmo trutta	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Salmo salar	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Salmo trutta	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Oncorhynchus tshawytscha	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Oncorhynchus mykiss	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Oncorhynchus aguabonita	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Micropterus salmoides	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Carassius auratus	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Danio rerio	Daphnia magna	55.30693406919314
+RID00168	CID:4471	CAS:50-65-7	Cyprinus carpio	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Carassius carassius	Daphnia magna	55.30693406919314
+RID00168	CID:4471	CAS:50-65-7	Carassius carassius	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Anguilla anguilla	Oncorhynchus mykiss	249.9999999999999
+RID00168	CID:4471	CAS:50-65-7	Anguilla anguilla	Chironomus plumosus	78.91833782698218
+RID00168	CID:4471	CAS:50-65-7	Ictalurus punctatus	Oncorhynchus mykiss	249.9999999999999
+RID00017	CID:10569	CAS:514-10-3	Salmo trutta	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Salmo salar	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Oncorhynchus tshawytscha	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Oncorhynchus mykiss	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Micropterus salmoides	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Ictalurus punctatus	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Anguilla anguilla	Oncorhynchus mykiss	80.97689078141323
+RID00017	CID:10569	CAS:514-10-3	Oncorhynchus aguabonita	Oncorhynchus mykiss	80.97689078141323
+RID00201	CID:5281303	CAS:11141-17-6	Danio rerio	Algae	0.43954521951671827
+RID00252	CID:6129	CAS:63-25-2	Micropterus salmoides	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Salmo trutta	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Salmo trutta	Chironomus riparius	7.394870238904648
+RID00252	CID:6129	CAS:63-25-2	Salmo salar	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Oreochromis niloticus	Gambusia affinis	1.45
+RID00252	CID:6129	CAS:63-25-2	Oncorhynchus mykiss	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Micropterus salmoides	Gambusia affinis	1.45
+RID00252	CID:6129	CAS:63-25-2	Ctenopharyngodon idella	Lemna minor	3599.999999999998
+RID00252	CID:6129	CAS:63-25-2	Cyprinus carpio	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Cyprinus carpio	Chironomus riparius	7.394870238904648
+RID00252	CID:6129	CAS:63-25-2	Micropterus salmoides	Chironomus riparius	7.394870238904648
+RID00252	CID:6129	CAS:63-25-2	Carassius carassius	Chironomus riparius	7.394870238904648
+RID00252	CID:6129	CAS:63-25-2	Carassius auratus	Chironomus riparius	7.394870238904648
+RID00252	CID:6129	CAS:63-25-2	Anguilla anguilla	Pseudorasbora parva	9.000000000000002
+RID00252	CID:6129	CAS:63-25-2	Anguilla anguilla	Chironomus riparius	7.394870238904648
+RID00258	CID:6321424	CAS:70288-86-7	Salmo trutta	Mytilus edulis	749.9999999999999
+RID00258	CID:6321424	CAS:70288-86-7	Salmo trutta	Lepomis macrochirus	50.87937659929992
+RID00258	CID:6321424	CAS:70288-86-7	Micropterus salmoides	Lepomis macrochirus	50.87937659929992
+RID00258	CID:6321424	CAS:70288-86-7	Ictalurus punctatus	Lepomis macrochirus	50.87937659929992
+RID00258	CID:6321424	CAS:70288-86-7	Homarus americanus	Mytilus edulis	749.9999999999999
+RID00258	CID:6321424	CAS:70288-86-7	Gadus morhua	Mytilus edulis	749.9999999999999
+RID00258	CID:6321424	CAS:70288-86-7	Anguilla anguilla	Mytilus edulis	749.9999999999999
+RID00026	CID:11650986	CAS:155569-91-8	Ictalurus punctatus	Lepomis macrochirus	62.28034579405811
+RID00026	CID:11650986	CAS:155569-91-8	Micropterus salmoides	Lepomis macrochirus	62.28034579405811
+RID00026	CID:11650986	CAS:155569-91-8	Salmo trutta	Lepomis macrochirus	62.28034579405811
+RID00322	CID:84029	CAS:81103-11-9	Salmo trutta	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Oncorhynchus mykiss	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Micropterus salmoides	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Danio rerio	Daphnia magna	0.30303030303030304
+RID00322	CID:84029	CAS:81103-11-9	Salmo salar	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Carassius carassius	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Carassius carassius	Daphnia magna	0.30303030303030304
+RID00322	CID:84029	CAS:81103-11-9	Carassius auratus	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Anguilla anguilla	Gammarus pulex	0.2222222222222222
+RID00322	CID:84029	CAS:81103-11-9	Cyprinus carpio	Gammarus pulex	0.2222222222222222
+RID00330	CID:91590	CAS:28159-98-0	Micropterus salmoides	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Monopterus albus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Mylopharyngodon piceus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Oncorhynchus mykiss	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Oncorhynchus mykiss	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Oreochromis niloticus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Palaemon elegans	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Pandalus borealis	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Pangasianodon hypophthalmus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Pangasius pangasius	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Paracentrotus lividus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Perna canaliculus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Piaractus mesopotamicus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Pimephales promelas	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Procambarus clarkii	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Rhamdia quelen	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Salmo salar	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Salmo trutta	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Salmo trutta	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Sparus aurata	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Trichopodus pectoralis	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Micropterus salmoides	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Paracentrotus lividus	Zostera marina	299.99999999999994
+RID00330	CID:91590	CAS:28159-98-0	Magallana gigas	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Cyprinus carpio	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Lates calcarifer	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Anguilla anguilla	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Anguilla anguilla	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Carassius auratus	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Carassius auratus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Carassius carassius	Daphnia magna	1.1505265491096615
+RID00330	CID:91590	CAS:28159-98-0	Carassius carassius	Gammarus pulex	0.9948320067476141
+RID00330	CID:91590	CAS:28159-98-0	Carassius carassius	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Channa striata	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Cirrhinus cirrhosus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Lepomis macrochirus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Colossoma macropomum	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Clarias gariepinus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Cyprinus carpio	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Danio rerio	Daphnia magna	1.1505265491096615
+RID00330	CID:91590	CAS:28159-98-0	Danio rerio	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Gadus morhua	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Gambusia holbrooki	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Homarus americanus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Homarus americanus	Zostera marina	299.99999999999994
+RID00330	CID:91590	CAS:28159-98-0	Ictalurus punctatus	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Labeo rohita	Plantae	9250.000000000007
+RID00330	CID:91590	CAS:28159-98-0	Ctenopharyngodon idella	Plantae	9250.000000000007
+RID00331	CID:91688	CAS:64359-81-5	Oncorhynchus mykiss	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Salmo trutta	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Salmo salar	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Micropterus salmoides	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Anguilla anguilla	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Carassius carassius	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Carassius auratus	Gammarus pulex	1739.4838314856497
+RID00331	CID:91688	CAS:64359-81-5	Cyprinus carpio	Gammarus pulex	1739.4838314856497
+RID00036	CID:13450	CAS:886-50-0	Salmo trutta	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Oncorhynchus mykiss	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Micropterus salmoides	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Danio rerio	Daphnia magna	1.6091493722236168
+RID00036	CID:13450	CAS:886-50-0	Cyprinus carpio	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Salmo salar	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Carassius carassius	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Carassius carassius	Daphnia magna	1.6091493722236168
+RID00036	CID:13450	CAS:886-50-0	Carassius auratus	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Anguilla anguilla	Gammarus pulex	0.065359477124183
+RID00036	CID:13450	CAS:886-50-0	Ctenopharyngodon idella	Lemna minor	75.29940238806682
+RID00053	CID:15910	CAS:1897-45-6	Micropterus salmoides	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Salmo trutta	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Salmo trutta	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Salmo salar	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Salmo salar	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Oncorhynchus tshawytscha	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Oncorhynchus mykiss	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Oncorhynchus mykiss	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Oncorhynchus aguabonita	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Micropterus salmoides	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Lepomis macrochirus	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Salmo trutta	Mytilus edulis	0.10000000000000002
+RID00053	CID:15910	CAS:1897-45-6	Ictalurus punctatus	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Lates calcarifer	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Anguilla anguilla	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Anguilla anguilla	Oncorhynchus mykiss	2846.333489580705
+RID00053	CID:15910	CAS:1897-45-6	Channa striata	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Anguilla anguilla	Mytilus edulis	0.10000000000000002
+RID00053	CID:15910	CAS:1897-45-6	Danio rerio	Algae	271.00000000000006
+RID00053	CID:15910	CAS:1897-45-6	Gadus morhua	Mytilus edulis	0.10000000000000002
+RID00053	CID:15910	CAS:1897-45-6	Homarus americanus	Mytilus edulis	0.10000000000000002
+RID00053	CID:15910	CAS:1897-45-6	Ictalurus punctatus	Cyprinus carpio	22.712662771241423
+RID00053	CID:15910	CAS:1897-45-6	Cyprinus carpio	Cyprinus carpio	22.712662771241423
+RID00080	CID:2256	CAS:1912-24-9	Mylopharyngodon piceus	Radix auricularia	0.43020460248584047
+RID00080	CID:2256	CAS:1912-24-9	Oncorhynchus mykiss	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Oncorhynchus mykiss	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Oncorhynchus mykiss	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Oncorhynchus gorbuscha	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Micropterus salmoides	Lepomis macrochirus	15.0
+RID00080	CID:2256	CAS:1912-24-9	Lepomis macrochirus	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Micropterus salmoides	Gambusia affinis	8.462209611894533
+RID00080	CID:2256	CAS:1912-24-9	Micropterus salmoides	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Micropterus salmoides	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Oncorhynchus tshawytscha	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Lepomis macrochirus	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Lates calcarifer	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Ictalurus punctatus	Lepomis macrochirus	15.0
+RID00080	CID:2256	CAS:1912-24-9	Micropterus salmoides	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Oreochromis niloticus	Gambusia affinis	8.462209611894533
+RID00080	CID:2256	CAS:1912-24-9	Salmo salar	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Rhamdia quelen	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Ictalurus punctatus	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Prodiamesa olivacea	133.70564685158217
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Mytilus edulis	0.0
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Lepomis macrochirus	15.0
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Glossiphonia complanata	480.1531005835535
+RID00080	CID:2256	CAS:1912-24-9	Trichopodus pectoralis	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Salmo trutta	Ancylus fluviatilis	72.94982967089487
+RID00080	CID:2256	CAS:1912-24-9	Salmo salar	Glossiphonia complanata	480.1531005835535
+RID00080	CID:2256	CAS:1912-24-9	Salmo salar	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Salmo salar	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Salmo salar	Ancylus fluviatilis	72.94982967089487
+RID00080	CID:2256	CAS:1912-24-9	Poecilia reticulata	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Ictalurus punctatus	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Gadus morhua	Mytilus edulis	0.0
+RID00080	CID:2256	CAS:1912-24-9	Carassius carassius	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Carassius carassius	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Carassius carassius	Ancylus fluviatilis	72.94982967089487
+RID00080	CID:2256	CAS:1912-24-9	Carassius auratus	Prodiamesa olivacea	133.70564685158217
+RID00080	CID:2256	CAS:1912-24-9	Carassius auratus	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Carassius auratus	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Carassius carassius	Prodiamesa olivacea	133.70564685158217
+RID00080	CID:2256	CAS:1912-24-9	Artemia salina	Isochrysis galbana	1.0
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Prodiamesa olivacea	133.70564685158217
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Mytilus edulis	0.0
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Acipenser baerii	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Homarus americanus	Mytilus edulis	0.0
+RID00080	CID:2256	CAS:1912-24-9	Artemia franciscana	Isochrysis galbana	1.0
+RID00080	CID:2256	CAS:1912-24-9	Carassius carassius	Radix auricularia	0.43020460248584047
+RID00080	CID:2256	CAS:1912-24-9	Anguilla anguilla	Ancylus fluviatilis	72.94982967089487
+RID00080	CID:2256	CAS:1912-24-9	Channa striata	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Clarias gariepinus	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Ctenopharyngodon idella	Lemna minor	1.0544302607209874
+RID00080	CID:2256	CAS:1912-24-9	Ctenopharyngodon idella	Lolium perenne	1.9908272998147383
+RID00080	CID:2256	CAS:1912-24-9	Ctenopharyngodon idella	Ranunculus fluitans	3.3109644478910294
+RID00080	CID:2256	CAS:1912-24-9	Cyprinus carpio	Cyprinus carpio	4.183414073690778
+RID00080	CID:2256	CAS:1912-24-9	Cyprinus carpio	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Cyprinus carpio	Dytiscus marginalis	1.3
+RID00080	CID:2256	CAS:1912-24-9	Cyprinus carpio	Gerris lacustris	1.3858591138612917
+RID00080	CID:2256	CAS:1912-24-9	Cyprinus carpio	Prodiamesa olivacea	133.70564685158217
+RID00080	CID:2256	CAS:1912-24-9	Danio rerio	Algae	125.45290754472902
+RID00080	CID:2256	CAS:1912-24-9	Danio rerio	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Daphnia magna	Raphidocelis subcapitata	4.472135954999579
+RID00080	CID:2256	CAS:1912-24-9	Dicentrarchus labrax	Diptera	0.5
+RID00080	CID:2256	CAS:1912-24-9	Daphnia magna	Scenedesmus quadricauda	94.40000000000003
+RID00080	CID:2256	CAS:1912-24-9	Channa striata	Cyprinus carpio	4.183414073690778
+RID00089	CID:24007	CAS:7446-08-4	Ctenopharyngodon idella	Lemna minor	13.0
+RID00091	CID:243	CAS:65-85-0	Carassius carassius	Daphnia magna	1772.0000000000005
+RID00091	CID:243	CAS:65-85-0	Danio rerio	Daphnia magna	1772.0000000000005
+RID00091	CID:243	CAS:65-85-0	Daphnia magna	Raphidocelis subcapitata	7.599999999999998
+RID00091	CID:243	CAS:65-85-0	Micropterus salmoides	Gambusia affinis	21.0
+RID00091	CID:243	CAS:65-85-0	Oreochromis niloticus	Gambusia affinis	21.0
+RID00092	CID:24462	CAS:7758-98-7	Lepomis macrochirus	Hyalella azteca	1534.9999999999998
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Chlorella vulgaris	4014.1490066540073
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Lepomis macrochirus	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Hyalella azteca	1534.9999999999998
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Micropterus salmoides	Oreochromis mossambicus	252.85005535101286
+RID00092	CID:24462	CAS:7758-98-7	Oncorhynchus aguabonita	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Oncorhynchus mykiss	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Oncorhynchus mykiss	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Salmo trutta	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Oncorhynchus tshawytscha	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Oreochromis niloticus	Oreochromis niloticus	326.24740197054183
+RID00092	CID:24462	CAS:7758-98-7	Palaemon elegans	Fucus vesiculosus	1520.526224699857
+RID00092	CID:24462	CAS:7758-98-7	Palaemon elegans	Hediste diversicolor	73.17758330797238
+RID00092	CID:24462	CAS:7758-98-7	Paracentrotus lividus	Fucus vesiculosus	1520.526224699857
+RID00092	CID:24462	CAS:7758-98-7	Salmo salar	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Salmo salar	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Salmo trutta	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Salmo trutta	Hediste diversicolor	73.17758330797238
+RID00092	CID:24462	CAS:7758-98-7	Lates calcarifer	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Oncorhynchus mykiss	Pteronarcys californica	191.6612921261028
+RID00092	CID:24462	CAS:7758-98-7	Lates calcarifer	Chanos chanos	77.39555656329281
+RID00092	CID:24462	CAS:7758-98-7	Carassius auratus	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Ictalurus punctatus	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Salmo trutta	Idotea balthica	301.826076779819
+RID00092	CID:24462	CAS:7758-98-7	Anguilla anguilla	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Anguilla anguilla	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Anguilla anguilla	Hediste diversicolor	73.17758330797238
+RID00092	CID:24462	CAS:7758-98-7	Anguilla anguilla	Oncorhynchus mykiss	5.1224294555224335
+RID00092	CID:24462	CAS:7758-98-7	Carassius carassius	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Channa striata	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Clarias gariepinus	Chanos chanos	77.39555656329281
+RID00092	CID:24462	CAS:7758-98-7	Clarias gariepinus	Oreochromis mossambicus	252.85005535101286
+RID00092	CID:24462	CAS:7758-98-7	Clarias gariepinus	Oreochromis niloticus	326.24740197054183
+RID00092	CID:24462	CAS:7758-98-7	Ictalurus punctatus	Rangia cuneata	0.0
+RID00092	CID:24462	CAS:7758-98-7	Ctenopharyngodon idella	Fontinalis antipyretica	33139.043010768204
+RID00092	CID:24462	CAS:7758-98-7	Cyprinus carpio	Chironomus riparius	5.037676556170542
+RID00092	CID:24462	CAS:7758-98-7	Cyprinus carpio	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Daphnia magna	Chlorella vulgaris	4014.1490066540073
+RID00092	CID:24462	CAS:7758-98-7	Dicentrarchus	Hediste diversicolor	73.17758330797238
+RID00092	CID:24462	CAS:7758-98-7	Epinephelus tauvina	Chanos chanos	77.39555656329281
+RID00092	CID:24462	CAS:7758-98-7	Gadus morhua	Fucus vesiculosus	1520.526224699857
+RID00092	CID:24462	CAS:7758-98-7	Gadus morhua	Hediste diversicolor	73.17758330797238
+RID00092	CID:24462	CAS:7758-98-7	Gadus morhua	Idotea balthica	301.826076779819
+RID00092	CID:24462	CAS:7758-98-7	Ictalurus punctatus	Cyprinus carpio	3.164560674719071
+RID00092	CID:24462	CAS:7758-98-7	Ictalurus punctatus	Hyalella azteca	1534.9999999999998
+RID00092	CID:24462	CAS:7758-98-7	Ctenopharyngodon idella	Lemna minor	93.72722603569424
+RID00092	CID:24462	CAS:7758-98-7	Salmo trutta	Oncorhynchus mykiss	5.1224294555224335

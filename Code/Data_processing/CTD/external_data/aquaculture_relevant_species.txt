@@ -1,0 +1,78 @@
+Artemia salina
+Perna canaliculus
+Seriola lalandi
+Salmo salar
+Ctenopharyngodon idella
+Arbacia lixula
+Oreochromis spp.
+Cyprinus carpio
+Chimaera monstrosa
+Hybrid grouper
+Sparus aurata
+Pangasianodon hypophthalmus
+Micropterus salmoides
+Mylopharyngodon piceus
+Hybrid grouper (Mycteroperca tigris � Epinephelus lanceolatus)
+Sturgeon
+Gambusia holbrooki
+Sebastes schlegelii
+Crassostrea gigas
+Lates calcarifer
+Palaemon elegans
+Larimichthys crocea
+Paralichthys olivaceus
+Hybrid Oreochromis
+Labeo rohita
+Rhamdia quelen
+Acipenser baerii
+Hybrid striped bass
+Hybrid grouper (Epinephelus fuscogut tatus � Epinephelus lanceolatus)
+Piaractus mesopotamicus
+Homarus americanus
+Tilapia sp.
+Channa striata
+Pandalus borealis
+Oreochromis sp.
+Oncorhynchus tshawytscha
+Rana catesbeiana
+Carassius auratus
+Macrobrachium nipponense
+Hybrid grouper (Epinephelus fuscogut tatus � Epinephelus lanceolatus)
+Astacus leptodactylus
+Macrobrachium rosenbergii
+Trichogaster pectoralis
+Hybrid grouper (Epinephelus fuscogut tatus � Epinephelus lanceolatus)
+Colossoma macropomum
+Monopterus albus
+Oreochromis niloticus
+Anguilla japonica
+Pimephales promelas
+Oncorhynchus gorbuscha
+Salmo trutta
+Acipenser ruthenus
+Anguilla anguilla
+Daphnia magna
+Danio rerio
+Gadus morhua
+Trachinotus ovatus
+Ictalurus punctatus
+Lithobates catesbeianus
+Hybrid grouper (Epinephelus fuscogut tatus � Epinephelus lanceolatus)
+Scylla sp.
+Epinephelus coioides
+Artemia franciscana
+Penaeus monodon
+Cirrhinus mrigala
+Oncorhynchus mykiss
+Dicentrarchus labrax
+Pandalus montagui
+Penaeus vannamei
+Lepomis macrochirus
+Channa striatus
+Clarias gariepinus
+Goniopora columna
+Sarcophyton trocheliophorum
+Procambarus clarkii
+Poecilia reticulata
+Paracentrotus lividus
+Litopenaeus vannamei

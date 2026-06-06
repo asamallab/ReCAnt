@@ -1,0 +1,51 @@
+id	chemical_name	pubchemid	casrn	assessment	source	link
+RID00215	Nerolidol	5284507	7212-44-4	not PBT|not vPvB	ECHA REACH	https://echa.europa.eu/pbt
+RID00167	Azithromycin	447043	83905-01-5	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00167	Azithromycin	447043	83905-01-5	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00184	Sulfadiazine	5215	68-35-9	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00184	Sulfadiazine	5215	68-35-9	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00031	Erythromycin	12560	114-07-8	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00031	Erythromycin	12560	114-07-8	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00080	Atrazine	2256	1912-24-9	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00080	Atrazine	2256	1912-24-9	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00239	Triclosan	5564	3380-34-5	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00239	Triclosan	5564	3380-34-5	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00116	Diuron	3120	330-54-1	vPvM	UBAPMT	https://zenodo.org/records/6482414
+RID00116	Diuron	3120	330-54-1	PMT	UBAPMT	https://zenodo.org/records/6482414
+RID00319	Tetrachloro-1,4-benzoquinone	8371	118-75-2	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00318	Behenic Acid	8215	112-85-6	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00030	(−)-Menthol	1254	89-78-1	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00081	Azelaic acid	2266	123-99-9	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00276	Linalool	6549	78-70-6	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00053	Chlorothalonil	15910	1897-45-6	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00097	Camphor	2537	76-22-2	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00270	(−)-Borneol	64685	507-70-0	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00327	Tartaric acid	875	87-69-4	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00215	Nerolidol	5284507	7212-44-4	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00324	1,4-naphthoquinone	8530	130-15-4	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00137	Malathion	4004	121-75-5	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00093	Bronopol	2450	52-51-7	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00297	Thymol	6989	89-83-8	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00313	Citronellal	7794	106-23-0	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00119	Eugenol	3314	97-53-0	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00316	Indole	798	120-72-9	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00126	Glutaraldehyde	3485	111-30-8	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00303	Azamethiphos	71482	35575-96-3	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00107	1,8-Cineole	2758	470-82-6	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00091	Benzoic acid	243	65-85-0	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00264	Citral	638011	5392-40-5	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00127	Glyphosate	3496	1071-83-6	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00294	Trichloroisocyanuric acid	6909	87-90-1	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00118	Coumarin	323	91-64-5	PMT	EAWAGPMT	https://zenodo.org/records/5500132
+RID00076	Amantadine	2130	768-94-5	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00116	Diuron	3120	330-54-1	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00031	Erythromycin	12560	114-07-8	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00080	Atrazine	2256	1912-24-9	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00239	Triclosan	5564	3380-34-5	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00223	Sulfapyridine	5336	144-83-2	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00009	Indigo	10215	482-89-3	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00319	Tetrachloro-1,4-benzoquinone	8371	118-75-2	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00221	Furazolidone	5323714	67-45-8	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00225	Thiabendazole	5430	148-79-8	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00123	Flumequine	3374	42835-25-6	PMT	UFZHSFPMT	https://zenodo.org/records/5535288
+RID00093	Bronopol	2450	52-51-7	PMT	UFZHSFPMT	https://zenodo.org/records/5535288

@@ -1,0 +1,56 @@
+id	chemical_name	pubchemid	casrn	latin_name	ecotox_species_group	ncbi_taxid	bcf_value	bcf_unit
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Carassius auratus	Fish	7957	446.43050055948544	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Cyprinus carpio	Fish	7962	418.4814226051592	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Daphnia magna	Crustaceans	35525	5574.353505116084	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Lepomis macrochirus	Fish	13106	480.69314218359807	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Pimephales promelas	Fish	90988	2321.2112802983984	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Poecilia reticulata	Fish	8081	764.897096219957	L/kg
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Tilapia sp.	Fish	30879	173.85814358251187	L/kg
+RID00111	Cypermethrin	CID:2912	CAS:52315-07-8	Oncorhynchus mykiss	Fish	8022	458.7917928853488	L/kg
+RID00111	Cypermethrin	CID:2912	CAS:52315-07-8	Salmo salar	Fish	8030	4.561352502579926	L/kg
+RID00113	Dichlorvos	CID:3039	CAS:62-73-7	Cyprinus carpio	Fish	7962	0.5	L/kg
+RID00113	Dichlorvos	CID:3039	CAS:62-73-7	Danio rerio	Fish	7955	1.2105508350537308	L/kg
+RID00116	Diuron	CID:3120	CAS:330-54-1	Crassostrea gigas	Molluscs	29159	16.700000000000003	L/kg
+RID00116	Diuron	CID:3120	CAS:330-54-1	Daphnia magna	Crustaceans	35525	259.99999999999994	L/kg
+RID00116	Diuron	CID:3120	CAS:330-54-1	Pimephales promelas	Fish	90988	35.62575252334683	L/kg
+RID00127	Glyphosate	CID:3496	CAS:1071-83-6	Cyprinus carpio	Fish	7962	18.82726468722446	L/kg
+RID00132	Diflubenzuron	CID:37123	CAS:35367-38-5	Ctenopharyngodon idella	Fish	7959	106.97878527456506	L/kg
+RID00132	Diflubenzuron	CID:37123	CAS:35367-38-5	Lepomis macrochirus	Fish	13106	159.99999999999994	L/kg
+RID00132	Diflubenzuron	CID:37123	CAS:35367-38-5	Oreochromis niloticus	Fish	8128	86.74099376880572	L/kg
+RID00137	Malathion	CID:4004	CAS:121-75-5	Cyprinus carpio	Fish	7962	8.011450886784155	L/kg
+RID00137	Malathion	CID:4004	CAS:121-75-5	Oreochromis niloticus	Fish	8128	14.959612446913424	L/kg
+RID00139	Permethrin	CID:40326	CAS:52645-53-1	Danio rerio	Fish	7955	248.48935590885986	L/kg
+RID00139	Permethrin	CID:40326	CAS:52645-53-1	Oncorhynchus mykiss	Fish	8022	1426.693536439577	L/kg
+RID00139	Permethrin	CID:40326	CAS:52645-53-1	Pimephales promelas	Fish	90988	2590.8455173410152	L/kg
+RID00139	Permethrin	CID:40326	CAS:52645-53-1	Salmo salar	Fish	8030	24.20213402518395	L/kg
+RID00141	Deltamethrin	CID:40585	CAS:52918-63-5	Oncorhynchus mykiss	Fish	8022	225.6188668607475	L/kg
+RID00141	Deltamethrin	CID:40585	CAS:52918-63-5	Pimephales promelas	Fish	90988	211.41514087530987	L/kg
+RID00141	Deltametrin	CID:40585	CAS:52918-63-5	Oncorhynchus mykiss	Fish	8022	225.6188668607475	L/kg
+RID00141	Deltametrin	CID:40585	CAS:52918-63-5	Pimephales promelas	Fish	90988	211.41514087530987	L/kg
+RID00168	Niclosamide	CID:4471	CAS:50-65-7	Daphnia magna	Crustaceans	35525	55.30693406919314	L/kg
+RID00168	Niclosamide	CID:4471	CAS:50-65-7	Oncorhynchus mykiss	Fish	8022	249.9999999999999	L/kg
+RID00017	Abietic acid	CID:10569	CAS:514-10-3	Oncorhynchus mykiss	Fish	8022	80.97689078141323	L/kg
+RID00230	Oxytetracycline	CID:54675779	CAS:79-57-2	Crassostrea gigas	Molluscs	29159	0.63	L/kg
+RID00239	Triclosan	CID:5564	CAS:3380-34-5	Danio rerio	Fish	7955	4051.6631892716937	L/kg
+RID00244	Metriphonate	CID:5853	CAS:52-68-6	Piaractus mesopotamicus	Fish	42528	0.41	L/kg
+RID00244	Trichlorfon	CID:5853	CAS:52-68-6	Piaractus mesopotamicus	Fish	42528	0.41	L/kg
+RID00252	Carbaryl	CID:6129	CAS:63-25-2	Ictalurus punctatus	Fish	7998	139.99999999999994	L/kg
+RID00258	Ivermectin	CID:6321424	CAS:70288-86-7	Lepomis macrochirus	Fish	13106	50.87937659929992	L/kg
+RID00026	Emamectin benzoate	CID:11650986	CAS:155569-91-8	Lepomis macrochirus	Fish	13106	62.280345794058164	L/kg
+RID00322	Clarithromycin	CID:84029	CAS:81103-11-9	Daphnia magna	Crustaceans	35525	0.30303030303030304	L/kg
+RID00330	Irgarol 1051	CID:91590	CAS:28159-98-0	Daphnia magna	Crustaceans	35525	1.1505265491096615	L/kg
+RID00036	Terbutryn	CID:13450	CAS:886-50-0	Daphnia magna	Crustaceans	35525	1.6091493722236168	L/kg
+RID00053	Chlorothalonil	CID:15910	CAS:1897-45-6	Cyprinus carpio	Fish	7962	22.712662771241423	L/kg
+RID00053	Chlorothalonil	CID:15910	CAS:1897-45-6	Oncorhynchus mykiss	Fish	8022	2846.3334895807	L/kg
+RID00080	Atrazine	CID:2256	CAS:1912-24-9	Cyprinus carpio	Fish	7962	4.183414073690778	L/kg
+RID00080	Atrazine	CID:2256	CAS:1912-24-9	Danio rerio	Fish	7955	5.803009260803008	L/kg
+RID00080	Atrazine	CID:2256	CAS:1912-24-9	Lepomis macrochirus	Fish	13106	15.0	L/kg
+RID00091	Benzoic acid	CID:243	CAS:65-85-0	Daphnia magna	Crustaceans	35525	1772.0000000000005	L/kg
+RID00092	Copper sulfate	CID:24462	CAS:7758-98-7	Cyprinus carpio	Fish	7962	3.047107158821966	L/kg
+RID00092	Copper sulfate	CID:24462	CAS:7758-98-7	Oncorhynchus mykiss	Fish	8022	5.1224294555224335	L/kg
+RID00092	Copper sulfate	CID:24462	CAS:7758-98-7	Oreochromis niloticus	Fish	8128	326.24740197054183	L/kg
+RID00092	Copper sulfate	CID:24462	CAS:7758-98-7	Sebastes schlegelii	Fish	214486	699.9999999999998	L/kg
+RID00092	Copper sulphate	CID:24462	CAS:7758-98-7	Cyprinus carpio	Fish	7962	3.047107158821966	L/kg
+RID00092	Copper sulphate	CID:24462	CAS:7758-98-7	Oncorhynchus mykiss	Fish	8022	5.1224294555224335	L/kg
+RID00092	Copper sulphate	CID:24462	CAS:7758-98-7	Oreochromis niloticus	Fish	8128	326.24740197054183	L/kg
+RID00092	Copper sulphate	CID:24462	CAS:7758-98-7	Sebastes schlegelii	Fish	214486	699.9999999999998	L/kg

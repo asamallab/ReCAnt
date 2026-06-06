@@ -1,0 +1,928 @@
+id	pubchemid	casrn	chemical_name	substance_type	pmid	experiment_type	cell_tissue_microbe_strain	test_organism	test_organism_lifestage	administration_method	unit	administered_dose_range	significant_dose_range	trend	measurement	effect
+RID00101	CID:2703	CAS:34316-15-9	Chelerythrine	Compound	21400114	In vivo		Ctenopharyngodon idella			mg/L	3.59	3.59	Decreased	Lethal body concentration	Mortality
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	1	1	Altered	Behavioral changes, general	Behavior
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	1	1	Decreased	Hepatosomatic index (HIS)	Physiology
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.03-1.0	0.03-1.0	Decreased	Respiratory rate	Physiology
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.05-1.0	0.05-1.0	Increased	Catalase activity	Enzyme(s)
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.05-1.0	0.05-1.0	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.03-1.0	0.03-1.0	Increased	Glutathione reductase (GR) activity	Enzyme(s)
+RID00105	CID:2730	CAS:2921-88-2	Chlorpyrifos	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.03-1.0	0.03-1.0	Increased	Lesions	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Changed	Glutathione S-transferase activity	Enzyme(s)
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Decreased	Catalase activity	Enzyme(s)
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Decreased	Chloride	Biochemistry
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Decreased	Potassium content	Biochemistry
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Decreased	Sodium content	Biochemistry
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.5	1.5	Increased	Catalase activity	Enzyme(s)
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Cytoplasmic vacuoles	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Epithelial lifting in gills	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Fatty infiltration in liver	Accumulation
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Fragmented glomerulus in kidney	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Hydropic swelling in liver	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Hypertrophy in kidney	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Lamellar fusion in gills	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Lipid peroxidation	Physiology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Loosening of primary gill bar	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Necrosis in gills	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Necrosis in kidney	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Nuclei degeneration in liver	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Vacuolization in kidney	Histology
+RID00109	CID:2764	CAS:85721-33-1	Ciprofloxacin	Compound	33382204	In vivo		Cirrhinus mrigala	Fingerling		µg/L	1.0-1.5	1.0-1.5	Increased	Vacuolization in liver	Histology
+RID00011	CID:10281	CAS:490-91-5	Thymoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	2.796	2.796	Decreased	Lethal body concentration	Mortality
+RID00110	CID:27944	CAS:16595-80-5	Levamisole hydrochloride	Compound	37889686	In vivo		Sebastes schlegelii		Immersion	mg/L	200	200	Decreased	Survival	Mortality
+RID00110	CID:27944	CAS:16595-80-5	Levamisole hydrochloride	Compound	37889686	In vivo		Sebastes schlegelii		Injected	mg/L	100.0-200.0	100.0-200.0	Decreased	Survival	Mortality
+RID00110	CID:27944	CAS:16595-80-5	Levamisole hydrochloride	Compound	37889686	In vivo		Sebastes schlegelii		Oral	mg/L	100.0-200.0	100.0-200.0	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID00110	CID:27944	CAS:16595-80-5	Levamisole hydrochloride	Compound	37889686	In vivo		Sebastes schlegelii		Oral	mg/L	100.0-200.0	100.0-200.0	Increased	Aspartate aminotransferase	Enzyme(s)
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	26401637	In vivo		Daphnia magna			µg/L	1.18	1.18	Decreased	Acute toxic effect concentration	Physiology
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	μg/kg	10.0-97.0	10.0-97.0	Decreased	Lethal body concentration	Mortality
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	μg/kg	3.0-10.0	3.0-10.0	Decreased	Subchronic/Chronic toxic concentration	Mortality
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	1.0-5.1	1.0-5.1	Decreased	Lethal body concentration	Mortality
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	3	3	Decreased	Smell/Sniff	Behavior
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	0.05-1.0	0.3-1.0	Decreased	Subchronic/Chronic toxic concentration	Mortality
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	2.0-3.0	2.0-3.0	Decreased	Swimming	Behavior
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0006	0.0006	Altered	Behavioral changes, general	Behavior
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0006	0.0006	Decreased	Hepatosomatic index (HIS)	Physiology
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0002-0.0006	0.0002-0.0006	Decreased	Respiratory rate	Physiology
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0003-0.0006	0.0003-0.0006	Increased	Catalase activity	Enzyme(s)
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0003-0.0006	0.0003-0.0006	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0002-0.0006	0.0002-0.0006	Increased	Glutathione reductase (GR) activity	Enzyme(s)
+RID00111	CID:2912	CAS:52315-07-8	Cypermethrin	Compound	36030007	In vivo		Cyprinus carpio	Juvenile		µg/L	0.0002-0.0006	0.0002-0.0006	Increased	Lesions	Histology
+RID00112	CID:30231	CAS:20702-77-6	Neohesperidin dihydrochalcone	Compound	38522112	In vivo		Carassius auratus			mg/L	25.483	25.483	Decreased	Lethal body concentration	Mortality
+RID00113	CID:3039	CAS:62-73-7	Dichlorvos	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mg/L	0.17	0.17	Decreased	Glutathione, total	Biochemistry
+RID00113	CID:3039	CAS:62-73-7	Dichlorvos	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mg/L	0.17	0.17	Decreased	Total glutathione Oxidized glutathione ratio	Biochemistry
+RID00113	CID:3039	CAS:62-73-7	Dichlorvos	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mg/L	0.17	0.17	Increase	Glutathione disulfide (oxidized glutathione)	Biochemistry
+RID00113	CID:3039	CAS:62-73-7	Dichlorvos	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mg/L	0.17	0.17	Inhibited	Acetylcholinesterase (AChE) activity	Enzyme(s)
+RID00113	CID:3039	CAS:62-73-7	Dichlorvos	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mg/L	0.17	0.17	Inhibited	Glutathione reductase (GR) activity	Enzyme(s)
+RID00116	CID:3120	CAS:330-54-1	Diuron	Compound	34494197	In vivo		Crassostrea gigas	Embryos		µg/L	1.0-100.0	30.0-100.0	Increased	Abnormal shell	Development
+RID00117	CID:3220	CAS:518-82-1	Emodin	Compound	29604998	In vivo		Ctenopharyngodon idella			mg/L	3.15	3.15	Decreased	Lethal body concentration	Mortality
+RID00118	CID:323	CAS:91-64-5	Coumarin	Compound	34451443	In vitro	gilthead sea bream Sparus aurata fibroblast; SAF-1	Sparus aurata			μM	1.0-10.0	10	Decreased	Cytotoxicity	Cell(s)
+RID00119	CID:3314	CAS:97-53-0	Eugenol	Compound	38964434	In vitro	Grouper spleen (GS) cell line				μM	50.0-400.0	200.0-400.0	Decreased	Cell Viability	Cell(s)
+RID00123	CID:3374	CAS:42835-25-6	Flumequine	Compound	22562751	In vivo		Arbacia lixula	Larva		mg/l	75.4	75.4	Irregular	Acute toxic effect concentration	Physiology
+RID00123	CID:3374	CAS:42835-25-6	Flumequine	Compound	22562751	In vivo		Paracentrotus lividus	Larva		mg/l	31.01	31.01	Irregular	Acute toxic effect concentration	Physiology
+RID00124	CID:34474	CAS:29096-93-3	2,5-dibromo-6-isopropyl-3-methyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.3384	0.3384	Irregular	Lethal body concentration	Mortality
+RID00126	CID:3485	CAS:111-30-8	Glutaraldehyde	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	44.4	44.4	Irregular	Lethal body concentration	Mortality
+RID00128	CID:35802	CAS:31430-15-6	Flubendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	1	1	Irregular	Lethal body concentration	Mortality
+RID00130	CID:3641960	CAS:127-65-1	Chloramine-T	Compound	24819440	In vivo		Astacus leptodactylus			mg/L	2.0-50.0	10.0-50.0	Irregular	Heart rate	Physiology
+RID00131	CID:3686	CAS:58186-27-9	Idebenone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	2.523	2.523	Decreased	Lethal body concentration	Mortality
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	3.0-10.0	3.0-10.0	Decreased	Carnitine palmitoyltransferase 1a, liver mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	10	10	Decreased	Cytochrome P450, family 4, subfamily F, Polypeptide 2 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	3.0-50.0	3.0-50.0	Decreased	ELOVL fatty acid elongase 5 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	3.0-10.0	3.0-10.0	Decreased	Mitogen-activated protein kinase 1 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	3.0-10.0	3.0-10.0	Decreased	Prostaglandin G/H synthase 2 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Administered a single dose of diflubenzuron dissolved in propylene glycol−saline (50%:50%) into the caudal vein using a syringe	mg/kg	10.0-50.0	10	Increased	Cytochrome P450, CYP3A mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	Catalase mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	Glutathione S-transferase mu mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	Glutathione S-transferase pi mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	Glutathione S-transferase theta-1 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	NGT2 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	UDP glucuronosyltransferase 1 family a, b mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	p53 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Decreased	slc6a9a mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Increased	Apoptosis regulator Bcl-2 mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	23836768	In vivo		Gadus morhua	Juvenile	Orally medicated with feed pellets containing diflubenzuron for 14 days	mg/kg/day	3	3	Increased	Carnitine palmitoyltransferase 1a, liver mRNA	Genetics
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	28876214	In vivo		Pandalus borealis	Adult	Medicated feed (1 g) was added directly to each tank 4 times	g/2 weeks	4	4	Decreased	Molting	Development
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	28876214	In vivo		Pandalus borealis	Adult	Medicated feed (1 g) was added directly to each tank 4 times	g/2 weeks	4	4	Decreased	Survival	Mortality
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	28876214	In vivo		Pandalus borealis	Adult	Medicated feed (1 g) was added directly to each tank 7 times	g/2 weeks	7	7	Decreased	Molting	Development
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	28876214	In vivo		Pandalus borealis	Adult	Medicated feed (1 g) was added directly to each tank 7 times	g/2 weeks	7	7	Decreased	Survival	Mortality
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	29524742	In vivo		Pandalus borealis	Larva	Medicated fish feed pellet	g/kg	0.6	0.6	Decreased	Maturity	Development
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	29524742	In vivo		Pandalus borealis	Larva	Medicated fish feed pellet	g/kg	0.6	0.6	Decreased	Survival	Mortality
+RID00132	CID:37123	CAS:35367-38-5	Diflubenzuron	Compound	29524742	In vivo		Pandalus borealis	Larva	Medicated fish feed pellet	g/kg	0.6	0.6	Decreased	Swimming	Behavior
+RID00133	CID:37542	CAS:36791-04-5	Ribavirin	Compound	34959571	In vitro	E-11 cells				μg/mL	1000	1000	Decreased	Cell Viability	Cell(s)
+RID00133	CID:37542	CAS:36791-04-5	Ribavirin	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Increased	Lethal body concentration	Mortality
+RID00133	CID:37542	CAS:36791-04-5	Ribavirin	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Increased	Lethal body concentration	Mortality
+RID00135	CID:3806	CAS:481-39-0	Juglone	Compound	38522112	In vivo		Carassius auratus			mg/L	1.583	1.583	Increased	Lethal body concentration	Mortality
+RID00137	CID:4004	CAS:121-75-5	Malathion	Compound	26401637	In vivo		Daphnia magna			µg/L	1.42	1.42	Increased	Acute toxic effect concentration	Physiology
+RID00138	CID:4030	CAS:31431-39-7	Mebendazole	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.3662	0.3662	Increased	Lethal body concentration	Mortality
+RID00138	CID:4030	CAS:31431-39-7	Mebendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	1	1	Increased	Lethal body concentration	Mortality
+RID00139	CID:40326	CAS:52645-53-1	Permethrin	Compound	37215181	In vivo		Homarus americanus	Post-larval stage IV	Sediment treatment	μg/kg	100	100	Decreased	Size	Growth
+RID00139	CID:40326	CAS:52645-53-1	Permethrin	Compound	37215181	In vivo		Homarus americanus	Post-larval stage IV	Sediment treatment	μg/kg	10.0-100.0	10.0-100.0	Decreased	Specific growth rate	Growth
+RID00139	CID:40326	CAS:52645-53-1	Permethrin	Compound	37215181	In vivo		Homarus americanus	Post-larval stage IV	Sediment treatment	μg/kg	3.0-100.0	10.0-100.0	Increased	Intermolt period	Development
+RID00140	CID:4055	CAS:58-27-5	Menadione	Compound	38522112	In vivo		Carassius auratus			mg/L	1.194	1.194	Decreased	Lethal body concentration	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	26401637	In vivo		Daphnia magna			µg/L	0.0472	0.0472	Disturbed	Acute toxic effect concentration	Physiology
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	2	2	Decreased	Maturity	Development
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	2	2	Decreased	Swimming	Behavior
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	2	2	Increased	Survival	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	2	2	Increased	Weak larvae	Physiology
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34555744	In vivo		Pandalus borealis	Adult		ng/l	1	1	Decreased	Survival	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34555744	In vivo		Pandalus borealis	Adult		ng/l	0.2-1.0	0.2-1.0	Disturbed	Swimming	Behavior
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	ng/kg	300.0-1035.0	300.0-1035.0	Disturbed	Lethal body concentration	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	ng/kg	100.0-300.0	100.0-300.0	Disturbed	Subchronic/Chronic toxic concentration	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	ng/L	10.0-500.0	500	Decreased	Smell/Sniff	Behavior
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	ng/L	30.0-100.0	30.0-100.0	Decreased	Subchronic/Chronic toxic concentration	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	ng/L	200.0-500.0	200.0-500.0	Decreased	Swimming	Behavior
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	ng/L	100	100	Disturbed	Lethal body concentration	Mortality
+RID00141	CID:40585	CAS:52918-63-5	Deltamethrin	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	ng/L	980	980	Increased	Lethal body concentration	Mortality
+RID00142	CID:40854	CAS:53716-50-0	Oxfendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	158.8	158.8	Decreased	Lethal body concentration	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	10.0-240.0	240	Decreased	Survival	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	220.0-240.0	220.0-240.0	Increase	Hemorrhage	Histology
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	140.0-180.0	140.0-180.0	Increase	Hyperplasia	Histology
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	160.0-180.0	160.0-180.0	Increase	Hypertrophy	Histology
+RID00143	CID:410087	CAS:25655-41-8	Betadine	Compound	34816339	In vivo		Carassius auratus	Fingerling		mg/L	180.0-240.0	180.0-240.0	Increase	Necrosis	Histology
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mL/m³	0.75	0.75	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mL/m³	0.75	0.75	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mL/m³	0.75	0.75	Decreased	Survival	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mL/m³	0.75	0.75	Decreased	Total hematocyte count	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mL/m³	0.75	0.75	Increased	Hemocyte Apoptosis	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mL/m³	0.75	0.75	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mL/m³	0.75	0.75	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mL/m³	0.75	0.75	Decreased	Survival	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mL/m³	0.75	0.75	Decreased	Total hematocyte count	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mL/m³	0.75	0.75	Increased	Hemocyte Apoptosis	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mL/m³	0.75	0.75	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mL/m³	0.75	0.75	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mL/m³	0.75	0.75	Decreased	Survival	Mortality
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mL/m³	0.75	0.75	Decreased	Total hematocyte count	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mL/m³	0.75	0.75	Increased	Hemocyte Apoptosis	Biochemistry
+RID00143	CID:410087	CAS:25655-41-8	Povidone iodine	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	37.9	37.9	Increased	Lethal body concentration	Mortality
+RID00145	CID:42611257	CAS:918504-65-1	Vemurafenib	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00016	CID:10494	CAS:508-02-1	Oleanolic acid	Compound	39168292	In vivo		Epinephelus coioides	Juvenile	Intraperitoneally injected	mg/kg	200.0-300.0	200.0-300.0	Decreased	Survival	Mortality
+RID00167	CID:447043	CAS:83905-01-5	Azithromycin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	3.13-100.0	12.5-100.0	Irregular	Heart rate	Physiology
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Decreased	Acetyl-CoA carboxylase 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Decreased	Acyl-coenzyme A oxidase 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Adenosine triphosphate	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Calcium Magnesium adenosine triphosphatase	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Catalase activity	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Cholesterol	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Claudin 3 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Claudin 4 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Claudin 8 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	FAS mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Glucose	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Glucose-6-phosphatase mRNA	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Glycerol-3-phosphate acyltransferase 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Glycogen	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Kelch-like ECH-associated protein 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Decreased	Kelch-like ECH-associated protein 1a mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Kelch-like ECH-associated protein 1b mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Occludin mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Sodium potassium ATPase	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Sterol regulatory element binding protein 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	Tight junction protein ZO-2 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Decreased	Triglycerides	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Decreased	Weight	Growth
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Decreased	ZO3 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Acetyl-CoA synthetase	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Acyl-coenzyme A oxidase 1 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Carnitine palmitoyltransferase 1a, liver mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Catalase activity	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Fat/cd36 mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Glucokinase mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Glucose-6-phosphatase mRNA	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Lactate dehydrogenase	Enzyme(s)
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Lactic acid	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Malondialdehyde	Biochemistry
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	50	50	Increased	Nuclear Factor erythroid 2-related factor mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10.0-50.0	10.0-50.0	Increased	Pyruvate kinase mRNA	Genetics
+RID00168	CID:4471	CAS:50-65-7	Niclosamide	Compound	38137017	In vivo		Mylopharyngodon piceus			µg/L	10	10	Increased	Solute carrier family 27 (fatty acid transporter), member 1 mRNA	Genetics
+RID00169	CID:4493	CAS:63612-50-0	Nilutamide	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mg/m³	3	3	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mg/m³	3	3	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mg/m³	3	3	Decreased	Survival	Mortality
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mg/m³	3	3	Decreased	Total hematocyte count	Biochemistry
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	mg/m³	3	3	Increased	Hemocyte Apoptosis	Biochemistry
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mg/m³	3	3	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mg/m³	3	3	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mg/m³	3	3	Decreased	Survival	Mortality
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mg/m³	3	3	Decreased	Total hematocyte count	Biochemistry
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	mg/m³	3	3	Increased	Hemocyte Apoptosis	Biochemistry
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mg/m³	3	3	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mg/m³	3	3	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mg/m³	3	3	Decreased	Survival	Mortality
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mg/m³	3	3	Decreased	Total hematocyte count	Biochemistry
+RID00170	CID:4539	CAS:70458-96-7	Norfloxacin	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	mg/m³	3	3	Increased	Hemocyte Apoptosis	Biochemistry
+RID00172	CID:4622	CAS:20559-55-1	Oxibendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	6.872	6.872	Changed	Lethal body concentration	Mortality
+RID00174	CID:4650	CAS:106-51-4	1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.2975	0.2975	Changed	Lethal body concentration	Mortality
+RID00175	CID:479503	CAS:517-89-5	Shikonin	Compound	38522112	In vivo		Carassius auratus			mg/L	1.29	1.29	Changed	Lethal body concentration	Mortality
+RID00176	CID:4891	CAS:55268-74-1	Praziquantel	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	14.29	14.29	Changed	Lethal body concentration	Mortality
+RID00176	CID:4891	CAS:55268-74-1	Praziquantel	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Changed	Lethal body concentration	Mortality
+RID00179	CID:50248	CAS:68786-66-3	Triclabendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	1.124	1.124	Changed	Lethal body concentration	Mortality
+RID00181	CID:516875	CAS:7722-64-7	Potassium permanganate	Compound	15110333	In vivo		Oncorhynchus mykiss			ppm	4.0-40.0	4.0-40.0	Changed	C-reactive protein	Biochemistry
+RID00183	CID:5213	CAS:65666-07-1	Silymarin	Compound	38522112	In vivo		Carassius auratus			mg/L	26.241	26.241	Irregular	Lethal body concentration	Mortality
+RID00184	CID:5215	CAS:68-35-9	Sulfadiazine	Compound	22562751	In vivo		Arbacia lixula	Larva		mg/l	12.7	12.7	Irregular	Acute toxic effect concentration	Physiology
+RID00184	CID:5215	CAS:68-35-9	Sulfadiazine	Compound	22562751	In vivo		Paracentrotus lividus	Larva		mg/l	59.76	59.76	Irregular	Acute toxic effect concentration	Physiology
+RID00019	CID:107793	CAS:20874-52-6	Saikosaponin d (from radix bupleuri)	Compound	25266906	In vivo		Carassius auratus			mg/L	1.54	1.54	Irregular	Lethal body concentration	Mortality
+RID00190	CID:5280440	CAS:1401-69-0	Tylosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	3.13-100.0	3.13-100.0	Irregular	Heart rate	Physiology
+RID00194	CID:5280723	CAS:745-65-3	Alprostadil	Compound	38522112	In vivo		Carassius auratus			mg/L	30.482	30.482	Decreased	Lethal body concentration	Mortality
+RID00002	CID:10101397		Thonningianin B	Compound	38522112	In vivo		Carassius auratus			mg/L	21.543	21.543	Decreased	Lethal body concentration	Mortality
+RID00020	CID:11122	CAS:553-97-9	2-methyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.5267	0.5267	Decreased	Lethal body concentration	Mortality
+RID00200	CID:5281255	CAS:20784-50-3	Isobavachalcone	Compound	38518713	In vivo		Poecilia reticulata	Larva	Water treatment	mg/L	46.18	46.18	Decreased	Lethal body concentration	Mortality
+RID00200	CID:5281255	CAS:20784-50-3	Isobavachalcone	Compound	38518713	In vivo		Poecilia reticulata	Larva	Water treatment	mg/L	18.75-75.0	28.125-75.0	Decreased	Survival	Mortality
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Decreased	Hematocrit (anemia)	Biochemistry
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	20.0-60.0	20.0-60.0	Decreased	Hemoglobin	Biochemistry
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	20.0-80.0	80	Decreased	Lethal body concentration	Mortality
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Decreased	Mean corpuscular (cell) hemoglobin concentration	Biochemistry
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	40.0-60.0	40.0-60.0	Decreased	Mean corpuscular hemoglobin	Biochemistry
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Decreased	Motility	Behavior
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Decreased	Red cell distribution width	Biochemistry
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Increased	Distance moved, change in direct movement	Behavior
+RID00201	CID:5281303	CAS:11141-17-6	Azadirachtin	Compound	25847134	In vivo		Cyprinus carpio			μL/L	60	60	Increased	Movements, number of	Behavior
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Changed	Interferon mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Changed	Interleukin 8 mRNA	Biochemistry
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Changed	Signal transducer and activator of transcription 1 mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Decreased	Caspase-3 mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Decreased	Interleukin-1 beta mRNA	Biochemistry
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Decreased	Toll-like receptor 2 mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Increased	Anti-Melanoma Differentiation-Associated gene 5 (MDA-5) mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Increased	Nuclear factor kappa B mRNA	Genetics
+RID00202	CID:5281426	CAS:93-35-6	7-hydroxycoumarin	Compound	39009196	In vivo		Paralichthys olivaceus		Short term feed	mg/kg/day	100	100	Increased	Ubiquitin-like protein ISG15 mRNA	Genetics
+RID00205	CID:5281613	CAS:520-27-4	Diosmin	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00211	CID:5281806	CAS:18642-23-4	Psoralidin	Compound	26042195	In vivo		Carassius auratus			mg/L	7.0-8.5	7.0-8.5	Decreased	Survival	Mortality
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	2.5-10.0	2.5-10.0	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	40	40	Decreased	Survival	Mortality
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	Apoptosis	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	B-cell lymphoma/leukemia 2-gene mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	Caspase-3 mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	Caspase-9 mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	5.0-20.0	5.0-20.0	Increased	Curvature	Injury
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	0.63-20.0	1.25-20.0	Increased	Edema	Histology
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	2.5-10.0	2.5-10.0	Increased	Malondialdehyde	Biochemistry
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	40	Increased	Ratio of bax mRNA to Bcl-2 mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10	10	Increased	Reactive oxygen species	Biochemistry
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	bax mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	10.0-40.0	10.0-40.0	Increased	p53 mRNA	Genetics
+RID00214	CID:5282521	CAS:108050-54-0	Tilmicosin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	0.31-40.0	0.63-40.0	Irregular	Heart rate	Physiology
+RID00217	CID:5318516	CAS:18836-52-7	Pellitorine	Compound	38411855	In vivo		Carassius auratus	Adult		g/L	1.0-5.0	5	Decreased	Survival	Mortality
+RID00220	CID:5321010	CAS:28957-04-2	Oridonin	Compound	39848352	In vitro	Grouper spleen (GS) cells				μM	0.1-4.0	4	Decreased	Cell Viability	Cell(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Acetylcholinesterase (AChE) activity	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Apoptosis regulator Bcl-2 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	B cell lymphoma/leukemia 2	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Claudin 1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Claudin 3 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Glutathione (reduced glutathione)	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Kelch-like ECH-associated protein 1	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Kelch-like ECH-associated protein 1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Nuclear factor-kappa B	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Occludin	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Occludin mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Sequestosome 1	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Sequestosome 1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Tight junction protein 1	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Tight junction protein 1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Decreased	Tight junction protein ZO-2 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	8-hydroxy-2'-deoxyguanosine	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Alpha-induced tumor necrosis factor mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Autophagy protein 5	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Autophagy protein 5 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Bcl-2 associated X protein	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Bcl-2 associated X protein to B cell lymphoma/leukemia 2 ratio	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Beclin-1	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Beclin-1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Caspase 3	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Caspase 9	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Caspase-3 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Caspase-9 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Heme oxygenase	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Heme oxygenase mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Inhibitor of nuclear factor kappa-B	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Interleukin 6 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Interleukin 8 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Interleukin-1 beta mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	LC3-II mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Malondialdehyde	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	NAD(P)H-quinone oxidoreductase subunit 1	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Nqo1 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Nuclear Factor E2 Related Factor 2	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Nuclear Factor erythroid 2-related factor mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Nuclear factor-kappa B	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Ratio of LC3-II mRNA to LC3-I mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Ratio of LC3-II to LC3-I	Biochemistry
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Ratio of bax mRNA to Bcl-2 mRNA	Genetics
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00222	CID:5329	CAS:723-46-6	Sulfamethoxazole	Compound	35032680	In vivo		Ctenopharyngodon idella		Water treatment	µg/L	0.3	0.3	Increased	bax mRNA	Genetics
+RID00225	CID:5430	CAS:148-79-8	Thiabendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Increased	Lethal body concentration	Mortality
+RID00226	CID:543093	CAS:1633-14-3	2,5-dibromo-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.3964	0.3964	Increased	Lethal body concentration	Mortality
+RID00229	CID:54675776	CAS:60-54-8	Tetracycline	Compound	25475590	In vivo		Gambusia holbrooki			ng/L	5.0-500.0	5.0-500.0	Decreased	Thiobarbituric acid reactive substances	Biochemistry
+RID00229	CID:54675776	CAS:60-54-8	Tetracycline	Compound	25475590	In vivo		Gambusia holbrooki			ng/L	5.0-500.0	5.0-500.0	Increased	Catalase	Enzyme(s)
+RID00229	CID:54675776	CAS:60-54-8	Tetracycline	Compound	25475590	In vivo		Gambusia holbrooki			ng/L	50.0-500.0	50.0-500.0	Increased	Pathological index	Injury
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25.0-100.0	Decreased	7-EthoxycoumarinO-deethylase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25	Decreased	7-Ethoxyresorufin O-deethylase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25.0-100.0	Decreased	Glutathione (reduced glutathione)	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25.0-100.0	Decreased	Glutathione S-transferase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25.0-100.0	Decreased	NADH cytochrome C reductase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	28802653	In vitro	Trout liver microsomes				μM	25.0-100.0	25.0-100.0	Decreased	NADPH cytochrome C reductase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	31749575	In vivo		Hybrid Oreochromis	Juvenile	Water treatment for 20 days	mg/L	0.105	0.105	Increased	Catalase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	31749575	In vivo		Hybrid Oreochromis	Juvenile	Water treatment for 60 days	mg/L	0.053	0.053	Increased	Glutathione (reduced glutathione)	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Decreased	Ascorbic acid	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.045	0.045	Decreased	Catalase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Decreased	Catalase activity	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Decreased	Glutathione (GSH) activity	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.045	0.045	Decreased	Glutathione S-transferase	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Decreased	Hematocrit (anemia)	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.045	0.0045-0.045	Decreased	Hemoglobin	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.045	0.045	Decreased	Lethal body concentration	Mortality
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.045	0.045	Decreased	Protein content	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.045	0.0045-0.045	Decreased	Red blood cell	Cell(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Increased	Amino acid(s), general term	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Increased	Cholesterol	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.045	0.0045-0.045	Increased	Glucose	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.045	0.045	Increased	Lipid	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.045	0.0045-0.045	Increased	Lipid peroxidation	Physiology
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.045	0.0045-0.045	Increased	White blood cell count, total	Cell(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Glutathione S-transferase activity	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Glutathione reductase (GR) activity	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Lipid	Biochemistry
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Mean cellular hemoglobin (MCH)	Cell(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Mean cellular volume (MCV)	Cell(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Peroxidase activity	Enzyme(s)
+RID00023	CID:11294	CAS:569-64-2	Malachite green	Compound	36401692	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.0045-0.009	0.0045-0.009	Irregular	Protein content	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	40	40	Decreased	Polychromatic cells	Cell(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	40	40	Increased	Erythroblasts	Cell(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	40	40	Increased	Orthochromatic normoblast (erythroblast)	Cell(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	29608688	In vivo		Hybrid striped bass			g/kg	0.24	0.24	Decreased	Hepatosomatic index	Physiology
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	30098505	In vivo		Oncorhynchus mykiss	Juvenile		mg/L	2.5-5.0	2.5-5.0	Decreased	Acetylcholinesterase (AChE) activity	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	30098505	In vivo		Oncorhynchus mykiss	Juvenile		mg/L	0.3125-1.25	0.3125-1.25	Decreased	Lactate dehydrogenase	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	30098505	In vivo		Oncorhynchus mykiss	Juvenile		mg/L	0.005-5.0	1.25-5.0	Increased	Glutathione S-transferase activity	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	30098505	In vivo		Oncorhynchus mykiss	Juvenile		mg/L	50	50	Increased	Lactate dehydrogenase	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	37567108	In vivo		Danio rerio	Embryos		mg/L	5	5	Changed	Movements, number of	Behavior
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	37567108	In vivo		Danio rerio	Embryos		mg/L	5	5	Decreased	N-methyl-D-aspartate receptor mRNA	Genetics
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	37567108	In vivo		Danio rerio	Embryos		mg/L	5	5	Increased	Anxiety	Behavior
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	37567108	In vivo		Danio rerio	Embryos		mg/L	5	5	Increased	Apoptosis	Genetics
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	37567108	In vivo		Danio rerio	Embryos		mg/L	5	5	Inhibited	Proliferation	Histology
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	38549574	In vivo		Dicentrarchus labrax			g/m³	40	40	Changed	Catalase activity	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	38549574	In vivo		Dicentrarchus labrax			g/m³	40	40	Increased	Malondialdehyde	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Decreased	Calcium content	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Decreased	Chloride	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	80.0-800.0	Decreased	Food consumption	Feeding behavior
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	400.0-800.0	400.0-800.0	Decreased	Growth, general	Growth
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Decreased	Malondialdehyde	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Increased	Glucose	Biochemistry
+RID00230	CID:54675779	CAS:79-57-2	Oxytetracycline	Compound	39827248	In vivo		Oreochromis niloticus	Fry		mg/kg/day	40.0-800.0	40.0-800.0	Increased	Residue	Accumulation
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	10	10	Decreased	Catalase	Enzyme(s)
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1.0-5.0	5	Decreased	Protein content	Biochemistry
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	5.0-10.0	5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1.0-10.0	1.0-10.0	Increased	Acid phosphatase	Enzyme(s)
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1	1	Increased	Catalase	Enzyme(s)
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1.0-10.0	1.0-10.0	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1.0-10.0	1.0-10.0	Increased	Lipid peroxidation	Physiology
+RID00232	CID:54686183	CAS:10592-13-9	Doxycycline hydrochloride	Compound	37848653	In vivo		Sarcophyton trocheliophorum			mg/L	1.0-10.0	1.0-10.0	Increased	Malondialdehyde	Biochemistry
+RID00024	CID:114811	CAS:73231-34-2	Florfenicol	Compound	33364491	In vivo		Oreochromis niloticus			mg/L	11.72	11.72	Decreased	Catalase activity	Enzyme(s)
+RID00024	CID:114811	CAS:73231-34-2	Florfenicol	Compound	33364491	In vivo		Oreochromis niloticus			mg/L	11.72	11.72	Decreased	Glutathione S-transferase activity	Enzyme(s)
+RID00024	CID:114811	CAS:73231-34-2	Florfenicol	Compound	33364491	In vivo		Oreochromis niloticus			mg/L	11.72	11.72	Increased	Lipid peroxidation	Physiology
+RID00241	CID:57345804	CAS:32289-58-0	Polyhexamethylene biguanidine hydrochloride	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	9.67	9.67	Changed	Lethal body concentration	Mortality
+RID00244	CID:5853	CAS:52-68-6	Metriphonate	Compound	15110333	In vivo		Oncorhynchus mykiss			ppm	0.04-0.4	0.04-0.4	Changed	C-reactive protein	Biochemistry
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Catalase activity	Enzyme(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Glutathione peroxidase activity	Enzyme(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Hepatocyte count	Cell(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Alkaline phosphatase activity	Enzyme(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00244	CID:5853	CAS:52-68-6	Trichlorfon	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	2.5-10.0	Decreased	Cell volume	Cell(s)
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	2.5-10.0	Decreased	Hematocrit (anemia)	Biochemistry
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	2.5-10.0	Decreased	Hemoglobin	Biochemistry
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	2.5-10.0	Decreased	Mean corpuscular (cell) hemoglobin concentration	Biochemistry
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	5.0-10.0	10	Decreased	Red blood cell	Cell(s)
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	5.0-10.0	Increased	Abnormal behavior	Development
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	2.5-10.0	2.5-10.0	Increased	Lymphocyte	Cell(s)
+RID00245	CID:5959	CAS:56-75-7	Chloramphenicol	Compound	24099453	In vivo		Clarias gariepinus			mg/L	5.0-10.0	5.0-10.0	Increased	Neutrophil	Cell(s)
+RID00246	CID:5978	CAS:91080-29-4	Benzalkonium bromide	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	20.4	20.4	Decreased	Lethal body concentration	Mortality
+RID00247	CID:60164	CAS:106685-40-9	Adapalene	Compound	39992024	In vivo		Carassius auratus			mg/L	2.22	2.22	Decreased	Lethal body concentration	Mortality
+RID00255	CID:6240	CAS:69-09-0	Chlorpromazine hydrochloride	Compound	29890241	In vitro	Sahul Indian sea bass kidney (SISK) cell line				μM	200.0-500.0	200.0-500.0	Decreased	Survival	Mortality
+RID00256	CID:6249	CAS:69-53-4	Ampicillin	Compound	22562751	In vivo		Arbacia lixula	Larva		mg/l	29.3	29.3	Decreased	Acute toxic effect concentration	Physiology
+RID00256	CID:6249	CAS:69-53-4	Ampicillin	Compound	22562751	In vivo		Paracentrotus lividus	Larva		mg/l	168	168	Decreased	Acute toxic effect concentration	Physiology
+RID00257	CID:6253	CAS:147-94-4	Cytarabine	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00257	CID:6253	CAS:147-94-4	Cytarabine	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID00258	CID:6321424	CAS:70288-86-7	Ivermectin	Compound	40272910	In vivo		Cyprinus carpio	Fingerling		mg/kg	0.0-50.0	5.0-50.0	Decreased	Survival	Mortality
+RID00259	CID:6323491	CAS:12772-57-5	Radicicol	Compound	23194394	In vivo		Perna canaliculus	Adult		μg/mL	0.8	0.8	Decreased	Condition index	Morphology
+RID00259	CID:6323491	CAS:12772-57-5	Radicicol	Compound	23194394	In vivo		Perna canaliculus	Adult		μg/mL	0.8	0.8	Decreased	Shell deposition	Morphology
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	μg/kg	300.0-2065.0	300.0-2065.0	Decreased	Lethal body concentration	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Sediment treatment	μg/kg	100.0-300.0	100.0-300.0	Decreased	Subchronic/Chronic toxic concentration	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	100.0-1090.0	100.0-1090.0	Decreased	Lethal body concentration	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	30.0-100.0	30.0-100.0	Decreased	Subchronic/Chronic toxic concentration	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Acetylcholinesterase (AChE)	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Calcium content	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Chloride	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Food consumption	Feeding behavior
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Decreased	Survival	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Increased	Alkaline phosphatase	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	34728388	In vivo		Oreochromis niloticus	Fry	Feed	μg	50.0-500.0	50.0-500.0	Increased	Glucose	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Acetylcholinesterase (AChE)	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Calcium content	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Chloride	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Food consumption	Feeding behavior
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Hematocrit (anemia)	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Hemoglobin	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Monocyte	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Decreased	Polychromatic cells	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	150	150	Decreased	Survival	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Alkaline phosphatase	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Aspartate aminotransferase	Enzyme(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Creatinine	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Glucose	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	150	150	Increased	Hemoglobin	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Leukocytes	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Lymphocyte	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Mean corpuscular volume	Biochemistry
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Neutrophil	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37431061	In vivo		Oreochromis niloticus		Diet	μg/kg/day	50.0-150.0	50.0-150.0	Increased	Thrombocytes	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.5-2.0	0.5-2.0	Decreased	Area of subintestinal vessels (SIV)	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Decreased	Distance	Growth
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Decreased	End-diastolic volume	Physiology
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Decreased	End-systolic volume	Physiology
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	Fms related receptor tyrosine kinase 4 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	GATA mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	8	8	Decreased	Hatch	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	2	2	Decreased	Heart rate	Physiology
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Decreased	Intersegmental vessels (ISVs)	Physiology
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	Kinase insert domain receptor like mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Decreased	Length of intersegmental vessel	Growth
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	Myosin regulatory light chain 7 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.1-8.0	4.0-8.0	Decreased	Survival	Mortality
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	T-box 5a mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Decreased	Vascular endothelial growth factor c mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Alpha-induced tumor necrosis factor mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.5-2.0	0.5-2.0	Increased	Apoptosis	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1.0-2.0	1.0-2.0	Increased	Area of cardinal vein (CCV)	Growth
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Caspase 8 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Caspase-3 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.5-2.0	0.5-2.0	Increased	Deformation	Development
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	FADD mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Fax mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Interleukin 6 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Interleukin 8 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Interleukin-1 beta mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Myeloid differentiation primary response protein MyD88 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.5-4.0	0.5-2.0	Increased	Neutrophil	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Nuclear factor kappa B mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	0.5-2.0	0.5-2.0	Increased	Number of endothelial cells	Cell(s)
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	TNF receptor-associated factor 6 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Toll-like receptor 2 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	Toll-like receptor 4 mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	bax mRNA	Genetics
+RID00026	CID:11650986	CAS:155569-91-8	Emamectin benzoate	Compound	37499828	In vivo		Danio rerio	Embryos		mg/L	1	1	Increased	p53 mRNA	Genetics
+RID00263	CID:637760	CAS:94-41-7	Chalcone	Compound	38522112	In vivo		Carassius auratus			mg/L	7.657	7.657	Decreased	Lethal body concentration	Mortality
+RID00266	CID:638678	CAS:24305-27-9	Protirelin	Compound	38522112	In vivo		Carassius auratus			mg/L	16.254	16.254	Decreased	Lethal body concentration	Mortality
+RID00268	CID:6450551	CAS:319460-85-0	Axitinib	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00271	CID:64945	CAS:77-52-1	Ursolic acid	Compound	31494148	In vivo					mg/L	40.0-80.0	40.0-80.0	Decreased	Survival	Mortality
+RID00272	CID:64981	CAS:7770-78-7	Arctigenin	Compound	38522112	In vivo		Carassius auratus			mg/L	11.63	11.63	Increased	Lethal body concentration	Mortality
+RID00274	CID:65064	CAS:989-51-5	Epigallocatechin-3-gallate	Compound	36680191	In vitro	Fathead minnow (FHM) cells				μg/mL	5.0-20.0	20	Increased	Lesions	Histology
+RID00278	CID:6585	CAS:79-21-0	Peracetic Acid	Compound	39175494	In vivo		Sparus aurata	Juvenile	Water treatment	%	0.001	0.001	Decreased	Survival	Mortality
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glucocorticoid receptor mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glutathione S-transferase GstA mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glutathione peroxidase mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	HSP70 mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Il13r1a mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Interleukin-1 beta mRNA	Genetics
+RID00278	CID:6585	CAS:79-21-0	Peracetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Reactive oxygen species	Biochemistry
+RID00028	CID:12011	CAS:615-93-0	2,5-dichloro-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.4932	0.4932	Decreased	Lethal body concentration	Mortality
+RID00283	CID:6755	CAS:83-72-7	2-Hydroxy-1,4-naphoquinone	Compound	38522112	In vivo		Carassius auratus			mg/L	10.687	10.687	Decreased	Lethal body concentration	Mortality
+RID00284	CID:6775	CAS:84-58-2	2,3-dichloro-5,6-dicyano-p-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	5.696	5.696	Decreased	Lethal body concentration	Mortality
+RID00286	CID:68101	CAS:488-48-2	Tetrabromo-p-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.452	1.452	Decreased	Lethal body concentration	Mortality
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	21.1	21.1	Decreased	Half-maximal inhibitory concentration for glucose metabolism	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	146.19	146.19	Decreased	Half-maximal inhibitory concentration for mitochondrial dehydrogenase activity	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	109.83	109.83	Decreased	Half-maximal inhibitory concentration for plasma membrane damage	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	76.64	76.64	Decreased	Half-maximal inhibitory concentration for protein synthesis	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	25.0-200.0	25.0-200.0	Decreased	Mitochondrial activity	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	25.0-200.0	25.0-200.0	Increased	Hydrogen peroxide	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	25.0-200.0	25.0-200.0	Increased	Plasma membrane damage	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	25.0-200.0	25.0-200.0	Inhibited	Glucose metabolism	Biochemistry
+RID00287	CID:6817	CAS:85-66-5	Pyocyanin	Compound	25091858	In vitro	Rainbow trout gonad cell line (RTG-2)				mg/L	25.0-200.0	25.0-200.0	Inhibited	Protein synthesis	Biochemistry
+RID00288	CID:68238	CAS:527-17-3	Duroquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	3.029	3.029	Decreased	Lethal body concentration	Mortality
+RID00289	CID:68239	CAS:527-21-9	Tetrafluoro-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	14.37	14.37	Changed	Lethal body concentration	Mortality
+RID00029	CID:12035	CAS:616-91-1	N-acetyl-L-cysteine	Compound	13677510	In vivo		Anguilla anguilla	Young	Bath	mM	10	10	Decreased	Survival	Mortality
+RID00290	CID:68241	CAS:527-61-7	2,6-dimethylbenzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.015	1.015	Changed	Lethal body concentration	Mortality
+RID00291	CID:68262	CAS:530-55-2	2,6-dimethoxy-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.023	1.023	Changed	Lethal body concentration	Mortality
+RID00293	CID:69068	CAS:605-94-7	2,3-dimethoxy-5-methyl-p-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.9702	0.9702	Changed	Lethal body concentration	Mortality
+RID00294	CID:6909	CAS:87-90-1	Trichloroisocyanuric acid	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	0.88	0.88	Changed	Lethal body concentration	Mortality
+RID00295	CID:69213	CAS:615-94-1	2,5-dihydroxy-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	99.05	99.05	Changed	Lethal body concentration	Mortality
+RID00296	CID:69671	CAS:695-99-8	2-chloro-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.1756	0.1756	Changed	Lethal body concentration	Mortality
+RID00298	CID:70055	CAS:844-51-9	2,5-diphenyl-p-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	2.566	2.566	Changed	Lethal body concentration	Mortality
+RID00003	CID:10114	CAS:471-53-4	Enoxolone	Compound	38835482	In vivo		Micropterus nigricans			μg/mL	4.0-64.0	64	Decreased	Survival	Mortality
+RID00300	CID:70291	CAS:935-92-2	2,3,5-trimethylbenzo-1,4-quinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.142	1.142	Changed	Lethal body concentration	Mortality
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	200	200	Decreased	Polychromatic cells	Cell(s)
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	200	200	Increased	Erythroblasts	Cell(s)
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	200	200	Increased	Orthochromatic normoblast (erythroblast)	Cell(s)
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	22562751	In vivo		Arbacia lixula	Larva		mg/l	1.79	1.79	Changed	Acute toxic effect concentration	Physiology
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	22562751	In vivo		Paracentrotus lividus	Larva		mg/l	1.78	1.78	Changed	Acute toxic effect concentration	Physiology
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	26266476	In vivo		Aquarana catesbeiana	Tadpoles		mg/L	10.53	10.53	Increased	Lethal body concentration	Mortality
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	38549574	In vivo		Dicentrarchus labrax			ppm	200	200	Changed	Catalase activity	Enzyme(s)
+RID00302	CID:712	CAS:50-00-0	Formaldehyde	Compound	38549574	In vivo		Dicentrarchus labrax			ppm	200	200	Increased	Malondialdehyde	Biochemistry
+RID00302	CID:712	CAS:50-00-0	Formalin	Compound	15110333	In vivo		Oncorhynchus mykiss			ppm	30.0-300.0	30.0-300.0	Changed	C-reactive protein	Biochemistry
+RID00302	CID:712	CAS:50-00-0	Formalin	Compound	30421321	In vivo		Danio rerio	Adult		mg/L	45.73	45.73	Increased	Lethal body concentration	Mortality
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	26401637	In vivo		Daphnia magna			µg/L	0.167	0.167	Changed	Acute toxic effect concentration	Physiology
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Alpha-2-antiplasmin-like isoform X1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Alpha-2-macroglobulin-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein A-I-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein A-IV-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein B-100 isoform X2	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein B-100-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein C1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Apolipoprotein Eb-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Beta-2-glycoprotein 1-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Beta-enolase	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Beta-globin	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	C-type lectin domain family 4 member E	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Catechol O-methyltransferase domain-containing protein 1-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Complement C3-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Complement C4-B	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Complement c1q-like protein 2	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Complement factor B-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Complement factor I	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Fibrinogen alpha chain-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Fibrinogen beta chain-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Fibrinogen gamma chain-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Haptoglobin-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Heme-binding protein 2-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Hemoglobin subunit alpha	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Hemoglobin subunit alpha-4	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Hemoglobin subunit beta-1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Heparin cofactor 2	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Heparin cofactor 2-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Histidine-rich glycoprotein-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Histone H2B type 1-A	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Ig kappa chain V region Mem5	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Ig kappa chain V-III region CLL precursor	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Ig kappa chain V-IV region Len	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Leukocyte cell-derived chemotaxin 2 precursor	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Lysozyme C II	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Plasma retinol-binding protein 1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Plasminogen-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Protein LEG1 homolog	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Protein-methionine sulfoxide oxidase mical2b-like isoform X1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Retinol-binding protein 4-B	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Saxitoxin and tetrodotoxin-binding protein 2-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Serum albumin 1 precursor	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Type-4 ice-structuring protein LS-12-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Type-4 ice-structuring protein-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Uncharacterized protein LOC106573538	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Venom factor-like	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Changed	Vitamin K-dependent protein S-like isoform X1	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Alanine transaminase (ALT)	Enzyme(s)
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Albumin	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Copper (Cu) content	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Haptoglobin (HP)	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Iron content	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Potassium content	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Protein content	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Decreased	Survival	Mortality
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Bilirubin	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Glucose-6-phosphate dehydrogenase	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Hemorrhage in gills	Histology
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Lesions in spleen	Histology
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Necrosis in kidney	Histology
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Necrosis in liver	Histology
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	31700034	In vivo		Oncorhynchus mykiss		Bath	ppm	0.1	0.1	Increased	Phosphate	Biochemistry
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34555744	In vivo		Pandalus borealis	Adult		ng/l	30	30	Disturbed	Swimming	Behavior
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	10.0-80.0	10.0-80.0	Changed	Lethal body concentration	Mortality
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	10	10	Changed	Subchronic/Chronic toxic concentration	Mortality
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	20.0-40.0	20.0-40.0	Decreased	Smell/Sniff	Behavior
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	5.0-50.0	10.0-50.0	Decreased	Swimming	Behavior
+RID00303	CID:71482	CAS:35575-96-3	Azamethiphos	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	µg/L	3	3	Increased	Subchronic/Chronic toxic concentration	Mortality
+RID00307	CID:72276	CAS:490-46-0	Epicatechin	Compound	40222693	In vitro	Grouper spleen (GS) cells				μg/mL	50.0-1000.0	100.0-1000.0	Decreased	Cell Viability	Cell(s)
+RID00311	CID:76621	CAS:3160-91-6	Moroxydine hydrochloride	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Changed	Lethal body concentration	Mortality
+RID00311	CID:76621	CAS:3160-91-6	Moroxydine hydrochloride	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Changed	Lethal body concentration	Mortality
+RID00312	CID:76959646	CAS:86831-54-1	Rhodiosin	Compound	38522112	In vivo		Carassius auratus			mg/L	13.245	13.245	Changed	Lethal body concentration	Mortality
+RID00314	CID:78000	CAS:204255-11-8	Oseltamivir phosphate	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Changed	Lethal body concentration	Mortality
+RID00314	CID:78000	CAS:204255-11-8	Oseltamivir phosphate	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Changed	Lethal body concentration	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen Peroxide	Compound	39175494	In vivo		Sparus aurata	Juvenile	Water treatment	%	5	5	Decreased	Survival	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	18206212	In vivo		Daphnia magna			mg/L	0.63-5.0	0.63-5.0	Decreased	Brood	Reproduction
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	18206212	In vivo		Daphnia magna			mg/L	0.32-1.25	0.32-1.25	Decreased	Length of fish	Morphology
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	18206212	In vivo		Daphnia magna			mg/L	0.63-5.0	2.5-5.0	Decreased	Survival	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	Brain and muscle ARTN-like protein mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	CLOCK mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	Catalase mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	Glutathione peroxidase 1 mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	HSP70 mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Changed	Manganese superoxide dismutase mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Irregular	Cortisol	Hormone(s)
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Irregular	Glucose	Biochemistry
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	27058450	In vivo		Salmo salar		Water treatment for 20 miinutes	mg/L	1500	1500	Irregular	Lactate	Biochemistry
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	32720097	In vivo		Penaeus vannamei	Juvenile		mg/L	31.4	31.4	Increased	Lethal body concentration	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glucocorticoid receptor mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glutathione S-transferase GstA mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glutathione peroxidase mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	HSP70 mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Interleukin-1 beta mRNA	Genetics
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Reactive oxygen species	Biochemistry
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	mg/L	30.0-227.0	30.0-227.0	Changed	Lethal body concentration	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	mg/L	10.0-30.0	10.0-30.0	Changed	Subchronic/Chronic toxic concentration	Mortality
+RID00315	CID:784	CAS:7722-84-1	Hydrogen peroxide	Compound	34628582	In vivo		Oncorhynchus gorbuscha	Fry	Water treatment	mg/L	5.0-100.0	100	Decreased	Swimming	Behavior
+RID00319	CID:8371	CAS:118-75-2	Tetrachloro-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.1	1.1	Irregular	Lethal body concentration	Mortality
+RID00032	CID:12771	CAS:697-91-6	2,6-dichloro-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.376	0.376	Changed	Lethal body concentration	Mortality
+RID00321	CID:83969	CAS:54029-12-8	Albendazole oxide	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Irregular	Lethal body concentration	Mortality
+RID00322	CID:84029	CAS:81103-11-9	Clarithromycin	Compound	30308910	In vivo		Danio rerio	Embryos		mg/L	1.56-100.0	3.13-100.0	Irregular	Heart rate	Physiology
+RID00324	CID:8530	CAS:130-15-4	1,4-naphthoquinone	Compound	38522112	In vivo		Carassius auratus			mg/L	0.23	0.23	Increased	Lethal body concentration	Mortality
+RID00326	CID:8718	CAS:137-18-8	2,5-dimethyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.7552	0.7552	Increased	Lethal body concentration	Mortality
+RID00033	CID:12867	CAS:719-22-2	2,6-di-tert-butyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	11.78	11.78	Irregular	Lethal body concentration	Mortality
+RID00330	CID:91590	CAS:28159-98-0	Irgarol 1051	Compound	34494197	In vivo		Crassostrea gigas	Embryos		µg/L	1.0-100.0	30.0-100.0	Increased	Abnormal shell	Development
+RID00331	CID:91688	CAS:64359-81-5	4,5-dichloro-2-n-octyl-4-isothiazolin-3-one	Compound	34494197	In vivo		Crassostrea gigas	Embryos		µg/L	0.001-0.3	0.003-0.3	Increased	Abnormal shell	Development
+RID00331	CID:91688	CAS:64359-81-5	4,5-dichloro-2-n-octyl-4-isothiazolin-3-one	Compound	34494197	In vivo		Crassostrea gigas	Larva		µg/L	30	30	Decreased	Acute toxic effect concentration	Physiology
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	Actin mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	CTBS mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	Caspase-3 mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	HSP70 mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	Heat shock protein 40 mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	L-lactate dehydrogenase mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	Survival	Mortality
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Decreased	Tuba mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Increased	Cherax quadricarinatus gastrolith protein (GAP65) mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Increased	Crustacean hyperglycemic hormone (CHH) mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	28939506	In vivo		Palaemon elegans		Diet	μg	0.15	0.15	Increased	Cyp6a18 mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	30345541	In vivo		Pandalus montagui		Feed	μg/g	0.01-0.1	0.1	Decreased	Glutathione peroxidase mRNA	Genetics
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	30345541	In vivo		Pandalus montagui		Feed	μg/g	0.1	0.1	Decreased	Protein carbonylation	Biochemistry
+RID00332	CID:91734	CAS:83121-18-0	Teflubenzuron	Compound	30345541	In vivo		Pandalus montagui		Feed	μg/g	0.01	0.01	Decreased	Superoxide dismutase 1 mRNA	Genetics
+RID00337	CID:9688	CAS:363-03-1	2-phenylbenzo-1,4-quinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.529	0.529	Decreased	Lethal body concentration	Mortality
+RID00338	CID:969516	CAS:458-37-7	Curcumin	Compound	39395598	In vivo		Micropterus salmoides	Juvenile	Bath	mg/L	17.143	17.143	Decreased	Lethal body concentration	Mortality
+RID00338	CID:969516	CAS:458-37-7	Curcumin	Compound	39395598	In vivo		Micropterus salmoides	Juvenile	Bath	mg/L	15.0-19.0	16.0-19.0	Decreased	Survival	Mortality
+RID10009		CAS:8014-19-5	Palmarosa oil	Mixture	35804584	In vivo		Carassius auratus		Bath	mg/L	30.0-50.0	30.0-50.0	Decreased	Survival	Mortality
+RID10013		CAS:8024-37-1	Curcuma oil	Mixture	35804584	In vivo		Carassius auratus		Bath	mg/L	20.0-40.0	25.0-40.0	Decreased	Survival	Mortality
+RID00343			(E)-Methyl 3-((9H-fluoren-9-yl)oxy)acrylate	Compound	30467537	In vivo		Artemia franciscana	Nauplii		μM	2.0-32.0	16.0-32.0	Decreased	Survival	Mortality
+RID00037	CID:135398513	CAS:59277-89-3	Acyclovir	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00037	CID:135398513	CAS:59277-89-3	Acyclovir	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID00038	CID:135398635	CAS:118-00-3	Guanosine	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00038	CID:135398635	CAS:118-00-3	Guanosine	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID10031			Andrographis paniculata whole plant methanolic extract	Mixture	31363972	In vivo		Labeo rohita	Fingerling	Diffusion	μg/mL	100.0-200.0	100.0-200.0	Decreased	Survival	Mortality
+RID10031			Andrographis paniculata whole plant methanolic extract	Mixture	31363972	In vivo		Labeo rohita	Fingerling	Injected	μg/mL	100.0-200.0	100.0-200.0	Decreased	Survival	Mortality
+RID10031			Andrographis paniculata whole plant methanolic extract	Mixture	31363972	In vivo		Labeo rohita	Fingerling	Oral	μg/mL	100.0-200.0	100.0-200.0	Decreased	Survival	Mortality
+RID00349			Arctigenin derivative TZOA	Compound	40015160	In vitro	Epithelioma papulosum cyprini (EPC) cells				μM	64	64	Decreased	Cytotoxicity	Cell(s)
+RID10041			Artemisia argyi leaf extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	600	600	Decreased	Survival	Mortality
+RID00004	CID:10114809	CAS:54141-72-9	Neoisoastilbin	Compound	38522112	In vivo		Carassius auratus			mg/L	26.451	26.451	Decreased	Lethal body concentration	Mortality
+RID00040	CID:135398740	CAS:82410-32-0	Ganciclovir	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00040	CID:135398740	CAS:82410-32-0	Ganciclovir	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID10047			Atractylodes lancea rhizome extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	225	225	Decreased	Survival	Mortality
+RID10050			Azamethiphos+Deltamethrin	Mixture	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	100+2	100+2	Decreased	Maturity	Development
+RID10050			Azamethiphos+Deltamethrin	Mixture	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	100+2	100+2	Decreased	Swimming	Behavior
+RID10050			Azamethiphos+Deltamethrin	Mixture	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	100+2	100+2	Increased	Survival	Mortality
+RID10050			Azamethiphos+Deltamethrin	Mixture	32112997	In vivo		Pandalus borealis	Larva	Water treatment	ng/L	100+2	100+2	Increased	Weak larvae	Physiology
+RID10052			BioFish	Mixture	31679532	In vivo		Colossoma macropomum	Juvenile		mg/mL	10.6-20.31	10.6-20.31	Decreased	Lethal body concentration	Mortality
+RID10057			Bupleurum chinense root methanol extract	Mixture	25266906	In vivo		Carassius auratus			mg/L	37.54	37.54	Decreased	Lethal body concentration	Mortality
+RID10060			Caesalpinia sappan wood extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	250	250	Decreased	Survival	Mortality
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus			mg/mL	0.1	0.1	Decreased	Cyp1A1 mRNA	Genetics
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus			mg/mL	0.1	0.1	Decreased	Glutathione S-transferase activity	Enzyme(s)
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus			mg/mL	0.1	0.1	Decreased	Immunoglobulin M	Immunological
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus			mg/mL	0.1	0.1	Increased	Cyp1A3 mRNA	Genetics
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus			mg/mL	0.1	0.1	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39492189	In vivo		Carassius auratus		Water treatment	mg/mL	4.0-10.0	6.0-10.0	Decreased	Survival	Mortality
+RID00042	CID:135449328	CAS:58306-30-2	Febantel	Compound	39992024	In vivo		Carassius auratus			mg/L	5.47	5.47	Decreased	Lethal body concentration	Mortality
+RID10066			Celosia cristata flower extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	600	600	Decreased	Survival	Mortality
+RID00043	CID:140616	CAS:19832-87-2	2-chloro-5-methyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.057	0.057	Decreased	Lethal body concentration	Mortality
+RID10074			Chelidonium majus whole plant ethanol extract	Mixture	21537985	In vivo		Carassius auratus			mg/L	184.47	184.47	Decreased	Lethal body concentration	Mortality
+RID20004			Chitosan nanoparticles	Nanomaterial	34694707	In vivo		Danio rerio			mg/L	10.0-20.0	10.0-20.0	Decreased	Hatch	Mortality
+RID20004			Chitosan nanoparticles	Nanomaterial	34694707	In vivo		Danio rerio			mg/L	5.0-20.0	10.0-20.0	Decreased	Survival	Mortality
+RID00356			Chrysin 6-C-glucoside 8-C-arabinoside	Compound	38522112	In vivo		Carassius auratus			mg/L	10.583	10.583	Increased	Lethal body concentration	Mortality
+RID00044	CID:14162695	CAS:119262-68-9	Scutellarin	Compound	38522112	In vivo		Carassius auratus			mg/L	13.274	13.274	Decreased	Lethal body concentration	Mortality
+RID00044	CID:14162695	CAS:119262-68-9	Scutellarin methyl ester	Compound	38522112	In vivo		Carassius auratus			mg/L	11.365	11.365	Decreased	Lethal body concentration	Mortality
+RID10093			Clematis chinensis root extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	250	250	Decreased	Survival	Mortality
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Catalase activity	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Hematocrit (anemia)	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Hemoglobin	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Polychromatic cells	Cell(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Copper (Cu) content	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Glucose-6-phosphate dehydrogenase activity	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Glutathione (reduced glutathione)	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Malondialdehyde	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Catalase activity	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Protein content	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alkaline phosphatase	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Aspartate aminotransferase	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Cortisol	Hormone(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Creatinine	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Glucose	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Lactate dehydrogenase	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Malondialdehyde	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Urea nitrogen	Biochemistry
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione S-transferase	Enzyme(s)
+RID20005			Copper oxide nanoparticles	Nanomaterial	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione reductase	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Catalase activity	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Protein content	Biochemistry
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alkaline phosphatase	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Aspartate aminotransferase	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Cortisol	Hormone(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Creatinine	Biochemistry
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Glucose	Biochemistry
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Lactate dehydrogenase	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Malondialdehyde	Biochemistry
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Urea nitrogen	Biochemistry
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione S-transferase	Enzyme(s)
+RID10096			Copper sulphate+Copper oxide nanoparticles	Mixture	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione reductase	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Decreased	Catalase activity	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Decreased	Glutathione peroxidase activity	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Decreased	Hepatocyte count	Cell(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Increased	Alkaline phosphatase activity	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Increased	Catalase activity	Enzyme(s)
+RID10097			Copper sulphate+Trichlorfon	Mixture	37446380	In vivo		Danio rerio	Juvenile	Both in 1:1 ratio	mg/L	1	1	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00046	CID:14463159	CAS:13137-64-9	Periplocin	Compound	38522112	In vivo		Carassius auratus			mg/L	4.124	4.124	Increased	Lethal body concentration	Mortality
+RID10103			Cuscuta chinensis seed extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	320	320	Decreased	Survival	Mortality
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	15	15	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	15	15	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	15	15	Decreased	Survival	Mortality
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	15	15	Decreased	Total hematocyte count	Biochemistry
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	15	15	Increased	Hemocyte Apoptosis	Biochemistry
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	15	15	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	15	15	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	15	15	Decreased	Survival	Mortality
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	15	15	Decreased	Total hematocyte count	Biochemistry
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	15	15	Increased	Hemocyte Apoptosis	Biochemistry
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	15	15	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	15	15	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	15	15	Decreased	Survival	Mortality
+RID00047	CID:14778	CAS:1305-78-8	Calcium oxide	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	15	15	Decreased	Total hematocyte count	Biochemistry
+RID10112			Deltamethrin+Azamethiphos	Mixture	34555744	In vivo		Pandalus borealis	Adult		ng/l	1+30	1+30	Decreased	Survival	Mortality
+RID10114			Dianthus superbus leaf extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	800	800	Decreased	Survival	Mortality
+RID10120			Eucommia ulmoides root extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	475	475	Decreased	Survival	Mortality
+RID10123			Eupatorium fortunei leaf extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	800	800	Decreased	Survival	Mortality
+RID10131			Formaldehyde+Oxytetracycline	Mixture	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	240	240	Decreased	Polychromatic cells	Cell(s)
+RID10131			Formaldehyde+Oxytetracycline	Mixture	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	240	240	Increased	Erythroblasts	Cell(s)
+RID10131			Formaldehyde+Oxytetracycline	Mixture	21621636	In vivo		Dicentrarchus labrax		Immersion	g/m³	240	240	Increased	Orthochromatic normoblast (erythroblast)	Cell(s)
+RID10131			Formaldehyde+Oxytetracycline	Mixture	38549574	In vivo		Dicentrarchus labrax			ppm+g/m³	200+40	200+40	Changed	Catalase activity	Enzyme(s)
+RID10131			Formaldehyde+Oxytetracycline	Mixture	38549574	In vivo		Dicentrarchus labrax			ppm+g/m³	200+40	200+40	Increased	Malondialdehyde	Biochemistry
+RID10135			Gardenia jasminoides fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID00005	CID:101405	CAS:3117-03-1	2,5-dimethoxy-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	3.08	3.08	Decreased	Lethal body concentration	Mortality
+RID10140			Glycine max seed extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	250	250	Decreased	Survival	Mortality
+RID10147			Hedyotis diffusa aerial part extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID10155			Leonurus japonicus fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	31.5	31.5	Decreased	Survival	Mortality
+RID10157			Lippia alba essential oil	Mixture	36790271	In vivo		Artemia salina			μg/mL	307.95	307.95	Decreased	Lethal body concentration	Mortality
+RID10158			Lippia origanoides essential oil	Mixture	36790271	In vivo		Artemia salina			μg/mL	215.73	215.73	Decreased	Lethal body concentration	Mortality
+RID10159			Liquidambar formosana fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	62.5	62.5	Decreased	Survival	Mortality
+RID10164			Lysimachia christinae leaf extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	300	300	Decreased	Survival	Mortality
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Decreased	Glutathione peroxidase	Enzyme(s)
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Decreased	Hydrogen peroxide	Biochemistry
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Decreased	Reactive oxygen species scavenging capacity	Cell(s)
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Decreased	Superoxide	Biochemistry
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Decreased	Total antioxidant capacity	Biochemistry
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	40	40	Increased	Caspase 3 mRNA	Genetics
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	40	40	Increased	MCM3 mRNA	Genetics
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Malondialdehyde	Biochemistry
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	40.0-140.0	40.0-140.0	Increased	Nitric Oxide concentration	Biochemistry
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the brain	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the gills	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the heart	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the intestine	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the liver	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the muscle	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	20.0-140.0	20.0-140.0	Increased	Tissue damage in the spleen	Injury
+RID00053	CID:15910	CAS:1897-45-6	Chlorothalonil	Compound	33774206	In vivo		Oreochromis niloticus		Water treatment	µg/L	40	40	Increased	p53 mRNA	Genetics
+RID10187			Morus alba root bark acetone extract	Mixture	24553418	In vivo		Ctenopharyngodon idella			mg/L	79.46-138.46	79.46-138.46	Decreased	Lethal body concentration	Mortality
+RID10189			Morus alba root bark ethyl acetate extract	Mixture	24553418	In vivo		Ctenopharyngodon idella			mg/L	261.05-443.88	261.05-443.88	Decreased	Lethal body concentration	Mortality
+RID10192			Morus alba shoot extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID10194			Natumix	Mixture	31679532	In vivo		Colossoma macropomum	Juvenile		mg/mL	14.48-15.62	14.48-15.62	Decreased	Lethal body concentration	Mortality
+RID10199			Oligonol	Mixture	24423657	In vitro	E-11 cells				μg/mL	0.63-40.0	20.0-40.0	Decreased	Cell Viability	Cell(s)
+RID10213			Paeonia suffruticosa root bark extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	450	450	Decreased	Survival	Mortality
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	Ex vivo		Cyprinus carpio			μL	30	30	Increased	Hemolysis	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Albumin	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Globulin	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Hematocrit (anemia)	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Hemoglobin	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	18.99	18.99	Decreased	Lethal body concentration	Mortality
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Leukocytes	Cell(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Lysozyme activity	Enzyme(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Nitroblue tetrazolium	Immunological
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Polychromatic cells	Cell(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Decreased	Protein content	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Alkaline phosphatase	Enzyme(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Aspartate aminotransferase	Enzyme(s)
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Glucose	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Mean corpuscular hemoglobin	Biochemistry
+RID10214			Parthenium hysterophorus whole plant hydroethanolic extract	Mixture	37247154	In vivo		Cyprinus carpio	Fingerling	Water treatment	mg/L	0.379-0.759	0.379-0.759	Increased	Mean corpuscular volume	Biochemistry
+RID10220			Pluronic F-68 surfactant+Allium sativum essential oil	Mixture	32637831	In vivo		Artemia salina			mg/L	2.01	2.01	Decreased	Lethal body concentration	Mortality
+RID10221			Pluronic F-68 surfactant+Eugenol	Mixture	32637831	In vivo		Artemia salina			mg/L	2.27	2.27	Decreased	Lethal body concentration	Mortality
+RID10222			Pluronic F-68 surfactant+Eugenol+Allium sativum essential oil	Mixture	32637831	In vivo		Artemia salina			mg/L	1.72	1.72	Decreased	Lethal body concentration	Mortality
+RID10225			Pogostemon cablin leaf extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID00006	CID:10163	CAS:478-08-0	Lucidin	Compound	38522112	In vivo		Carassius auratus			mg/L	8.245	8.245	Decreased	Lethal body concentration	Mortality
+RID00060	CID:167928	CAS:20736-09-8	Saikosaponin a (from radix bupleuri)	Compound	25266906	In vivo		Carassius auratus			mg/L	11.2	11.2	Decreased	Lethal body concentration	Mortality
+RID10251			Rosa laevigata fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	450	450	Decreased	Survival	Mortality
+RID10255			Rosmarinus officinalis whole plant aqueous extract	Mixture	29080753	In vivo		Cyprinus carpio			g/L	92.5-127.2	92.5-127.2	Decreased	Lethal body concentration	Mortality
+RID10256			Rosmarinus officinalis whole plant ethanol extract	Mixture	29080753	In vivo		Cyprinus carpio			g/L	1.2-2.1	1.2-2.1	Decreased	Lethal body concentration	Mortality
+RID10259			Rubus chingii fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	450	450	Decreased	Survival	Mortality
+RID00063	CID:17161	CAS:2460-77-7	2,5-di-tert-butyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	0.5761	0.5761	Decreased	Lethal body concentration	Mortality
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Decreased	Interleukin 10 mRNA	Genetics
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Decreased	Superoxide dismutase 1 mRNA	Genetics
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Glutathione peroxidase mRNA	Genetics
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	HSP70 mRNA	Genetics
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Il13r1a mRNA	Genetics
+RID00064	CID:176	CAS:64-19-7	Acetic acid	Compound	33218110	In vitro	Leukocytes from olfactory organ of Salmo salar				μM	100	100	Increased	Reactive oxygen species	Biochemistry
+RID10273			Sodium hypochlorite+Pronase	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization	ppm	50+40.8-100+40.8	50+40.8-100+40.8	Decreased	Hatch	Mortality
+RID10273			Sodium hypochlorite+Pronase	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+40.8-100+40.8	50+40.8-100+40.8	Decreased	Hatch	Mortality
+RID10273			Sodium hypochlorite+Pronase	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization	ppm	50+40.8-100+40.8	50+40.8-100+40.8	Decreased	Hatch	Mortality
+RID10273			Sodium hypochlorite+Pronase	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+40.8-100+40.8	50+40.8-100+40.8	Decreased	Hatch	Mortality
+RID10274			Sodium hypochlorite+Pronase+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization	ppm	50+40.8+500-100+40.8+500	50+40.8+500-100+40.8+500	Decreased	Hatch	Mortality
+RID10274			Sodium hypochlorite+Pronase+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+40.8+500-100+40.8+500	50+40.8+500-100+40.8+500	Decreased	Hatch	Mortality
+RID10274			Sodium hypochlorite+Pronase+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization	ppm	50+40.8+500-100+40.8+500	50+40.8+500-100+40.8+500	Decreased	Hatch	Mortality
+RID10274			Sodium hypochlorite+Pronase+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+40.8+500-100+40.8+500	50+40.8+500-100+40.8+500	Decreased	Hatch	Mortality
+RID10275			Sodium hypochlorite+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization	ppm	50+500-100+500	50+500-100+500	Decreased	Hatch	Mortality
+RID10275			Sodium hypochlorite+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+500-100+500	50+500-100+500	Decreased	Hatch	Mortality
+RID10275			Sodium hypochlorite+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization	ppm	50+500-100+500	50+500-100+500	Decreased	Hatch	Mortality
+RID10275			Sodium hypochlorite+Sodium Thiosulfate	Mixture	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization with 0.15 ppm methylene Blue	ppm	50+500-100+500	50+500-100+500	Decreased	Hatch	Mortality
+RID10278			Sophora flavescens root extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	125	125	Decreased	Survival	Mortality
+RID00065	CID:18347	CAS:3095-40-7	Spongouridine	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00065	CID:18347	CAS:3095-40-7	Spongouridine	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID10279			Sophora japonica fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	2500.0-10000.0	2500.0-10000.0	Decreased	Chlorophyll A concentration	Biochemistry
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	2500.0-10000.0	2500.0-10000.0	Decreased	Length of coral	Morphology
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	1500.0-10000.0	1500.0-10000.0	Decreased	Survival	Mortality
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	2500.0-10000.0	2500.0-10000.0	Decreased	Zooxanthellae content	Physiology
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	1500.0-10000.0	2500.0-10000.0	Increased	Catalase activity	Enzyme(s)
+RID10281			Syzygium aromaticum flower bud extract	Mixture	35205146	In vivo		Goniopora columna			ppm	1500.0-10000.0	1500.0-10000.0	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID10286			Total saponin from Bupleurum chinense root	Mixture	25266906	In vivo		Carassius auratus			mg/L	8.99	8.99	Decreased	Lethal body concentration	Mortality
+RID10287			Tribulus terrestris fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	800	800	Decreased	Survival	Mortality
+RID10292			Triticum aestivum seed extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID00067	CID:19211	CAS:3602-55-9	2-tert-butyl-1,4-benzoquinone	Compound	39837239	In vivo		Carassius auratus		Bath	mg/L	1.618	1.618	Decreased	Lethal body concentration	Mortality
+RID10304			Virkon Aquatic	Mixture	39175494	In vivo		Sparus aurata	Juvenile	Water treatment	%	1	1	Decreased	Survival	Mortality
+RID10306			Xanthium sibiricum fruit extract	Mixture	24005478	In vivo		Carassius auratus			mg/L	500	500	Decreased	Survival	Mortality
+RID00068	CID:193962	CAS:269055-15-4	Etravirine	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID10308			Zein nanoparticles+Allium sativum essential oil	Mixture	32637831	In vivo		Artemia salina			mg/L	61.22	61.22	Decreased	Lethal body concentration	Mortality
+RID10309			Zein nanoparticles+Eugenol	Mixture	32637831	In vivo		Artemia salina			mg/L	6.23	6.23	Decreased	Lethal body concentration	Mortality
+RID10310			Zein nanoparticles+Eugenol+Allium sativum essential oil	Mixture	32637831	In vivo		Artemia salina			mg/L	5.82	5.82	Decreased	Lethal body concentration	Mortality
+RID10312			Zingiber officinale ethanolic extract	Mixture	25819871	In vitro	Fins & Skin	Poecilia reticulata		Bath	ppt	2.5-10.0	5.0-10.0	Decreased	Survival	Mortality
+RID10314			Zingiber officinale rhizome ethanol extract	Mixture	25819871	In vivo		Poecilia reticulata		Bath	ppt	2.5-10.0	5.0-10.0	Decreased	Survival	Mortality
+RID00071	CID:197810	CAS:476-32-4	Chelidonine	Compound	21537985	In vivo		Carassius auratus			mg/L	4.54	4.54	Decreased	Lethal body concentration	Mortality
+RID00074	CID:2082	CAS:54965-21-8	Albendazole	Compound	39194144	In vivo		Colossoma macropomum	Juveniles	Bath	mg/L	500	500	Decreased	Eosinophil	Cell(s)
+RID00074	CID:2082	CAS:54965-21-8	Albendazole	Compound	39194144	In vivo		Colossoma macropomum	Juveniles	Bath	mg/L	500	500	Increased	Glucose	Biochemistry
+RID00074	CID:2082	CAS:54965-21-8	Albendazole	Compound	39194144	In vivo		Colossoma macropomum	Juveniles	Bath	mg/L	500	500	Increased	Protein content	Biochemistry
+RID00074	CID:2082	CAS:54965-21-8	Albendazole	Compound	39992024	In vivo		Carassius auratus			mg/L	2.229	2.229	Increased	Lethal body concentration	Mortality
+RID00075	CID:208908	CAS:231277-92-2	Lapatinib	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00076	CID:2130	CAS:768-94-5	Amantadine	Compound	34962648	In vitro	SSN- 1 cells				mg/L	250	250	Decreased	Lethal body concentration	Mortality
+RID00076	CID:2130	CAS:768-94-5	Amantadine	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	55.61	55.61	Decreased	Lethal body concentration	Mortality
+RID00077	CID:21704	CAS:5536-17-4	Vidarabine	Compound	34962648	In vitro	SSN- 1 cells				mg/L	145.92	145.92	Decreased	Lethal body concentration	Mortality
+RID00077	CID:21704	CAS:5536-17-4	Vidarabine	Compound	34962648	In vivo		Hybrid grouper (Epinephelus fuscoguttatus × Epinephelus lanceolatus)			mg/L	100	100	Decreased	Lethal body concentration	Mortality
+RID00079	CID:222757	CAS:50-50-0	Estradiol benzoate	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00082	CID:2337	CAS:94-09-7	Benzocaine	Compound	32970684	In vivo		Danio rerio	Embryos	Benzocaine nanoparticles (NP) immersion	μg/mL	3.9-62.5	62.5	Decreased	Survival	Mortality
+RID00082	CID:2337	CAS:94-09-7	Benzocaine	Compound	32970684	In vivo		Danio rerio	Embryos	Chitosan-coated PLGA mucoadhesive nanoparticles containing Benzocaine (NPMAs) immersion	μg/mL	3.9-62.5	3.9-62.5	Decreased	Survival	Mortality
+RID00084	CID:23616879	CAS:475-00-3	Veratrosine	Compound	38522112	In vivo		Carassius auratus			mg/L	15.243	15.243	Decreased	Lethal body concentration	Mortality
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	22562751	In vivo		Arbacia lixula	Larva		mg/l	11.1	11.1	Decreased	Acute toxic effect concentration	Physiology
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	22562751	In vivo		Paracentrotus lividus	Larva		mg/l	10.15	10.15	Decreased	Acute toxic effect concentration	Physiology
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization	ppm	50.0-100.0	50.0-100.0	Decreased	Hatch	Mortality
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 24 hours postfertilization with 0.15 ppm methylene Blue	ppm	50.0-100.0	50.0-100.0	Decreased	Hatch	Mortality
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization	ppm	50.0-100.0	50.0-100.0	Decreased	Hatch	Mortality
+RID00086	CID:23665760	CAS:7681-52-9	Sodium hypochlorite	Compound	33048660	In vivo		Danio rerio	Embryos	Surface disinfected 6 hours postfertilization with 0.15 ppm methylene Blue	ppm	50.0-100.0	50.0-100.0	Decreased	Hatch	Mortality
+RID00089	CID:24007	CAS:7446-08-4	Selenium dioxide	Compound	34679941	In vivo		Salmo trutta	Embryos	Water treatment	mg/L	8.0-32.0	16.0-32.0	Decreased	Survival	Mortality
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	22160950	In vivo		Oreochromis niloticus			mg/l	1	1	Abnormal	Ventricle strips tension	Physiology
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	22160950	In vivo		Oreochromis niloticus			mg/l	1	1	Decreased	Area of mitochondria	Morphology
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	22160950	In vivo		Oreochromis niloticus			mg/l	1	1	Decreased	Contraction rate	Physiology
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	22160950	In vivo		Oreochromis niloticus			mg/l	1	1	Increased	Area of mitochondria	Morphology
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	22160950	In vivo		Oreochromis niloticus			mg/l	1	1	Increased	Area of sarcoplasm	Morphology
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	0.7	0.7	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	0.7	0.7	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	0.7	0.7	Decreased	Survival	Mortality
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	0.7	0.7	Decreased	Total hematocyte count	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	0.7	0.7	Increased	Hemocyte Apoptosis	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	0.7	0.7	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	0.7	0.7	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	0.7	0.7	Decreased	Survival	Mortality
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	0.7	0.7	Decreased	Total hematocyte count	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	0.7	0.7	Increased	Hemocyte Apoptosis	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	0.7	0.7	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	0.7	0.7	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	0.7	0.7	Decreased	Total hematocyte count	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulfate	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	0.7	0.7	Increased	Hemocyte Apoptosis	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Catalase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Hematocrit (anemia)	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Hemoglobin	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Polychromatic cells	Cell(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Copper (Cu) content	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Glucose-6-phosphate dehydrogenase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Glutathione (reduced glutathione)	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	34216227	In vivo		Oreochromis niloticus			mg/L	0.05	0.05	Increased	Malondialdehyde	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Catalase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Protein content	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alanine transaminase (ALT)	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Alkaline phosphatase	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Aspartate aminotransferase	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Cortisol	Hormone(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Creatinine	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Glucose	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Lactate dehydrogenase	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Malondialdehyde	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Increased	Urea nitrogen	Biochemistry
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione S-transferase	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	35298018	In vivo		Oreochromis niloticus		Bath	mg/L	0.05	0.05	Irregular	Glutathione reductase	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Catalase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Glutathione peroxidase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Hepatocyte count	Cell(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Catalase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Glutathione peroxidase activity	Enzyme(s)
+RID00092	CID:24462	CAS:7758-98-7	Copper sulphate	Compound	37446380	In vivo		Danio rerio	Juvenile		mg/L	0.5	0.5	Increased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	1.5	1.5	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	1.5	1.5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	1.5	1.5	Decreased	Survival	Mortality
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	1.5	1.5	Decreased	Total hematocyte count	Biochemistry
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment	g/m³	1.5	1.5	Increased	Hemocyte Apoptosis	Biochemistry
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	1.5	1.5	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	1.5	1.5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	1.5	1.5	Decreased	Survival	Mortality
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	1.5	1.5	Decreased	Total hematocyte count	Biochemistry
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + Vibrio alginolyticus infection	g/m³	1.5	1.5	Increased	Hemocyte Apoptosis	Biochemistry
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	1.5	1.5	Decreased	Prophenoloxidase activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	1.5	1.5	Decreased	Superoxide dismutase (SOD) enzyme activity	Enzyme(s)
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	1.5	1.5	Decreased	Survival	Mortality
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	1.5	1.5	Decreased	Total hematocyte count	Biochemistry
+RID00094	CID:24504	CAS:7778-54-3	Calcium hypochlorite	Compound	30453045	In vivo		Procambarus clarkii	Adult	Water treatment + White spot syndrome virus infection	g/m³	1.5	1.5	Increased	Hemocyte Apoptosis	Biochemistry
+RID00095	CID:25079965	CAS:20196-89-8	Kaempferol 7-O-rhamnoside	Compound	38522112	In vivo		Carassius auratus			mg/L	9.297	9.297	Decreased	Lethal body concentration	Mortality
+RID00096	CID:25245	CAS:5003-48-5	Benorilate	Compound	39992024	In vivo		Carassius auratus			mg/L	10	10	Decreased	Lethal body concentration	Mortality
+RID00098	CID:25517	CAS:12125-02-9	Ammonium chloride	Compound	29890241	In vitro	Sahul Indian sea bass kidney (SISK) cell line				mM	100.0-500.0	100.0-500.0	Decreased	Survival	Mortality
+RID00099	CID:261501	CAS:886-86-2	Tricaine	Compound	23291569	In vivo		Sparus aurata			mg/L	65	65	Changed	Glutathione S-transferase activity	Enzyme(s)

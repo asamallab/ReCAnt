@@ -1,0 +1,175 @@
+id	pubchemid	casrn	diseaseid	diseasename	organisms
+RID00105	CID:2730	CAS:2921-88-2	MESH:D005355	Fibrosis	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006965	Hyperplasia	Oncorhynchus tshawytscha|Oreochromis niloticus
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006949	Hyperlipidemias	Clarias gariepinus|Danio rerio|Oncorhynchus mykiss|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006943	Hyperglycemia	Salmo salar|Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006940	Hyperemia	Oncorhynchus tshawytscha|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006470	Hemorrhage	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006332	Cardiomegaly	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007003	Hypoglycemia	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D006130	Growth Disorders	Cyprinus carpio|Clarias gariepinus|Oreochromis niloticus
+RID00105	CID:2730	CAS:2921-88-2	MESH:D066126	Cardiotoxicity	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D005234	Fatty Liver	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D004487	Edema	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D004195	Disease Models, Animal	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D003920	Diabetes Mellitus	Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D003072	Cognition Disorders	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D005911	Gliosis	Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007035	Hypothermia	Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007247	Infertility, Female	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007248	Infertility, Male	Danio rerio|Oncorhynchus mykiss|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D010243	Paralysis	Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009845	Oligospermia	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009765	Obesity	Salmo salar|Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009422	Nervous System Diseases	Danio rerio|Oncorhynchus mykiss|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009410	Nerve Degeneration	Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009362	Neoplasm Metastasis	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009361	Neoplasm Invasiveness	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D009336	Necrosis	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D008569	Memory Disorders	Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D008175	Lung Neoplasms	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D008107	Liver Diseases	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D008103	Liver Cirrhosis	Salmo salar|Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007674	Kidney Diseases	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007333	Insulin Resistance	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D007249	Inflammation	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D002869	Chromosome Aberrations	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D012640	Seizures	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D002543	Cerebral Hemorrhage	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001929	Brain Edema	Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D064420	Drug-Related Side Effects and Adverse Reactions	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D056486	Chemical and Drug Induced Liver Injury	Salmo salar|Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D055370	Lung Injury	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D053627	Asthenozoospermia	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D051437	Renal Insufficiency	Danio rerio|Clarias gariepinus
+RID00105	CID:2730	CAS:2921-88-2	MESH:D050171	Dyslipidemias	Clarias gariepinus|Oncorhynchus mykiss|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D048629	Micronuclei, Chromosome-Defective	Clarias gariepinus|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D020258	Neurotoxicity Syndromes	Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D019465	Craniofacial Abnormalities	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D018149	Glucose Intolerance	Cyprinus carpio|Clarias gariepinus|Micropterus salmoides|Oreochromis niloticus
+RID00105	CID:2730	CAS:2921-88-2	MESH:D015431	Weight Loss	Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D015430	Weight Gain	Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001930	Brain Injuries	Clarias gariepinus|Oncorhynchus tshawytscha|Oncorhynchus mykiss|Oreochromis niloticus|Danio rerio|Micropterus salmoides|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D013959	Thyroid Diseases	Danio rerio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001927	Brain Diseases	Danio rerio|Oreochromis niloticus|Oncorhynchus tshawytscha|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001919	Bradycardia	Oncorhynchus mykiss
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001724	Birth Weight	Oncorhynchus mykiss
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001284	Atrophy	Danio rerio|Cyprinus carpio
+RID00105	CID:2730	CAS:2921-88-2	MESH:D001259	Ataxia	Danio rerio|Clarias gariepinus|Micropterus salmoides|Cyprinus carpio
+RID00111	CID:2912	CAS:52315-07-8	MESH:D009336	Necrosis	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D002471	Cell Transformation, Neoplastic	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D005317	Fetal Growth Retardation	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D006332	Cardiomegaly	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D008569	Memory Disorders	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D007035	Hypothermia	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D007248	Infertility, Male	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D007674	Kidney Diseases	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D019465	Craniofacial Abnormalities	Danio rerio
+RID00111	CID:2912	CAS:52315-07-8	MESH:D015431	Weight Loss	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D012640	Seizures	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D008107	Liver Diseases	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D009362	Neoplasm Metastasis	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D007247	Infertility, Female	Danio rerio|Oncorhynchus mykiss
+RID00111	CID:2912	CAS:52315-07-8	MESH:D009410	Nerve Degeneration	Danio rerio|Oncorhynchus mykiss
+RID00122	CID:3365	CAS:86386-73-4	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio
+RID00122	CID:3365	CAS:86386-73-4	MESH:D012640	Seizures	Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D058186	Acute Kidney Injury	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D056486	Chemical and Drug Induced Liver Injury	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D010523	Peripheral Nervous System Diseases	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D009422	Nervous System Diseases	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D009336	Necrosis	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D007249	Inflammation	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D007248	Infertility, Male	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D005911	Gliosis	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D003924	Diabetes Mellitus, Type 2	Sparus aurata|Danio rerio
+RID00137	CID:4004	CAS:121-75-5	MESH:D003110	Colonic Neoplasms	Sparus aurata|Danio rerio
+RID00170	CID:4539	CAS:70458-96-7	MESH:D009410	Nerve Degeneration	Danio rerio
+RID00170	CID:4539	CAS:70458-96-7	MESH:D004487	Edema	Danio rerio
+RID00189	CID:5280343	CAS:117-39-5	MESH:D058186	Acute Kidney Injury	Carassius auratus
+RID00198	CID:5280961	CAS:446-72-0	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio
+RID00229	CID:54675776	CAS:60-54-8	MESH:D058186	Acute Kidney Injury	Danio rerio
+RID00229	CID:54675776	CAS:60-54-8	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio
+RID00229	CID:54675776	CAS:60-54-8	MESH:D028361	Mitochondrial Diseases	Danio rerio
+RID00229	CID:54675776	CAS:60-54-8	MESH:D007674	Kidney Diseases	Danio rerio
+RID00229	CID:54675776	CAS:60-54-8	MESH:D004342	Drug Hypersensitivity	Danio rerio
+RID00239	CID:5564	CAS:3380-34-5	MESH:D010049	Ovarian Diseases	Cyprinus carpio
+RID00244	CID:5853	CAS:52-68-6	MESH:D003920	Diabetes Mellitus	Macrobrachium rosenbergii|Cyprinus carpio
+RID00244	CID:5853	CAS:52-68-6	MESH:D010243	Paralysis	Macrobrachium rosenbergii|Cyprinus carpio
+RID00244	CID:5853	CAS:52-68-6	MESH:D015431	Weight Loss	Macrobrachium rosenbergii|Cyprinus carpio
+RID00244	CID:5853	CAS:52-68-6	MESH:D056486	Chemical and Drug Induced Liver Injury	Macrobrachium rosenbergii|Cyprinus carpio
+RID00029	CID:12035	CAS:616-91-1	MESH:D064420	Drug-Related Side Effects and Adverse Reactions	Danio rerio|Oncorhynchus mykiss
+RID00029	CID:12035	CAS:616-91-1	MESH:D058186	Acute Kidney Injury	Danio rerio|Oncorhynchus mykiss|Ctenopharyngodon idella
+RID00029	CID:12035	CAS:616-91-1	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio|Oncorhynchus mykiss
+RID00029	CID:12035	CAS:616-91-1	MESH:D015427	Reperfusion Injury	Danio rerio|Oncorhynchus mykiss|Ctenopharyngodon idella
+RID00029	CID:12035	CAS:616-91-1	MESH:D009336	Necrosis	Danio rerio|Oncorhynchus mykiss
+RID00029	CID:12035	CAS:616-91-1	MESH:D007674	Kidney Diseases	Danio rerio|Oncorhynchus mykiss|Ctenopharyngodon idella
+RID00029	CID:12035	CAS:616-91-1	MESH:D007022	Hypotension	Danio rerio|Oncorhynchus mykiss
+RID00029	CID:12035	CAS:616-91-1	MESH:D005234	Fatty Liver	Danio rerio|Oncorhynchus mykiss
+RID00299	CID:702	CAS:64-17-5	MESH:D009336	Necrosis	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D006973	Hypertension	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D007249	Inflammation	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D007674	Kidney Diseases	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D008114	Liver Neoplasms, Experimental	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D008175	Lung Neoplasms	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D009361	Neoplasm Invasiveness	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D010523	Peripheral Nervous System Diseases	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D013274	Stomach Neoplasms	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D015427	Reperfusion Injury	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D018450	Disease Progression	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D019465	Craniofacial Abnormalities	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D019969	Amphetamine-Related Disorders	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D055371	Acute Lung Injury	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D058186	Acute Kidney Injury	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D065626	Non-alcoholic Fatty Liver Disease	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D006528	Carcinoma, Hepatocellular	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D006470	Hemorrhage	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D007569	Jaw Abnormalities	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D006330	Heart Defects, Congenital	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D004487	Edema	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D002471	Cell Transformation, Neoplastic	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D000014	Abnormalities, Drug-Induced	Danio rerio
+RID00299	CID:702	CAS:64-17-5	MESH:D006331	Heart Diseases	Danio rerio
+RID00315	CID:784	CAS:7722-84-1	MESH:D003110	Colonic Neoplasms	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D003921	Diabetes Mellitus, Experimental	Piaractus mesopotamicus|Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D005234	Fatty Liver	Piaractus mesopotamicus|Danio rerio
+RID00315	CID:784	CAS:7722-84-1	MESH:D006461	Hemolysis	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D006940	Hyperemia	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D007249	Inflammation	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D009410	Nerve Degeneration	Danio rerio
+RID00315	CID:784	CAS:7722-84-1	MESH:D009361	Neoplasm Invasiveness	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D014947	Wounds and Injuries	Danio rerio
+RID00315	CID:784	CAS:7722-84-1	MESH:D015427	Reperfusion Injury	Piaractus mesopotamicus|Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D017246	Ophthalmoplegia, Chronic Progressive External	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D064420	Drug-Related Side Effects and Adverse Reactions	Danio rerio
+RID00315	CID:784	CAS:7722-84-1	MESH:D009336	Necrosis	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D001930	Brain Injuries	Danio rerio|Oncorhynchus mykiss
+RID00315	CID:784	CAS:7722-84-1	MESH:D002318	Cardiovascular Diseases	Piaractus mesopotamicus|Danio rerio
+RID00053	CID:15910	CAS:1897-45-6	MESH:D056486	Chemical and Drug Induced Liver Injury	Ctenopharyngodon idella
+RID00064	CID:176	CAS:64-19-7	MESH:D015431	Weight Loss	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D064420	Drug-Related Side Effects and Adverse Reactions	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D048629	Micronuclei, Chromosome-Defective	Danio rerio|Oncorhynchus mykiss
+RID00080	CID:2256	CAS:1912-24-9	MESH:D015431	Weight Loss	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D003110	Colonic Neoplasms	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D003924	Diabetes Mellitus, Type 2	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D005317	Fetal Growth Retardation	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D003920	Diabetes Mellitus	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D007248	Infertility, Male	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D007674	Kidney Diseases	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D007676	Kidney Failure, Chronic	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D008569	Memory Disorders	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D008654	Mesothelioma	Danio rerio|Oncorhynchus mykiss
+RID00080	CID:2256	CAS:1912-24-9	MESH:D009369	Neoplasms	Danio rerio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D009410	Nerve Degeneration	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D006984	Hypertrophy	Danio rerio|Cyprinus carpio
+RID00080	CID:2256	CAS:1912-24-9	MESH:D009765	Obesity	Danio rerio
+RID00092	CID:24462	CAS:7758-98-7	MESH:D001930	Brain Injuries	Danio rerio|Labeo rohita|Oreochromis niloticus
+RID00092	CID:24462	CAS:7758-98-7	MESH:D004195	Disease Models, Animal	Danio rerio|Labeo rohita
+RID00092	CID:24462	CAS:7758-98-7	MESH:D007249	Inflammation	Danio rerio|Salmo salar|Labeo rohita|Oreochromis niloticus
+RID00092	CID:24462	CAS:7758-98-7	MESH:D008107	Liver Diseases	Danio rerio
+RID00092	CID:24462	CAS:7758-98-7	MESH:D055370	Lung Injury	Danio rerio|Oreochromis niloticus
+RID00092	CID:24462	CAS:7758-98-7	MESH:D056486	Chemical and Drug Induced Liver Injury	Danio rerio|Labeo rohita
+RID00092	CID:24462	CAS:7758-98-7	MESH:D058186	Acute Kidney Injury	Danio rerio|Salmo salar|Ctenopharyngodon idella|Oreochromis niloticus

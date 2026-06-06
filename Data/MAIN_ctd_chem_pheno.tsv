@@ -1,0 +1,436 @@
+id	pubchemid	casrn	phenotypeid	phenotypename	interactionactions	organismid	organism	pubmedids
+RID00102	CID:2719	CAS:54-05-7	GO:0009636	response to toxic substance	Increases phenotype	7955	Danio rerio	29605586
+RID00102	CID:2719	CAS:54-05-7	GO:0061739	protein lipidation involved in autophagosome assembly	Increases phenotype	7955	Danio rerio	29605586
+RID00105	CID:2730	CAS:2921-88-2	GO:0051346	negative regulation of hydrolase activity	Decreases hydrolysis	7955	Danio rerio	29605586
+RID00105	CID:2730	CAS:2921-88-2	GO:0046449	creatinine metabolic process	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0046622	positive regulation of organ growth	Increases phenotype	13013	Clarias gariepinus	26994807
+RID00105	CID:2730	CAS:2921-88-2	GO:0048496	maintenance of animal organ identity	Decreases phenotype	7957	Carassius auratus	32169701
+RID00105	CID:2730	CAS:2921-88-2	GO:0048496	maintenance of animal organ identity	Decreases phenotype	7962	Cyprinus carpio	30176333
+RID00105	CID:2730	CAS:2921-88-2	GO:0048496	maintenance of animal organ identity	Decreases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0048532	anatomical structure arrangement	Decreases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0048874	host-mediated regulation of intestinal microbiota composition	Increases phenotype	7955	Danio rerio	30423371
+RID00105	CID:2730	CAS:2921-88-2	GO:0050709	negative regulation of protein secretion	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0050765	negative regulation of phagocytosis	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0051000	positive regulation of nitric-oxide synthase activity	Increases phenotype	7962	Cyprinus carpio	31310849
+RID00105	CID:2730	CAS:2921-88-2	GO:0051338	regulation of transferase activity	Affects phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0051346	negative regulation of hydrolase activity	Decreases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0051346	negative regulation of hydrolase activity	Decreases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0051346	negative regulation of hydrolase activity	Increases phenotype	7955	Danio rerio	26998704|29605586,29605586,26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0046415	urate metabolic process	Decreases phenotype	8128	Oreochromis niloticus	32470510,32371257
+RID00105	CID:2730	CAS:2921-88-2	GO:0046415	urate metabolic process	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0045454	cell redox homeostasis	Decreases phenotype	7962	Cyprinus carpio	30176333
+RID00105	CID:2730	CAS:2921-88-2	GO:0044237	cellular metabolic process	Decreases phenotype	7962	Cyprinus carpio	30881588
+RID00105	CID:2730	CAS:2921-88-2	GO:0035702	monocyte homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0036269	swimming behavior	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0036269	swimming behavior	Affects phenotype	7955	Danio rerio	33725534,27018022
+RID00105	CID:2730	CAS:2921-88-2	GO:0036269	swimming behavior	Decreases phenotype	7955	Danio rerio	29605586,28982082
+RID00105	CID:2730	CAS:2921-88-2	GO:0040015	negative regulation of multicellular organism growth	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0040015	negative regulation of multicellular organism growth	Increases phenotype	7955	Danio rerio	29653490
+RID00105	CID:2730	CAS:2921-88-2	GO:0051346	negative regulation of hydrolase activity	Increases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0040018	positive regulation of multicellular organism growth	Affects phenotype	13013	Clarias gariepinus	26994807
+RID00105	CID:2730	CAS:2921-88-2	GO:0042593	glucose homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0042632	cholesterol homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495,26994807
+RID00105	CID:2730	CAS:2921-88-2	GO:0042632	cholesterol homeostasis	Decreases phenotype	7955	Danio rerio	31384916
+RID00105	CID:2730	CAS:2921-88-2	GO:0043032	positive regulation of macrophage activation	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0043065	positive regulation of apoptotic process	Increases phenotype	7955	Danio rerio	28407539,31384916,26079056
+RID00105	CID:2730	CAS:2921-88-2	GO:0043065	positive regulation of apoptotic process	Increases phenotype	7962	Cyprinus carpio	30176333,31310849,28675853,31479757
+RID00105	CID:2730	CAS:2921-88-2	GO:0042403	thyroid hormone metabolic process	Affects phenotype	7955	Danio rerio	36769379,34571837
+RID00105	CID:2730	CAS:2921-88-2	GO:0051347	positive regulation of transferase activity	Increases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0051348	negative regulation of transferase activity	Decreases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0051348	negative regulation of transferase activity	Decreases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:1901670	negative regulation of superoxide dismutase activity	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:1901687	glutathione derivative biosynthetic process	Increases phenotype	7955	Danio rerio	28407539
+RID00105	CID:2730	CAS:2921-88-2	GO:1902902	negative regulation of autophagosome assembly	Increases phenotype	7962	Cyprinus carpio	26662364
+RID00105	CID:2730	CAS:2921-88-2	GO:1903283	negative regulation of glutathione peroxidase activity	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:1903283	negative regulation of glutathione peroxidase activity	Increases phenotype	7955	Danio rerio	30423371
+RID00105	CID:2730	CAS:2921-88-2	GO:1903283	negative regulation of glutathione peroxidase activity	Increases phenotype	7962	Cyprinus carpio	28648885
+RID00105	CID:2730	CAS:2921-88-2	GO:1901670	negative regulation of superoxide dismutase activity	Increases phenotype	7962	Cyprinus carpio	30176333,28648885
+RID00105	CID:2730	CAS:2921-88-2	GO:1903523	negative regulation of blood circulation	Increases phenotype	7955	Danio rerio	28982082
+RID00105	CID:2730	CAS:2921-88-2	GO:1904832	negative regulation of removal of superoxide radicals	Increases phenotype	7962	Cyprinus carpio	31310849
+RID00105	CID:2730	CAS:2921-88-2	GO:2000252	negative regulation of feeding behavior	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:2000378	negative regulation of reactive oxygen species metabolic process	Increases phenotype	7962	Cyprinus carpio	26662364
+RID00105	CID:2730	CAS:2921-88-2	GO:2000469	negative regulation of peroxidase activity	Increases phenotype	7962	Cyprinus carpio	31310849
+RID00105	CID:2730	CAS:2921-88-2	GO:2000611	positive regulation of thyroid hormone generation	Increases phenotype	7955	Danio rerio	32738127
+RID00105	CID:2730	CAS:2921-88-2	GO:2000844	negative regulation of testosterone secretion	Increases phenotype	13013	Clarias gariepinus	26994807
+RID00105	CID:2730	CAS:2921-88-2	GO:1903591	negative regulation of lysozyme activity	Increases phenotype	8128	Oreochromis niloticus	29433082|32371257
+RID00105	CID:2730	CAS:2921-88-2	GO:0035188	hatching	Increases phenotype	7955	Danio rerio	26079056
+RID00105	CID:2730	CAS:2921-88-2	GO:1901670	negative regulation of superoxide dismutase activity	Increases phenotype	7955	Danio rerio	28407539,30423371,29653490
+RID00105	CID:2730	CAS:2921-88-2	GO:1901000	regulation of response to salt stress	Affects phenotype	8022	Oncorhynchus mykiss	29304407
+RID00105	CID:2730	CAS:2921-88-2	GO:0051348	negative regulation of transferase activity	Increases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0051348	negative regulation of transferase activity	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0052689	carboxylic ester hydrolase activity	Decreases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0052689	carboxylic ester hydrolase activity	Decreases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0052689	carboxylic ester hydrolase activity	Increases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0052689	carboxylic ester hydrolase activity	Increases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:1901216	positive regulation of neuron death	Increases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0060267	positive regulation of respiratory burst	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0070257	positive regulation of mucus secretion	Increases phenotype	7955	Danio rerio	30423371
+RID00105	CID:2730	CAS:2921-88-2	GO:0070257	positive regulation of mucus secretion	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0070328	triglyceride homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0070328	triglyceride homeostasis	Decreases phenotype	7955	Danio rerio	31384916
+RID00105	CID:2730	CAS:2921-88-2	GO:0072593	reactive oxygen species metabolic process	Affects phenotype	7962	Cyprinus carpio	30881588
+RID00105	CID:2730	CAS:2921-88-2	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Affects phenotype	7955	Danio rerio	29499247
+RID00105	CID:2730	CAS:2921-88-2	GO:0061061	muscle structure development	Decreases phenotype	7955	Danio rerio	27029555
+RID00105	CID:2730	CAS:2921-88-2	GO:0035188	hatching	Decreases phenotype	7955	Danio rerio	29605586,30612050
+RID00105	CID:2730	CAS:2921-88-2	GO:0050709	negative regulation of protein secretion	Increases phenotype	8128	Oreochromis niloticus	32470510
+RID00105	CID:2730	CAS:2921-88-2	GO:0034440	lipid oxidation	Increases phenotype	7962	Cyprinus carpio	30176333,28648885
+RID00105	CID:2730	CAS:2921-88-2	GO:0004602	glutathione peroxidase activity	Decreases phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0004784	superoxide dismutase activity	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0004784	superoxide dismutase activity	Increases phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0005977	glycogen metabolic process	Decreases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0006006	glucose metabolic process	Decreases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0006304	DNA modification	Increases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0004602	glutathione peroxidase activity	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0006631	fatty acid metabolic process	Affects phenotype	8022	Oncorhynchus mykiss	31359069
+RID00105	CID:2730	CAS:2921-88-2	GO:0006640	monoacylglycerol biosynthetic process	Increases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0006644	phospholipid metabolic process	Affects phenotype	8022	Oncorhynchus mykiss	31359069
+RID00105	CID:2730	CAS:2921-88-2	GO:0006749	glutathione metabolic process	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0006749	glutathione metabolic process	Increases phenotype	7955	Danio rerio	30423371
+RID00105	CID:2730	CAS:2921-88-2	GO:0006749	glutathione metabolic process	Increases phenotype	7962	Cyprinus carpio	30176333
+RID00105	CID:2730	CAS:2921-88-2	GO:0006749	glutathione metabolic process	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0006636	unsaturated fatty acid biosynthetic process	Decreases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Increases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Increases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0001776	leukocyte homeostasis	Decreases phenotype	8128	Oreochromis niloticus	32371257|32470510
+RID00105	CID:2730	CAS:2921-88-2	GO:0001780	neutrophil homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0001780	neutrophil homeostasis	Decreases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0002164	larval development	Decreases phenotype	7955	Danio rerio	30612050
+RID00105	CID:2730	CAS:2921-88-2	GO:0002176	male germ cell proliferation	Increases phenotype	7955	Danio rerio	34571837
+RID00105	CID:2730	CAS:2921-88-2	GO:0034440	lipid oxidation	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0002260	lymphocyte homeostasis	Decreases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0002693	positive regulation of cellular extravasation	Increases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0002693	positive regulation of cellular extravasation	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0003993	acid phosphatase activity	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0004035	alkaline phosphatase activity	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0004035	alkaline phosphatase activity	Decreases phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Affects phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Decreases phenotype	7955	Danio rerio	26998704
+RID00105	CID:2730	CAS:2921-88-2	GO:0004364	glutathione transferase activity	Decreases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0006750	glutathione biosynthetic process	Decreases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0006954	inflammatory response	Increases phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0002260	lymphocyte homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0007635	chemosensory behavior	Affects phenotype	7955	Danio rerio	29499247
+RID00105	CID:2730	CAS:2921-88-2	GO:0020027	hemoglobin metabolic process	Affects phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0020027	hemoglobin metabolic process	Affects phenotype	8128	Oreochromis niloticus	32371257|32470510
+RID00105	CID:2730	CAS:2921-88-2	GO:0030262	apoptotic nuclear changes	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0030878	thyroid gland development	Decreases phenotype	7955	Danio rerio	32738127
+RID00105	CID:2730	CAS:2921-88-2	GO:0031987	locomotion involved in locomotory behavior	Decreases phenotype	7955	Danio rerio	30447611
+RID00105	CID:2730	CAS:2921-88-2	GO:0032148	activation of protein kinase B activity	Increases phenotype	7962	Cyprinus carpio	31479757
+RID00105	CID:2730	CAS:2921-88-2	GO:0019344	cysteine biosynthetic process	Decreases phenotype	8030	Salmo salar	31536758
+RID00105	CID:2730	CAS:2921-88-2	GO:0032769	negative regulation of monooxygenase activity	Increases phenotype	8022	Oncorhynchus mykiss	30012402
+RID00105	CID:2730	CAS:2921-88-2	GO:0034101	erythrocyte homeostasis	Decreases phenotype	8128	Oreochromis niloticus	29433082|32371257|32470510
+RID00105	CID:2730	CAS:2921-88-2	GO:0034379	very-low-density lipoprotein particle assembly	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0034380	high-density lipoprotein particle assembly	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0034440	lipid oxidation	Increases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0034440	lipid oxidation	Increases phenotype	7955	Danio rerio	28407539,30423371,29653490
+RID00105	CID:2730	CAS:2921-88-2	GO:0007275	multicellular organism development	Affects phenotype	7955	Danio rerio	29653490
+RID00105	CID:2730	CAS:2921-88-2	GO:0034101	erythrocyte homeostasis	Decreases phenotype	13013	Clarias gariepinus	32500495
+RID00105	CID:2730	CAS:2921-88-2	GO:0017085	response to insecticide	Affects phenotype	7955	Danio rerio	31521933
+RID00105	CID:2730	CAS:2921-88-2	GO:0032200	telomere organization	Affects phenotype	7955	Danio rerio	36769379
+RID00105	CID:2730	CAS:2921-88-2	GO:0010940	positive regulation of necrotic cell death	Increases phenotype	8128	Oreochromis niloticus	29433082
+RID00105	CID:2730	CAS:2921-88-2	GO:0016042	lipid catabolic process	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0008291	acetylcholine metabolic process	Decreases phenotype	7955	Danio rerio	30612050
+RID00105	CID:2730	CAS:2921-88-2	GO:0008343	adult feeding behavior	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0008344	adult locomotory behavior	Affects phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0009416	response to light stimulus	Decreases phenotype	7955	Danio rerio	29605586
+RID00105	CID:2730	CAS:2921-88-2	GO:0008283	cell population proliferation	Increases phenotype	27706	Micropterus salmoides	33848913
+RID00105	CID:2730	CAS:2921-88-2	GO:0008345	larval locomotory behavior	Decreases phenotype	7955	Danio rerio	30612050
+RID00105	CID:2730	CAS:2921-88-2	GO:0009636	response to toxic substance	Increases phenotype	7955	Danio rerio	28407539
+RID00105	CID:2730	CAS:2921-88-2	GO:0010508	positive regulation of autophagy	Increases phenotype	7962	Cyprinus carpio	31310849
+RID00105	CID:2730	CAS:2921-88-2	GO:0010669	epithelial structure maintenance	Decreases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0010884	positive regulation of lipid storage	Increases phenotype	7955	Danio rerio	32738127
+RID00105	CID:2730	CAS:2921-88-2	GO:0010888	negative regulation of lipid storage	Increases phenotype	7955	Danio rerio	31384916
+RID00105	CID:2730	CAS:2921-88-2	GO:0010940	positive regulation of necrotic cell death	Increases phenotype	7962	Cyprinus carpio	28675853
+RID00105	CID:2730	CAS:2921-88-2	GO:0009566	fertilization	Decreases phenotype	7955	Danio rerio	36769379,34571837
+RID00109	CID:2764	CAS:85721-33-1	GO:0055064	chloride ion homeostasis	Affects phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0140042	lipid droplet formation	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0070265	necrotic cell death	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0055078	sodium ion homeostasis	Affects phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0055075	potassium ion homeostasis	Affects phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0016042	lipid catabolic process	Affects phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0004364	glutathione transferase activity	Affects phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0006997	nucleus organization	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0004784	superoxide dismutase activity	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0004364	glutathione transferase activity	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00109	CID:2764	CAS:85721-33-1	GO:0007033	vacuole organization	Increases phenotype	683832	Cirrhinus mrigala	33382204
+RID00111	CID:2912	CAS:52315-07-8	GO:0070994	detection of oxidative stress	Increases phenotype	8022	Oncorhynchus mykiss	33412942
+RID00111	CID:2912	CAS:52315-07-8	GO:1901687	glutathione derivative biosynthetic process	Increases phenotype	7955	Danio rerio	28407539
+RID00111	CID:2912	CAS:52315-07-8	GO:1901670	negative regulation of superoxide dismutase activity	Increases phenotype	7955	Danio rerio	28407539
+RID00111	CID:2912	CAS:52315-07-8	GO:0055090	acylglycerol homeostasis	Affects phenotype	8022	Oncorhynchus mykiss	30801904
+RID00111	CID:2912	CAS:52315-07-8	GO:0043065	positive regulation of apoptotic process	Increases phenotype	7955	Danio rerio	28407539
+RID00111	CID:2912	CAS:52315-07-8	GO:0055078	sodium ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0055075	potassium ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0055064	chloride ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0051464	positive regulation of cortisol secretion	Increases phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0042632	cholesterol homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0004602	glutathione peroxidase activity	Decreases phenotype	8022	Oncorhynchus mykiss	33412942
+RID00111	CID:2912	CAS:52315-07-8	GO:0034440	lipid oxidation	Increases phenotype	7955	Danio rerio	28407539
+RID00111	CID:2912	CAS:52315-07-8	GO:0004064	arylesterase activity	Decreases phenotype	8022	Oncorhynchus mykiss	30801904
+RID00111	CID:2912	CAS:52315-07-8	GO:0004784	superoxide dismutase activity	Decreases phenotype	8022	Oncorhynchus mykiss	33412942
+RID00111	CID:2912	CAS:52315-07-8	GO:0042593	glucose homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00111	CID:2912	CAS:52315-07-8	GO:0006974	cellular response to DNA damage stimulus	Increases phenotype	8022	Oncorhynchus mykiss	30801904
+RID00111	CID:2912	CAS:52315-07-8	GO:0009636	response to toxic substance	Increases phenotype	7955	Danio rerio	28407539
+RID00111	CID:2912	CAS:52315-07-8	GO:0006304	DNA modification	Increases phenotype	8022	Oncorhynchus mykiss	33412942
+RID00117	CID:3220	CAS:518-82-1	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	22560901
+RID00012	CID:10286	CAS:491-38-3	GO:0030537	larval behavior	Affects phenotype	7955	Danio rerio	29094189
+RID00012	CID:10286	CAS:491-38-3	GO:0071632	optomotor response	Affects phenotype	7955	Danio rerio	29094189
+RID00012	CID:10286	CAS:491-38-3	GO:0007635	chemosensory behavior	Affects phenotype	7955	Danio rerio	29094189
+RID00122	CID:3365	CAS:86386-73-4	GO:0072593	reactive oxygen species metabolic process	Increases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0061053	somite development	Affects phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0060047	heart contraction	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0009790	embryo development	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0060047	heart contraction	Affects phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0042541	hemoglobin biosynthetic process	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0035188	hatching	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0034440	lipid oxidation	Increases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0009790	embryo development	Affects phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0007507	heart development	Affects phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0004784	superoxide dismutase activity	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0004096	catalase activity	Decreases phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0001944	vasculature development	Affects phenotype	7955	Danio rerio	39828185
+RID00122	CID:3365	CAS:86386-73-4	GO:0007507	heart development	Decreases phenotype	7955	Danio rerio	39828185
+RID00126	CID:3485	CAS:111-30-8	GO:0008285	negative regulation of cell population proliferation	Increases phenotype	7955	Danio rerio	28236482
+RID00137	CID:4004	CAS:121-75-5	GO:0070994	detection of oxidative stress	Increases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0036269	swimming behavior	Decreases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0034440	lipid oxidation	Increases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0017085	response to insecticide	Affects phenotype	7955	Danio rerio	31521933
+RID00137	CID:4004	CAS:121-75-5	GO:0008219	cell death	Increases phenotype	8022	Oncorhynchus mykiss	30825313
+RID00137	CID:4004	CAS:121-75-5	GO:0000737	DNA catabolic process, endonucleolytic	Increases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0004364	glutathione transferase activity	Increases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0004364	glutathione transferase activity	Decreases phenotype	7955	Danio rerio	36345843
+RID00137	CID:4004	CAS:121-75-5	GO:0004784	superoxide dismutase activity	Affects phenotype	7955	Danio rerio	36345843
+RID00139	CID:40326	CAS:52645-53-1	GO:0031987	locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	31442592
+RID00139	CID:40326	CAS:52645-53-1	GO:0072593	reactive oxygen species metabolic process	Affects phenotype	7955	Danio rerio	30553213
+RID00139	CID:40326	CAS:52645-53-1	GO:0052689	carboxylic ester hydrolase activity	Increases phenotype	7955	Danio rerio	30553213
+RID00147	CID:439246	CAS:480-41-1	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00147	CID:439246	CAS:480-41-1	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00016	CID:10494	CAS:508-02-1	GO:0009790	embryo development	Affects phenotype	7955	Danio rerio	31704064
+RID00167	CID:447043	CAS:83905-01-5	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	32454074
+RID00168	CID:4471	CAS:50-65-7	GO:0046785	microtubule polymerization	Decreases phenotype	7955	Danio rerio	30165700
+RID00168	CID:4471	CAS:50-65-7	GO:0090504	epiboly	Decreases phenotype	7955	Danio rerio	31398420
+RID00168	CID:4471	CAS:50-65-7	GO:0043039	tRNA aminoacylation	Affects phenotype	7955	Danio rerio	31398420
+RID00168	CID:4471	CAS:50-65-7	GO:0030041	actin filament polymerization	Decreases phenotype	7955	Danio rerio	31398420
+RID00168	CID:4471	CAS:50-65-7	GO:1904087	negative regulation of epiboly involved in gastrulation with mouth forming second	Increases phenotype	7955	Danio rerio	30165700
+RID00168	CID:4471	CAS:50-65-7	GO:0008652	amino acid biosynthetic process	Affects phenotype	7955	Danio rerio	31398420
+RID00168	CID:4471	CAS:50-65-7	GO:0009790	embryo development	Decreases phenotype	7955	Danio rerio	31398420
+RID00170	CID:4539	CAS:70458-96-7	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	30769002
+RID00170	CID:4539	CAS:70458-96-7	GO:0009792	embryo development ending in birth or egg hatching	Decreases phenotype	7955	Danio rerio	30769002
+RID00170	CID:4539	CAS:70458-96-7	GO:0035188	hatching	Decreases phenotype	7955	Danio rerio	30769002
+RID00018	CID:10658	CAS:523-50-2	GO:0002164	larval development	Affects phenotype	7955	Danio rerio	29774767
+RID00018	CID:10658	CAS:523-50-2	GO:0002164	larval development	Decreases phenotype	7955	Danio rerio	29774767
+RID00018	CID:10658	CAS:523-50-2	GO:0048794	swim bladder development	Affects phenotype	7955	Danio rerio	29774767
+RID00018	CID:10658	CAS:523-50-2	GO:0048794	swim bladder development	Decreases phenotype	7955	Danio rerio	29774767
+RID00189	CID:5280343	CAS:117-39-5	GO:1905448	positive regulation of mitochondrial ATP synthesis coupled electron transport	Decreases phenotype	7955	Danio rerio	28450151
+RID00189	CID:5280343	CAS:117-39-5	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00189	CID:5280343	CAS:117-39-5	GO:0009060	aerobic respiration	Decreases phenotype	7955	Danio rerio	28450151
+RID00189	CID:5280343	CAS:117-39-5	GO:0036269	swimming behavior	Decreases phenotype	7955	Danio rerio	28450151
+RID00189	CID:5280343	CAS:117-39-5	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00192	CID:5280445	CAS:491-70-3	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00192	CID:5280445	CAS:491-70-3	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00196	CID:5280805	CAS:153-18-4	GO:0030282	bone mineralization	Increases phenotype	7955	Danio rerio	34562440
+RID00197	CID:5280863	CAS:520-18-3	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00197	CID:5280863	CAS:520-18-3	GO:0048598	embryonic morphogenesis	Decreases phenotype	7955	Danio rerio	27492224
+RID00197	CID:5280863	CAS:520-18-3	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00198	CID:5280961	CAS:446-72-0	GO:0006536	glutamate metabolic process	Affects phenotype	8030	Salmo salar	28988043
+RID00198	CID:5280961	CAS:446-72-0	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00198	CID:5280961	CAS:446-72-0	GO:0002027	regulation of heart rate	Affects phenotype	7955	Danio rerio	19750021
+RID00198	CID:5280961	CAS:446-72-0	GO:0005975	carbohydrate metabolic process	Affects phenotype	8030	Salmo salar	28988043
+RID00198	CID:5280961	CAS:446-72-0	GO:0006309	apoptotic DNA fragmentation	Increases phenotype	7955	Danio rerio	19750021
+RID00198	CID:5280961	CAS:446-72-0	GO:0048598	embryonic morphogenesis	Decreases phenotype	7955	Danio rerio	27492224
+RID00198	CID:5280961	CAS:446-72-0	GO:0007507	heart development	Affects phenotype	7955	Danio rerio	19750021
+RID00198	CID:5280961	CAS:446-72-0	GO:0007596	blood coagulation	Affects phenotype	7955	Danio rerio	24992288
+RID00198	CID:5280961	CAS:446-72-0	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00198	CID:5280961	CAS:446-72-0	GO:0008015	blood circulation	Affects phenotype	7955	Danio rerio	24992288
+RID00198	CID:5280961	CAS:446-72-0	GO:0035188	hatching	Affects phenotype	7955	Danio rerio	19750021
+RID00198	CID:5280961	CAS:446-72-0	GO:0048568	embryonic organ development	Affects phenotype	7955	Danio rerio	19750021
+RID00200	CID:5281255	CAS:20784-50-3	GO:1903787	negative regulation of glutathione biosynthetic process	Increases phenotype	7955	Danio rerio	38581191
+RID00200	CID:5281255	CAS:20784-50-3	GO:1903283	negative regulation of glutathione peroxidase activity	Increases phenotype	7955	Danio rerio	38581191
+RID00200	CID:5281255	CAS:20784-50-3	GO:1903428	positive regulation of reactive oxygen species biosynthetic process	Increases phenotype	7955	Danio rerio	38581191
+RID00200	CID:5281255	CAS:20784-50-3	GO:0055072	iron ion homeostasis	Decreases phenotype	7955	Danio rerio	38581191
+RID00200	CID:5281255	CAS:20784-50-3	GO:0050996	positive regulation of lipid catabolic process	Increases phenotype	7955	Danio rerio	38581191
+RID00200	CID:5281255	CAS:20784-50-3	GO:0035188	hatching	Decreases phenotype	7955	Danio rerio	38581191
+RID00204	CID:5281607	CAS:480-40-0	GO:0007635	chemosensory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00204	CID:5281607	CAS:480-40-0	GO:0048598	embryonic morphogenesis	Decreases phenotype	7955	Danio rerio	27492224
+RID00204	CID:5281607	CAS:480-40-0	GO:0090326	positive regulation of locomotion involved in locomotory behavior	Increases phenotype	7955	Danio rerio	29499247
+RID00229	CID:54675776	CAS:60-54-8	GO:0046500	S-adenosylmethionine metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0043651	linoleic acid metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0009069	serine family amino acid metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0006641	triglyceride metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0006631	fatty acid metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0006570	tyrosine metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0006558	L-phenylalanine metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00229	CID:54675776	CAS:60-54-8	GO:0006555	methionine metabolic process	Affects phenotype	7955	Danio rerio	32283355
+RID00230	CID:54675779	CAS:79-57-2	GO:0070994	detection of oxidative stress	Increases phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0016298	lipase activity	Decreases phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0008653	lipopolysaccharide metabolic process	Affects phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0008206	bile acid metabolic process	Affects phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0006641	triglyceride metabolic process	Affects phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0006631	fatty acid metabolic process	Affects phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0004784	superoxide dismutase activity	Decreases phenotype	7955	Danio rerio	37027337
+RID00230	CID:54675779	CAS:79-57-2	GO:0008203	cholesterol metabolic process	Affects phenotype	7955	Danio rerio	37027337
+RID00236	CID:5479537	CAS:88040-23-7	GO:0010459	negative regulation of heart rate	Increases phenotype	7955	Danio rerio	29596928
+RID00239	CID:5564	CAS:3380-34-5	GO:0032504	multicellular organism reproduction	Decreases phenotype	35525	Daphnia magna	28542405
+RID00239	CID:5564	CAS:3380-34-5	GO:2000866	positive regulation of estradiol secretion	Increases phenotype	7962	Cyprinus carpio	29032082
+RID00239	CID:5564	CAS:3380-34-5	GO:0070994	detection of oxidative stress	Increases phenotype	7955	Danio rerio	34942273
+RID00239	CID:5564	CAS:3380-34-5	GO:0048874	host-mediated regulation of intestinal microbiota composition	Affects phenotype	7955	Danio rerio	31504981
+RID00239	CID:5564	CAS:3380-34-5	GO:0048468	cell development	Decreases phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0046470	phosphatidylcholine metabolic process	Affects phenotype	7955	Danio rerio	36935584
+RID00239	CID:5564	CAS:3380-34-5	GO:0046470	phosphatidylcholine metabolic process	Affects phenotype	35525	Daphnia magna	28542405
+RID00239	CID:5564	CAS:3380-34-5	GO:0046337	phosphatidylethanolamine metabolic process	Affects phenotype	7955	Danio rerio	36935584
+RID00239	CID:5564	CAS:3380-34-5	GO:0046337	phosphatidylethanolamine metabolic process	Affects phenotype	35525	Daphnia magna	28542405
+RID00239	CID:5564	CAS:3380-34-5	GO:0042745	circadian sleep/wake cycle	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0035188	hatching	Decreases phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0031987	locomotion involved in locomotory behavior	Decreases phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0002164	larval development	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0021510	spinal cord development	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0009790	embryo development	Affects phenotype	7955	Danio rerio	32143076
+RID00239	CID:5564	CAS:3380-34-5	GO:0009416	response to light stimulus	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0007420	brain development	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0006684	sphingomyelin metabolic process	Affects phenotype	35525	Daphnia magna	28542405
+RID00239	CID:5564	CAS:3380-34-5	GO:0006641	triglyceride metabolic process	Affects phenotype	7955	Danio rerio	36935584
+RID00239	CID:5564	CAS:3380-34-5	GO:0002164	larval development	Decreases phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0031987	locomotion involved in locomotory behavior	Affects phenotype	7955	Danio rerio	32060586
+RID00239	CID:5564	CAS:3380-34-5	GO:0002027	regulation of heart rate	Affects phenotype	7955	Danio rerio	36935584
+RID00242	CID:5742673	CAS:63527-52-6	GO:1901207	regulation of heart looping	Decreases phenotype	7955	Danio rerio	29596928
+RID00242	CID:5742673	CAS:63527-52-6	GO:0010459	negative regulation of heart rate	Increases phenotype	7955	Danio rerio	29596928
+RID00244	CID:5853	CAS:52-68-6	GO:1903407	negative regulation of P-type sodium:potassium-exchanging transporter activity	Increases phenotype	162147	Rhamdia quelen	30481498
+RID00244	CID:5853	CAS:52-68-6	GO:0004602	glutathione peroxidase activity	Decreases phenotype	7962	Cyprinus carpio	31887601
+RID00244	CID:5853	CAS:52-68-6	GO:0004784	superoxide dismutase activity	Decreases phenotype	7962	Cyprinus carpio	31887601
+RID00244	CID:5853	CAS:52-68-6	GO:0004784	superoxide dismutase activity	Increases phenotype	79674	Macrobrachium rosenbergii	23340335
+RID00244	CID:5853	CAS:52-68-6	GO:0006603	phosphocreatine metabolic process	Decreases phenotype	162147	Rhamdia quelen	30481498
+RID00244	CID:5853	CAS:52-68-6	GO:0016042	lipid catabolic process	Affects phenotype	7962	Cyprinus carpio	31887601
+RID00244	CID:5853	CAS:52-68-6	GO:0034440	lipid oxidation	Increases phenotype	162147	Rhamdia quelen	30481498
+RID00244	CID:5853	CAS:52-68-6	GO:0045454	cell redox homeostasis	Decreases phenotype	162147	Rhamdia quelen	30481498
+RID00244	CID:5853	CAS:52-68-6	GO:0072593	reactive oxygen species metabolic process	Affects phenotype	7962	Cyprinus carpio	31887601
+RID00244	CID:5853	CAS:52-68-6	GO:1903303	negative regulation of pyruvate kinase activity	Increases phenotype	162147	Rhamdia quelen	30481498
+RID00258	CID:6321424	CAS:70288-86-7	GO:0036269	swimming behavior	Decreases phenotype	8022	Oncorhynchus mykiss	24316435
+RID00265	CID:638278	CAS:961-29-5	GO:0070994	detection of oxidative stress	Increases phenotype	7955	Danio rerio	36617718
+RID00265	CID:638278	CAS:961-29-5	GO:0009790	embryo development	Affects phenotype	7955	Danio rerio	36617718
+RID00278	CID:6585	CAS:79-21-0	GO:1900017	positive regulation of cytokine production involved in inflammatory response	Increases phenotype	8022	Oncorhynchus mykiss	34435597
+RID00029	CID:12035	CAS:616-91-1	GO:0008283	cell population proliferation	Affects phenotype	7955	Danio rerio	22941245
+RID00299	CID:702	CAS:64-17-5	GO:1903935	response to sodium arsenite	Decreases expression	7955	Danio rerio	29361514
+RID00299	CID:702	CAS:64-17-5	GO:0061053	somite development	Affects phenotype	7955	Danio rerio	32369106
+RID00299	CID:702	CAS:64-17-5	GO:0060322	head development	Affects phenotype	7955	Danio rerio	32979392
+RID00299	CID:702	CAS:64-17-5	GO:0060039	pericardium development	Affects phenotype	7955	Danio rerio	32979392
+RID00299	CID:702	CAS:64-17-5	GO:0051938	L-glutamate import	Decreases phenotype	7955	Danio rerio	32173352
+RID00299	CID:702	CAS:64-17-5	GO:0051938	L-glutamate import	Affects phenotype	7955	Danio rerio	34728274
+RID00299	CID:702	CAS:64-17-5	GO:0048840	otolith development	Affects phenotype	7955	Danio rerio	32979392
+RID00299	CID:702	CAS:64-17-5	GO:0046033	AMP metabolic process	Increases phenotype	7955	Danio rerio	25883026
+RID00299	CID:702	CAS:64-17-5	GO:0042541	hemoglobin biosynthetic process	Affects phenotype	7955	Danio rerio	32369106
+RID00299	CID:702	CAS:64-17-5	GO:0040011	locomotion	Affects phenotype	7955	Danio rerio	25883026
+RID00299	CID:702	CAS:64-17-5	GO:0035640	exploration behavior	Increases phenotype	7955	Danio rerio	32472575
+RID00299	CID:702	CAS:64-17-5	GO:0031987	locomotion involved in locomotory behavior	Affects phenotype	7955	Danio rerio	32668205
+RID00299	CID:702	CAS:64-17-5	GO:0016595	glutamate binding	Decreases phenotype	7955	Danio rerio	32173352
+RID00299	CID:702	CAS:64-17-5	GO:0015700	arsenite transport	Affects phenotype	7955	Danio rerio	29361514
+RID00299	CID:702	CAS:64-17-5	GO:0009790	embryo development	Affects phenotype	7955	Danio rerio	31690747,32369106,32668205,32767777
+RID00299	CID:702	CAS:64-17-5	GO:0007420	brain development	Affects phenotype	7955	Danio rerio	31690747,32369106
+RID00299	CID:702	CAS:64-17-5	GO:0007296	vitellogenesis	Affects phenotype	7955	Danio rerio	32979392
+RID00299	CID:702	CAS:64-17-5	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	32369106
+RID00299	CID:702	CAS:64-17-5	GO:0006749	glutathione metabolic process	Affects phenotype	7955	Danio rerio	32668205
+RID00299	CID:702	CAS:64-17-5	GO:0005391	P-type sodium:potassium-exchanging transporter activity	Decreases phenotype	7955	Danio rerio	32173352
+RID00299	CID:702	CAS:64-17-5	GO:0002209	behavioral defense response	Affects phenotype	7955	Danio rerio	32668205
+RID00299	CID:702	CAS:64-17-5	GO:0002027	regulation of heart rate	Affects phenotype	7955	Danio rerio	32369106
+RID00299	CID:702	CAS:64-17-5	GO:0001755	neural crest cell migration	Decreases phenotype	7955	Danio rerio	35038560
+RID00299	CID:702	CAS:64-17-5	GO:0001654	eye development	Affects phenotype	7955	Danio rerio	31690747|32668205
+RID00299	CID:702	CAS:64-17-5	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	26884397
+RID00299	CID:702	CAS:64-17-5	GO:1904888	cranial skeletal system development	Affects phenotype	7955	Danio rerio	32369106
+RID00299	CID:702	CAS:64-17-5	GO:1903935	response to sodium arsenite	Affects phenotype	7955	Danio rerio	29361514
+RID00302	CID:712	CAS:50-00-0	GO:0061368	behavioral response to formalin induced pain	Increases phenotype	7955	Danio rerio	30496739
+RID00031	CID:12560	CAS:114-07-8	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	32454074
+RID00315	CID:784	CAS:7722-84-1	GO:0034599	cellular response to oxidative stress	Increases phenotype	7955	Danio rerio	24324558
+RID00315	CID:784	CAS:7722-84-1	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	Increases phenotype	7955	Danio rerio	26846883
+RID00315	CID:784	CAS:7722-84-1	GO:0072593	reactive oxygen species metabolic process	Increases phenotype	7955	Danio rerio	39551113,22941245
+RID00315	CID:784	CAS:7722-84-1	GO:1900017	positive regulation of cytokine production involved in inflammatory response	Increases phenotype	8022	Oncorhynchus mykiss	34435597
+RID00320	CID:8378	CAS:1404-04-2	GO:0001964	startle response	Decreases phenotype	7955	Danio rerio	38563869
+RID00320	CID:8378	CAS:1404-04-2	GO:0008219	cell death	Increases phenotype	7955	Danio rerio	25556122
+RID00320	CID:8378	CAS:1404-04-2	GO:0010942	positive regulation of cell death	Increases phenotype	7955	Danio rerio	30626089
+RID00320	CID:8378	CAS:1404-04-2	GO:0048901	anterior lateral line neuromast development	Decreases phenotype	7955	Danio rerio	38563869
+RID00320	CID:8378	CAS:1404-04-2	GO:0048903	anterior lateral line neuromast hair cell differentiation	Decreases phenotype	7955	Danio rerio	38563869
+RID00320	CID:8378	CAS:1404-04-2	GO:0072593	reactive oxygen species metabolic process	Increases phenotype	7955	Danio rerio	38563869
+RID00322	CID:84029	CAS:81103-11-9	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	32454074
+RID00332	CID:91734	CAS:83121-18-0	GO:0032883	regulation of chitin biosynthetic process	Affects phenotype	397978	Pandalus montagui	30345541
+RID00332	CID:91734	CAS:83121-18-0	GO:0048736	appendage development	Decreases phenotype	397978	Pandalus montagui	30345541
+RID00332	CID:91734	CAS:83121-18-0	GO:0048069	eye pigmentation	Decreases phenotype	397978	Pandalus montagui	30345541
+RID00334	CID:9415	CAS:315-22-0	GO:0140042	lipid droplet formation	Increases phenotype	7955	Danio rerio	37390955
+RID00334	CID:9415	CAS:315-22-0	GO:0007033	vacuole organization	Increases phenotype	7955	Danio rerio	37390955
+RID00335	CID:9547215	CAS:465-21-4	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	22560901
+RID00338	CID:969516	CAS:458-37-7	GO:0008610	lipid biosynthetic process	Decreases phenotype	7955	Danio rerio	25559859
+RID00338	CID:969516	CAS:458-37-7	GO:0019432	triglyceride biosynthetic process	Decreases phenotype	7955	Danio rerio	25559859
+RID00053	CID:15910	CAS:1897-45-6	GO:0004602	glutathione peroxidase activity	Decreases phenotype	7959	Ctenopharyngodon idella	33186708
+RID00053	CID:15910	CAS:1897-45-6	GO:0006749	glutathione metabolic process	Affects phenotype	7959	Ctenopharyngodon idella	33186708
+RID00053	CID:15910	CAS:1897-45-6	GO:0006915	apoptotic process	Increases phenotype	7959	Ctenopharyngodon idella	33186708
+RID00053	CID:15910	CAS:1897-45-6	GO:0008344	adult locomotory behavior	Affects phenotype	7955	Danio rerio	38237923
+RID00053	CID:15910	CAS:1897-45-6	GO:0008345	larval locomotory behavior	Affects phenotype	7955	Danio rerio	38237923
+RID00053	CID:15910	CAS:1897-45-6	GO:0016042	lipid catabolic process	Affects phenotype	7959	Ctenopharyngodon idella	33186708
+RID00053	CID:15910	CAS:1897-45-6	GO:0070265	necrotic cell death	Increases phenotype	7959	Ctenopharyngodon idella	33186708
+RID00064	CID:176	CAS:64-19-7	GO:0061367	behavioral response to acetic acid induced pain	Increases phenotype	7955	Danio rerio	30496739
+RID00064	CID:176	CAS:64-19-7	GO:0042428	serotonin metabolic process	Affects phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0048266	behavioral response to pain	Increases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0042417	dopamine metabolic process	Affects phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0070994	detection of oxidative stress	Decreases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0070994	detection of oxidative stress	Affects phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0042415	norepinephrine metabolic process	Affects phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0035640	exploration behavior	Decreases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0034440	lipid oxidation	Decreases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0034440	lipid oxidation	Affects phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0004784	superoxide dismutase activity	Increases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0004364	glutathione transferase activity	Decreases phenotype	7955	Danio rerio	37683694
+RID00064	CID:176	CAS:64-19-7	GO:0036269	swimming behavior	Decreases phenotype	7955	Danio rerio	37683694
+RID00080	CID:2256	CAS:1912-24-9	GO:0042429	serotonin catabolic process	Decreases phenotype	7955	Danio rerio	25929836
+RID00080	CID:2256	CAS:1912-24-9	GO:2000378	negative regulation of reactive oxygen species metabolic process	Increases phenotype	7962	Cyprinus carpio	26662364
+RID00080	CID:2256	CAS:1912-24-9	GO:2000184	positive regulation of progesterone biosynthetic process	Increases phenotype	7955	Danio rerio	26891955
+RID00080	CID:2256	CAS:1912-24-9	GO:1902902	negative regulation of autophagosome assembly	Increases phenotype	7962	Cyprinus carpio	26662364
+RID00080	CID:2256	CAS:1912-24-9	GO:0071897	DNA biosynthetic process	Affects phenotype	7955	Danio rerio	28111253
+RID00080	CID:2256	CAS:1912-24-9	GO:0070887	cellular response to chemical stimulus	Affects phenotype	7955	Danio rerio	35608517
+RID00080	CID:2256	CAS:1912-24-9	GO:0046470	phosphatidylcholine metabolic process	Affects phenotype	35525	Daphnia magna	28542405
+RID00080	CID:2256	CAS:1912-24-9	GO:0046337	phosphatidylethanolamine metabolic process	Affects phenotype	35525	Daphnia magna	28542405
+RID00080	CID:2256	CAS:1912-24-9	GO:0044237	cellular metabolic process	Decreases phenotype	7955	Danio rerio	35608517
+RID00080	CID:2256	CAS:1912-24-9	GO:0018991	oviposition	Decreases phenotype	7955	Danio rerio	26891955
+RID00080	CID:2256	CAS:1912-24-9	GO:0031987	locomotion involved in locomotory behavior	Affects phenotype	7955	Danio rerio	32737625
+RID00080	CID:2256	CAS:1912-24-9	GO:2000628	regulation of miRNA metabolic process	Increases phenotype	7962	Cyprinus carpio	31315571
+RID00080	CID:2256	CAS:1912-24-9	GO:0006974	cellular response to DNA damage stimulus	Increases phenotype	7955	Danio rerio	28111253
+RID00080	CID:2256	CAS:1912-24-9	GO:0004784	superoxide dismutase activity	Affects phenotype	7955	Danio rerio	21114466
+RID00080	CID:2256	CAS:1912-24-9	GO:0004601	peroxidase activity	Affects phenotype	7955	Danio rerio	21114466
+RID00080	CID:2256	CAS:1912-24-9	GO:0001541	ovarian follicle development	Affects phenotype	7955	Danio rerio	26891955
+RID00080	CID:2256	CAS:1912-24-9	GO:0000737	DNA catabolic process, endonucleolytic	Increases phenotype	7955	Danio rerio	21114466
+RID00080	CID:2256	CAS:1912-24-9	GO:0032504	multicellular organism reproduction	Decreases phenotype	35525	Daphnia magna	28542405
+RID00083	CID:2353	CAS:2086-83-1	GO:0035188	hatching	Increases phenotype	7955	Danio rerio	37615217
+RID00092	CID:24462	CAS:7758-98-7	GO:0051464	positive regulation of cortisol secretion	Increases phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:0055064	chloride ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:0055075	potassium ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:0042593	glucose homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:0042632	cholesterol homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:0045541	negative regulation of cholesterol biosynthetic process	Increases phenotype	84645	Labeo rohita	38104743
+RID00092	CID:24462	CAS:7758-98-7	GO:0055078	sodium ion homeostasis	Affects phenotype	8128	Oreochromis niloticus	21229307
+RID00092	CID:24462	CAS:7758-98-7	GO:1903284	positive regulation of glutathione peroxidase activity	Decreases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:0070665	positive regulation of leukocyte proliferation	Increases phenotype	7955	Danio rerio	29902668
+RID00092	CID:24462	CAS:7758-98-7	GO:0090207	regulation of triglyceride metabolic process	Affects phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:1901671	positive regulation of superoxide dismutase activity	Decreases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:1901671	positive regulation of superoxide dismutase activity	Increases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:1902553	positive regulation of catalase activity	Decreases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:1903220	positive regulation of malate dehydrogenase (decarboxylating) (NADP+) activity	Increases phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:0042116	macrophage activation	Increases phenotype	7955	Danio rerio	38211931
+RID00092	CID:24462	CAS:7758-98-7	GO:0070265	necrotic cell death	Increases phenotype	7955	Danio rerio	38211931
+RID00092	CID:24462	CAS:7758-98-7	GO:0035675	neuromast hair cell development	Decreases phenotype	7955	Danio rerio	38211931
+RID00092	CID:24462	CAS:7758-98-7	GO:1990266	neutrophil migration	Increases phenotype	7955	Danio rerio	38211931
+RID00092	CID:24462	CAS:7758-98-7	GO:0034440	lipid oxidation	Decreases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:1903407	negative regulation of P-type sodium:potassium-exchanging transporter activity	Increases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:0004364	glutathione transferase activity	Decreases phenotype	37273	Gambusia holbrooki	25263413
+RID00092	CID:24462	CAS:7758-98-7	GO:0006740	NADPH regeneration	Increases phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:0006853	carnitine shuttle	Increases phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:0006915	apoptotic process	Increases phenotype	7955	Danio rerio	21720676
+RID00092	CID:24462	CAS:7758-98-7	GO:0006954	inflammatory response	Increases phenotype	7955	Danio rerio	31857089
+RID00092	CID:24462	CAS:7758-98-7	GO:0034440	lipid oxidation	Increases phenotype	42528	Piaractus mesopotamicus	22796211
+RID00092	CID:24462	CAS:7758-98-7	GO:0009051	pentose-phosphate shunt, oxidative branch	Increases phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:0010942	positive regulation of cell death	Increases phenotype	7959	Ctenopharyngodon idella	24854705
+RID00092	CID:24462	CAS:7758-98-7	GO:0010942	positive regulation of cell death	Increases phenotype	8030	Salmo salar	26368670
+RID00092	CID:24462	CAS:7758-98-7	GO:0010983	positive regulation of high-density lipoprotein particle clearance	Increases phenotype	84645	Labeo rohita	38104743
+RID00092	CID:24462	CAS:7758-98-7	GO:0010987	negative regulation of high-density lipoprotein particle clearance	Increases phenotype	84645	Labeo rohita	38104743
+RID00092	CID:24462	CAS:7758-98-7	GO:0016042	lipid catabolic process	Decreases phenotype	37273	Gambusia holbrooki	25263413
+RID00092	CID:24462	CAS:7758-98-7	GO:0016477	cell migration	Increases phenotype	7955	Danio rerio	31857089
+RID00092	CID:24462	CAS:7758-98-7	GO:0010868	negative regulation of triglyceride biosynthetic process	Increases phenotype	84645	Labeo rohita	38104743
+RID00098	CID:25517	CAS:12125-02-9	GO:0042177	negative regulation of protein catabolic process	Increases phenotype	8030	Salmo salar	38355023
+RID00098	CID:25517	CAS:12125-02-9	GO:0030336	negative regulation of cell migration	Increases phenotype	8030	Salmo salar	38355023

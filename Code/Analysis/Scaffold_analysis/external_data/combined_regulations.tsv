@@ -1,0 +1,114 @@
+ID	Chemical Name	PubChemID	CASRN	Regulatory Status	Regulating Country
+RID00023	Malachite green	CID:11294	CAS:569-64-2	Banned	Multiple countries
+RID00023	Malachite green	CID:11294	CAS:569-64-2	Banned	EU
+RID00023	Malachite green	CID:11294	CAS:569-64-2	Banned	USA
+RID00023	Malachite green	CID:11294	CAS:569-64-2	Banned	China
+RID00024	Florfenicol	CID:114811	CAS:73231-34-2	Approved	China
+RID00024	Florfenicol	CID:114811	CAS:73231-34-2	Approved	Brazil
+RID00024	Florfenicol	CID:114811	CAS:73231-34-2	Approved	Chile
+RID00024	Florfenicol	CID:114811	CAS:73231-34-2	Registered	Multiple countries
+RID00024	Florfenicol	CID:114811	CAS:73231-34-2	Approved	USA
+RID00026	Emamectin benzoate	CID:11650986	CAS:155569-91-8	Regulated	Canada
+RID00026	Emamectin benzoate	CID:11650986	CAS:155569-91-8	Regulated	EU
+RID00031	Erythromycin	CID:12560	CAS:114-07-8	Approved	Chile
+RID00031	Erythromycin	CID:12560	CAS:114-07-8	Partially approved	EU
+RID00053	Chlorothalonil	CID:15910	CAS:1897-45-6	Approved	Multiple countries
+RID00055	PAK-27 (sodium carbonate peroxyhydrate)	CID:159762		Partially approved	USA
+RID00069	Streptomycin	CID:19649	CAS:57-92-1	Partially approved	EU
+RID00072	Acetohydroxamic acid	CID:1990	CAS:546-88-3	Approved	USA
+RID00081	Azelaic acid	CID:2266	CAS:123-99-9	Approved	USA
+RID00086	Sodium Hypochlorite	CID:23665760	CAS:7681-52-9	Not approved	USA
+RID00089	Selenium dioxide	CID:24007	CAS:7446-08-4	Regulated	EU
+RID00091	Benzoic acid	CID:243	CAS:65-85-0	Approved	USA
+RID00092	Copper Sulfate	CID:24462	CAS:7758-98-7	Approved	USA
+RID00092	Copper Sulfate	CID:24462	CAS:7758-98-7	Not approved	Italy
+RID00105	Chlorpyrifos	CID:2730	CAS:2921-88-2	Banned	EU
+RID00111	Cypermethrin	CID:2912	CAS:52315-07-8	Registered	UK
+RID00111	Cypermethrin	CID:2912	CAS:52315-07-8	Registered	Canada
+RID00113	Dichlorvos	CID:3039	CAS:62-73-7	Banned	UK
+RID00126	Glutaraldehyde	CID:3485	CAS:111-30-8	Not approved	USA
+RID00132	Diflubenzuron	CID:37123	CAS:35367-38-5	Approved	EU
+RID00132	Diflubenzuron	CID:37123	CAS:35367-38-5	Regulated	Norway
+RID00137	Malathion	CID:4004	CAS:121-75-5	Not approved	UK
+RID00141	Deltamethrin	CID:40585	CAS:52918-63-5	Registered	UK
+RID00141	Deltamethrin	CID:40585	CAS:52918-63-5	Registered	Canada
+RID00143	Povidone iodine	CID:410087	CAS:25655-41-8	Regulated	USA
+RID00167	Azithromycin	CID:447043	CAS:83905-01-5	Regulated	USA
+RID00168	Niclosamide	CID:4471	CAS:50-65-7	Regulated	WHO
+RID00173	Oxolinic acid	CID:4629	CAS:14698-29-4	Partially approved	Multiple countries
+RID00176	Praziquantel	CID:4891	CAS:55268-74-1	Approved	USA
+RID00201	Azadirachtin	CID:5281303	CAS:11141-17-6	Regulated	Canada
+RID00222	Sulfamethoxazole	CID:5329	CAS:723-46-6	Approved	USA
+RID00230	Oxytetracycline	CID:54675779	CAS:79-57-2	Approved	USA
+RID00230	Oxytetracycline	CID:54675779	CAS:79-57-2	Registered	Multiple countries
+RID00230	Oxytetracycline	CID:54675779	CAS:79-57-2	Approved	Chile
+RID00239	Triclosan	CID:5564	CAS:3380-34-5	Approved	USA
+RID00245	Chloramphenicol	CID:5959	CAS:56-75-7	Banned	Multiple countries
+RID00245	Chloramphenicol	CID:5959	CAS:56-75-7	Approved	USA
+RID00245	Chloramphenicol	CID:5959	CAS:56-75-7	Partially approved	Multiple countries
+RID00260	Ceftiofur	CID:6328657	CAS:80370-57-6	Approved	USA
+RID00278	Peracetic Acid	CID:6585	CAS:79-21-0	Approved	EU
+RID00278	Peracetic Acid	CID:6585	CAS:79-21-0	Not approved	USA
+RID00299	Ethyl alcohol	CID:702	CAS:64-17-5	Not approved	USA
+RID00302	Formaldehyde	CID:712	CAS:50-00-0	Approved	USA
+RID00302	Formaldehyde	CID:712	CAS:50-00-0	Regulated	WHO
+RID00303	Azamethiphos	CID:71482	CAS:35575-96-3	Approved	Norway
+RID00303	Azamethiphos	CID:71482	CAS:35575-96-3	Approved	Ireland
+RID00303	Azamethiphos	CID:71482	CAS:35575-96-3	Approved	Scotland
+RID00303	Azamethiphos	CID:71482	CAS:35575-96-3	Approved	Chile
+RID00303	Azamethiphos	CID:71482	CAS:35575-96-3	Registered	Canada
+RID00315	Hydrogen Peroxide	CID:784	CAS:7722-84-1	Approved	USA
+RID00315	Hydrogen Peroxide	CID:784	CAS:7722-84-1	Registered	Canada
+RID00315	Hydrogen Peroxide	CID:784	CAS:7722-84-1	Approved	EU
+RID00332	Teflubenzuron	CID:91734	CAS:83121-18-0	Approved	USA
+RID10055	Buffered vinegar			Approved	EU
+RID10055	Buffered vinegar			Approved	USA
+RID10063	Captain® (chelated copper)			Partially approved	USA
+RID10149	Hesperozygis ringens whole plant ethanol extract			Approved	Brazil
+RID10150	Hesperozygis ringens whole plant hexane extract			Approved	Brazil
+RID10166	Lysol			Not approved	USA
+RID10199	Oligonol			Approved	USA
+RID10215	Phoslock (Quartz & titanium dioxide)			Partially approved	USA
+RID10253	Rosmarinus officinalis extract			Approved	EU
+RID10253	Rosmarinus officinalis extract			Approved	USA
+RID10304	Virkon Aquatic			Approved	EU
+RID10305	Virkon-S			Registered	USA
+RID00023	Malachite green	11294	569-64-2	Banned	Malaysia
+RID00023	Malachite green	11294	569-64-2	Banned	Philippines
+RID00023	Malachite green	11294	569-64-2	Banned	Singapore
+RID00023	Malachite green	11294	569-64-2	Banned	Myanmar
+RID00023	Malachite green	11294	569-64-2	Banned	Brunei Darussalam
+RID00023	Malachite green	11294	569-64-2	Banned	Indonesia
+RID00023	Malachite green	11294	569-64-2	Banned	Thailand
+RID00023	Malachite green	11294	569-64-2	Banned	Viet Nam
+RID00024	Florfenicol	114811	73231-34-2	Approved	USA
+RID00031	Erythromycin	12560	114-07-8	Banned	Brunei Darussalam
+RID00099	Tricaine	261501	886-86-2	Approved	USA
+RID00104	Chlorpromazine	2726	50-53-3	Banned	Singapore
+RID00104	Chlorpromazine	2726	50-53-3	Banned	Myanmar
+RID00104	Chlorpromazine	2726	50-53-3	Banned	India
+RID00109	Ciprofloxacin	2764	85721-33-1	Banned	Brunei Darussalam
+RID00130	Chloramine-T	3641960	127-65-1	Approved	USA
+RID00141	Deltamethrin	40585	52918-63-5	Banned	Thailand
+RID00141	Deltamethrin	40585	52918-63-5	Banned	Viet Nam
+RID00157	Nalidixic acid	4421	389-08-2	Banned	India
+RID00170	Norfloxacin	4539	70458-96-7	Banned	Brunei Darussalam
+RID00221	Furazolidone	3435	67-45-8	Banned	India
+RID00222	Sulfamethoxazole	5327	723-46-6	Banned	India
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Thailand
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Viet Nam
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Myanmar
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Singapore
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Philippines
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Malaysia
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Indonesia
+RID00245	Chloramphenicol	5959	56-75-7	Banned	Brunei Darussalam
+RID00245	Chloramphenicol	5959	56-75-7	Banned	India
+RID00279	Nitrofurantoin	4494	67-20-9	Banned	India
+RID00301	Enrofloxacin	71188	93106-60-6	Banned	Thailand
+RID00301	Enrofloxacin	71188	93106-60-6	Banned	Brunei Darussalam
+RID00301	Enrofloxacin	71188	93106-60-6	Banned	Viet Nam
+RID00301	Enrofloxacin	71188	93106-60-6	Banned	Singapore
+RID00302	Formaldehyde	712	50-00-0	Approved	USA
+RID00315	Hydrogen Peroxide	784	7722-84-1	Approved	USA
+RID00320	Neomycin	8378	1404-04-2	Banned	India

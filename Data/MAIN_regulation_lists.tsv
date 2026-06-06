@@ -1,0 +1,58 @@
+id	chemical_name	pubchemid	casrn	regulation	country	status
+RID00245	Chloramphenicol	5959	56-75-7	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00320	Neomycin	8378	1404-04-2	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00157	Nalidixic acid	4421	389-08-2	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00222	Sulfamethoxazole	5327	723-46-6	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00104	Chlorpromazine	2726	50-53-3	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00221	Furazolidone	3435	67-45-8	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00279	Nitrofurantoin	4494	67-20-9	Coastal Aquaculture Authority (CAA) Banned Chemicals	India	Banned in shrimp aquaculture
+RID00130	Chloramine-T	3641960	127-65-1	FDA Approved Aquaculture Drugs	USA	Approved for use in aquaculture
+RID00302	Formaldehyde	712	50-00-0	FDA Approved Aquaculture Drugs	USA	Approved for use in aquaculture
+RID00315	Hydrogen Peroxide	784	7722-84-1	FDA Approved Aquaculture Drugs	USA	Approved for use in aquaculture
+RID00099	Tricaine	261501	886-86-2	FDA Approved Aquaculture Drugs	USA	Approved for use in aquaculture
+RID00024	Florfenicol	114811	73231-34-2	FDA Approved Aquaculture Drugs	USA	Approved for use in aquaculture
+RID00023	Malachite green	11294	569-64-2	ASEAN: Banned in Ornamental Fish	Myanmar	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Banned in Ornamental Fish	Myanmar	Total banned
+RID00104	Chlorpromazine	2726	50-53-3	ASEAN: Banned in Ornamental Fish	Myanmar	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Banned in Ornamental Fish	Philippines	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Banned in Fish for Food Consumption	Myanmar	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Banned in Fish for Food Consumption	Myanmar	Total banned
+RID00104	Chlorpromazine	2726	50-53-3	ASEAN: Banned in Fish for Food Consumption	Myanmar	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Banned in Fish for Food Consumption	Philippines	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Banned in Fish for Food Consumption	Philippines	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Banned in Fish for Food Consumption	Singapore	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Banned in Fish for Food Consumption	Singapore	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Banned in Fish for Food Consumption	Singapore	Total banned
+RID00104	Chlorpromazine	2726	50-53-3	ASEAN: Banned in Fish for Food Consumption	Singapore	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Brunei Darussalam	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Myanmar	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Indonesia	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Malaysia	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Philippines	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Singapore	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Thailand	Total banned
+RID00023	Malachite green	11294	569-64-2	ASEAN: Disinfectants	Viet Nam	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Brunei Darussalam	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Myanmar	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Malaysia	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Singapore	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Thailand	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Antibiotics in Ornamental Fish	Thailand	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Ornamental Fish	Viet Nam	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Antibiotics in Ornamental Fish	Viet Nam	Total banned
+RID00141	Deltamethrin	40585	52918-63-5	ASEAN: Piscicides	Thailand	Total banned
+RID00141	Deltamethrin	40585	52918-63-5	ASEAN: Piscicides	Viet Nam	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Brunei Darussalam	Total banned
+RID00031	Erythromycin	12560	114-07-8	ASEAN: Antibiotics in Fish for Food Consumption	Brunei Darussalam	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Antibiotics in Fish for Food Consumption	Brunei Darussalam	Total banned
+RID00170	Norfloxacin	4539	70458-96-7	ASEAN: Antibiotics in Fish for Food Consumption	Brunei Darussalam	Total banned
+RID00109	Ciprofloxacin	2764	85721-33-1	ASEAN: Antibiotics in Fish for Food Consumption	Brunei Darussalam	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Myanmar	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Indonesia	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Malaysia	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Philippines	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Singapore	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Thailand	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Antibiotics in Fish for Food Consumption	Thailand	Total banned
+RID00245	Chloramphenicol	5959	56-75-7	ASEAN: Antibiotics in Fish for Food Consumption	Viet Nam	Total banned
+RID00301	Enrofloxacin	71188	93106-60-6	ASEAN: Antibiotics in Fish for Food Consumption	Viet Nam	Total banned

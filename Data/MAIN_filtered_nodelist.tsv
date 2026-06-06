@@ -1,0 +1,639 @@
+node	node_type	network_type
+Pomacea canaliculata	prey	Acute
+Coleoptera	prey	Acute
+Paracalliope fluviatilis	prey	Acute
+Chanos chanos	prey	Acute
+Acartia hudsonica	prey	Acute
+Arenicola marina	prey	Acute
+Richardsonius balteatus	prey	Acute
+Ceriodaphnia reticulata	prey	Acute
+Centrarchidae	prey	Acute
+Ecdyonurus venosus	prey	Acute
+Mesocyclops leuckarti	prey	Acute
+Galaxias maculatus	prey	Acute
+Homarus gammarus	prey	Acute
+Micropterus dolomieu	prey	Acute
+Hydrilla verticillata	prey	Acute
+Callinectes sapidus	prey	Acute
+Cerastoderma edule	prey	Acute
+Mytilus edulis	prey	Acute
+Diacyclops thomasi	prey	Acute
+Anura	prey	Acute
+Plecoptera	prey	Acute
+Eurytemora affinis	prey	Acute
+Myriophyllum spicatum	prey	Acute
+Saccharina latissima	prey	Acute
+Brachionus calyciflorus	prey	Acute
+Chironomus luridus	prey	Acute
+Decapoda	prey	Acute
+Carcinus maenas	prey	Acute
+Elodea canadensis	prey	Acute
+Sialis lutaria	prey	Acute
+Leptophlebiidae	prey	Acute
+Baetis rhodani	prey	Acute
+Nematoda	prey	Acute
+Musculium transversum	prey	Acute
+Simuliidae	prey	Acute
+Chlorophyta	prey	Acute
+Bacillariophyta	prey	Acute
+Leptocheirus plumulosus	prey	Acute
+Simulium vittatum	prey	Acute
+Mysidae	prey	Acute
+Daphnia lumholtzi	prey	Acute
+Hyalella azteca	prey	Acute
+Osteichthyes	prey	Acute
+Acartia tonsa	prey	Acute
+Pomatoschistus microps	prey	Acute
+Semotilus atromaculatus	prey	Acute
+Chironomus plumosus	prey	Acute
+Euphausia pacifica	prey	Acute
+Oncorhynchus clarkii	prey	Acute
+Morone chrysops	prey	Acute
+Chaetoceros calcitrans	prey	Acute
+Arthropoda	prey	Acute
+Dreissena polymorpha	prey	Acute
+Gammarus fossarum	prey	Acute
+Oncorhynchus kisutch	prey	Acute
+Esox lucius	prey	Acute
+Ameiurus melas	prey	Acute
+Abramis brama	prey	Acute
+Fucus serratus	prey	Acute
+Rutilus rutilus	prey	Acute
+Bacillariophyceae	prey	Acute
+Temora longicornis	prey	Acute
+Pseudorasbora parva	prey	Acute
+Cymatogaster aggregata	prey	Acute
+Morone americana	prey	Acute
+Pleurobrachia pileus	prey	Acute
+Annelida	prey	Acute
+Corixa punctata	prey	Acute
+Rangia cuneata	prey	Acute
+Plantae	prey	Acute
+Sander vitreus	prey	Acute
+Gammarus lacustris	prey	Acute
+Lolium perenne	prey	Acute
+Amphipoda	prey	Acute
+Rhinichthys atratulus	prey	Acute
+Tinca tinca	prey	Acute
+Salvelinus fontinalis	prey	Acute
+Luxilus cornutus	prey	Acute
+Neocaridina denticulata	prey	Acute
+Notonecta maculata	prey	Acute
+Catostomus latipinnis	prey	Acute
+Pteronarcys californica	prey	Acute
+Zostera marina	prey	Acute
+Lepomis gibbosus	prey	Acute
+Pomoxis nigromaculatus	prey	Acute
+Ammodytes hexapterus	prey	Acute
+Silurus glanis	prey	Acute
+Clupea harengus	prey	Acute
+Gammarus pulex	prey	Acute
+Retropinna retropinna	prey	Acute
+Algae	prey	Acute
+Potamopyrgus antipodarum	prey	Acute
+Gammarus fasciatus	prey	Acute
+Ephemeroptera	prey	Acute
+Ostracoda	prey	Acute
+Mugil cephalus	prey	Acute
+Ceratophyllum demersum	prey	Acute
+Paracalanus parvus	prey	Acute
+Scardinius erythrophthalmus	prey	Acute
+Neomysis integer	prey	Acute
+Oithona similis	prey	Acute
+Chironomus tentans	prey	Acute
+Leptodora kindtii	prey	Acute
+Chironomidae	prey	Acute
+Alosa pseudoharengus	prey	Acute
+Peprilus triacanthus	prey	Acute
+Aplexa hypnorum	prey	Acute
+Perca flavescens	prey	Acute
+Macoma balthica	prey	Acute
+Salmonidae	prey	Acute
+Scapholeberis kingi	prey	Acute
+Hydropsyche angustipennis	prey	Acute
+Phoxinus phoxinus	prey	Acute
+Cynoglossus joyneri	prey	Acute
+Asellus aquaticus	prey	Acute
+Pycnocentria evecta	prey	Acute
+Macrobrachium rosenbergii	prey	Acute
+Chironomus riparius	prey	Acute
+Isochrysis galbana	prey	Acute
+Raphidocelis subcapitata	prey	Acute
+Hypophthalmichthys molitrix	prey	Acute
+Tisbe furcata	prey	Acute
+Leucaspius delineatus	prey	Acute
+Cyprinella lutrensis	prey	Acute
+Cherax destructor	prey	Acute
+Crustacea	prey	Acute
+Perca fluviatilis	prey	Acute
+Gasterosteus aculeatus	prey	Acute
+Sander lucioperca	prey	Acute
+Cyclopoida	prey	Acute
+Craterocephalus stercusmuscarum	prey	Acute
+Caenis horaria	prey	Acute
+Ischnura elegans	prey	Acute
+Notemigonus crysoleucas	prey	Acute
+Erpobdella octoculata	prey	Acute
+Hediste diversicolor	prey	Acute
+Filinia longiseta	prey	Acute
+Spodoptera frugiperda	prey	Acute
+Melanoides tuberculata	prey	Acute
+Gyraulus parvus	prey	Acute
+Corophium volutator	prey	Acute
+Rana dalmatina	prey	Acute
+Crangon septemspinosa	prey	Acute
+Lepomis cyanellus	prey	Acute
+Subeucalanus pileatus	prey	Acute
+Gambusia affinis	prey	Acute
+Molanna angustata	prey	Acute
+Pacifastacus leniusculus	prey	Acute
+Gobiomorphus cotidianus	prey	Acute
+Oncorhynchus keta	prey	Acute
+Penaeus semisulcatus	prey	Acute
+Parophrys vetulus	prey	Acute
+Palaemonetes argentinus	prey	Acute
+Bufo bufo	prey	Acute
+Chlorella vulgaris	prey	Acute
+Diamesa zernyi	prey	Acute
+Lumbricus terrestris	prey	Acute
+Cloeon dipterum	prey	Acute
+Planorbis planorbis	prey	Acute
+Ameiurus nebulosus	prey	Acute
+Cherax quadricarinatus	prey	Acute
+Synechococcus elongatus	prey	Acute
+Cladocera	prey	Acute
+Portunus pelagicus	prey	Acute
+Pimephales notatus	prey	Acute
+Paratya australiensis	prey	Acute
+Leuciscus leuciscus	prey	Acute
+Mytilus galloprovincialis	prey	Acute
+Scyliorhinus canicula	prey	Acute
+Rhinichthys osculus	prey	Acute
+Salvelinus namaycush	prey	Acute
+Mya arenaria	prey	Acute
+Clupea pallasii	prey	Acute
+Osmerus mordax	prey	Acute
+Palaemon serratus	prey	Acute
+Oncorhynchus nerka	prey	Acute
+Coregonus clupeaformis	prey	Acute
+Leptoceridae	prey	Acute
+Simocephalus vetulus	prey	Acute
+Corbicula fluminea	prey	Acute
+Oreochromis mossambicus	prey	Acute
+Hypophthalmichthys nobilis	prey	Acute
+Daphnia pulex	prey	Acute
+Pungitius pungitius	prey	Acute
+Xyrauchen texanus	prey	Acute
+Chlamydomonas reinhardtii	prey	Acute
+Coregonus albula	prey	Acute
+Daphnia rosea	prey	Acute
+Diaphanosoma brachyurum	prey	Acute
+Odonata	prey	Acute
+Hydropsychidae	prey	Acute
+Fundulus majalis	prey	Acute
+Amphiura filiformis	prey	Acute
+Notropis hudsonius	prey	Acute
+Mollusca	prey	Acute
+Menidia beryllina	prey	Acute
+Acartia clausi	prey	Acute
+Lithobates pipiens	prey	Acute
+Penaeus chinensis	prey	Acute
+Lithognathus mormyrus	prey	Acute
+Insecta	prey	Acute
+Heptageniidae	prey	Acute
+Idotea balthica	prey	Acute
+Tigriopus brevicornis	prey	Acute
+Keratella quadrata	prey	Acute
+Chaetognatha	prey	Acute
+Pseudacris regilla	prey	Acute
+Anisoptera	prey	Acute
+Faxonius rusticus	prey	Acute
+Strongylocentrotus droebachiensis	prey	Acute
+Ankistrodesmus falcatus	prey	Acute
+Mysida	prey	Acute
+Glossiphonia complanata	prey	Acute
+Physella acuta	prey	Acute
+Scenedesmus quadricauda	prey	Acute
+Potamogeton perfoliatus	prey	Acute
+Melanogrammus aeglefinus	prey	Acute
+Coenagrionidae	prey	Acute
+Etheostoma nigrum	prey	Acute
+Physa fontinalis	prey	Acute
+Chironomus sp.	prey	Acute
+Chaoborus punctipennis	prey	Acute
+Lemna minor	prey	Acute
+Bosmina longirostris	prey	Acute
+Palaemon adspersus	prey	Acute
+Lymnaea stagnalis	prey	Acute
+Glyptotendipes paripes	prey	Acute
+Ctenophora	prey	Acute
+Crangon crangon	prey	Acute
+Limnodrilus hoffmeisteri	prey	Acute
+Anisus vortex	prey	Acute
+Engraulis mordax	prey	Acute
+Pseudocalanus elongatus	prey	Acute
+Gadus morhua callarias	predator	Acute
+Larimichthys crocea	predator	Acute
+Seriola dumerili	predator	Acute
+Penaeus monodon	predator	Acute
+Epinephelus flavocaeruleus	predator	Acute
+Rhamdia quelen	predator	Acute
+Seriola zonata	predator	Acute
+Acipenser baerii	predator	Acute
+Piaractus mesopotamicus	predator	Acute
+Channa striata	predator	Acute
+Mylopharyngodon piceus	predator	Acute
+Epinephelus coioides	predator	Acute
+Astacus leptodactylus	predator	Acute
+Trichopodus pectoralis	predator	Acute
+Epinephelus tauvina	predator	Acute
+Chimaera monstrosa	predator	Acute
+Gadus morhua	predator	Acute
+Anguilla japonica	predator	Acute
+Epinephelus malabaricus	predator	Acute
+Monopterus albus	predator	Acute
+Trachinotus ovatus	predator	Acute
+Acipenser ruthenus	predator	Acute
+Pagrus auratus	predator	Acute
+Perna canaliculus	predator	Acute
+Seriola lalandi	predator	Acute
+Danio rerio	predator	Acute
+Ictalurus punctatus	predator	Acute
+Lateolabrax japonicus	predator	Acute
+Penaeus vannamei	predator	Acute
+Salmo macrostigma	predator	Acute
+Magallana gigas	predator	Acute
+Colossoma macropomum	predator	Acute
+Dicentrarchus	predator	Acute
+Pangasius pangasius	predator	Acute
+Sparus aurata	predator	Acute
+Pangasianodon hypophthalmus	predator	Acute
+Cirrhinus cirrhosus	predator	Acute
+Pandalus borealis	predator	Acute
+RID00248	chemical	Acute
+RID00113	chemical	Acute
+RID00310	chemical	Acute
+RID00092	chemical	Acute
+RID00116	chemical	Acute
+RID00111	chemical	Acute
+RID00132	chemical	Acute
+RID00139	chemical	Acute
+RID00080	chemical	Acute
+RID00127	chemical	Acute
+RID00023	chemical	Acute
+RID00105	chemical	Acute
+RID00098	chemical	Acute
+RID00181	chemical	Acute
+RID00086	chemical	Acute
+RID00186	chemical	Acute
+RID00252	chemical	Acute
+RID00302	chemical	Acute
+RID00137	chemical	Acute
+RID00244	chemical	Acute
+RID00299	chemical	Acute
+RID00185	chemical	Acute
+RID00053	chemical	Acute
+RID00141	chemical	Acute
+Gambusia holbrooki	both	Acute
+Salmo salar	both	Acute
+Clarias gariepinus	both	Acute
+Artemia franciscana	both	Acute
+Paracentrotus lividus	both	Acute
+Ctenopharyngodon idella	both	Acute
+Carassius auratus	both	Acute
+Procambarus clarkii	both	Acute
+Oncorhynchus gorbuscha	both	Acute
+Artemia salina	both	Acute
+Pandalus montagui	both	Acute
+Carassius carassius	both	Acute
+Oreochromis niloticus	both	Acute
+Labeo rohita	both	Acute
+Cyprinus carpio	both	Acute
+Lates calcarifer	both	Acute
+Poecilia reticulata	both	Acute
+Oncorhynchus tshawytscha	both	Acute
+Lithobates catesbeianus	both	Acute
+Lepomis macrochirus	both	Acute
+Oncorhynchus mykiss	both	Acute
+Daphnia magna	both	Acute
+Salmo trutta	both	Acute
+Anguilla anguilla	both	Acute
+Pimephales promelas	both	Acute
+Micropterus salmoides	both	Acute
+Paralichthys olivaceus	both	Acute
+Palaemon elegans	both	Acute
+Homarus americanus	both	Acute
+Oncorhynchus aguabonita	both	Acute
+Dicentrarchus labrax	both	Acute
+Astacus astacus	prey	Chronic
+Callinectes sapidus	prey	Chronic
+Enallagma cyathigerum	prey	Chronic
+Anura	prey	Chronic
+Vicia faba	prey	Chronic
+Ancylus fluviatilis	prey	Chronic
+Stuckenia pectinata	prey	Chronic
+Hydrilla verticillata	prey	Chronic
+Micropterus dolomieu	prey	Chronic
+Polyarthra remata	prey	Chronic
+Brachiopoda	prey	Chronic
+Homarus gammarus	prey	Chronic
+Bivalvia	prey	Chronic
+Coleoptera	prey	Chronic
+Myoxocephalus octodecemspinosus	prey	Chronic
+Galaxias maculatus	prey	Chronic
+Mytilus edulis	prey	Chronic
+Forficula auricularia	prey	Chronic
+Eurytemora affinis	prey	Chronic
+Myriophyllum spicatum	prey	Chronic
+Brachionus calyciflorus	prey	Chronic
+Carcinus maenas	prey	Chronic
+Sialis lutaria	prey	Chronic
+Aves	prey	Chronic
+Gerridae	prey	Chronic
+Placopecten magellanicus	prey	Chronic
+Neomysis integer	prey	Chronic
+Plecoptera	prey	Chronic
+Chironomidae	prey	Chronic
+Saccharina latissima	prey	Chronic
+Perca flavescens	prey	Chronic
+Tropocyclops prasinus	prey	Chronic
+Macoma balthica	prey	Chronic
+Polychaeta	prey	Chronic
+Arenicola marina	prey	Chronic
+Elodea canadensis	prey	Chronic
+Chelydra serpentina	prey	Chronic
+Morone chrysops	prey	Chronic
+Hydrozoa	prey	Chronic
+Oncorhynchus clarkii	prey	Chronic
+Hyalella azteca	prey	Chronic
+Pomacea canaliculata	prey	Chronic
+Heterandria formosa	prey	Chronic
+Perinereis nuntia	prey	Chronic
+Poaceae	prey	Chronic
+Leptocheirus plumulosus	prey	Chronic
+Magnoliopsida	prey	Chronic
+Hymenoptera	prey	Chronic
+Caenis luctuosa	prey	Chronic
+Lepidoptera	prey	Chronic
+Oncorhynchus kisutch	prey	Chronic
+Ciliophora	prey	Chronic
+Arachnida	prey	Chronic
+Copepoda	prey	Chronic
+Simuliidae	prey	Chronic
+Dreissena polymorpha	prey	Chronic
+Fucus serratus	prey	Chronic
+Rutilus rutilus	prey	Chronic
+Bacillariophyceae	prey	Chronic
+Diptera	prey	Chronic
+Nematoda	prey	Chronic
+Baetis rhodani	prey	Chronic
+Ceriodaphnia reticulata	prey	Chronic
+Trichoptera	prey	Chronic
+Acartia tonsa	prey	Chronic
+Batrachochytrium dendrobatidis	prey	Chronic
+Gammarus fossarum	prey	Chronic
+Pseudorasbora parva	prey	Chronic
+Musculium transversum	prey	Chronic
+Brachionus angularis	prey	Chronic
+Calanoida	prey	Chronic
+Salvelinus fontinalis	prey	Chronic
+Crustacea	prey	Chronic
+Clupea harengus	prey	Chronic
+Cyclopoida	prey	Chronic
+Ostracoda	prey	Chronic
+Ephemeroptera	prey	Chronic
+Arthropoda	prey	Chronic
+Pomatoschistus microps	prey	Chronic
+Gammarus balcanicus	prey	Chronic
+Bacillariophyta	prey	Chronic
+Lithobates pipiens	prey	Chronic
+Dinophyceae	prey	Chronic
+Ankistrodesmus falcatus	prey	Chronic
+Diamesa zernyi	prey	Chronic
+Rana dalmatina	prey	Chronic
+Melanoides tuberculata	prey	Chronic
+Corbicula fluminea	prey	Chronic
+Libellulidae	prey	Chronic
+Paratya australiensis	prey	Chronic
+Chlorophyceae	prey	Chronic
+Gastropoda	prey	Chronic
+Gammarus fasciatus	prey	Chronic
+Potamopyrgus antipodarum	prey	Chronic
+Asellus aquaticus	prey	Chronic
+Physidae	prey	Chronic
+Ceratophyllum demersum	prey	Chronic
+Scardinius erythrophthalmus	prey	Chronic
+Gasterosteus aculeatus	prey	Chronic
+Salvinia molesta	prey	Chronic
+Chironomus riparius	prey	Chronic
+Hypophthalmichthys molitrix	prey	Chronic
+Algae	prey	Chronic
+Raphidocelis subcapitata	prey	Chronic
+Homoptera	prey	Chronic
+Chironomus tentans	prey	Chronic
+Passer domesticus	prey	Chronic
+Animalia	prey	Chronic
+Isochrysis galbana	prey	Chronic
+Plantae	prey	Chronic
+Sander vitreus	prey	Chronic
+Rotifera	prey	Chronic
+Cyprinella lutrensis	prey	Chronic
+Heteromastus filiformis	prey	Chronic
+Gammarus lacustris	prey	Chronic
+Tinca tinca	prey	Chronic
+Lolium perenne	prey	Chronic
+Zostera marina	prey	Chronic
+Tanytarsini	prey	Chronic
+Silurus glanis	prey	Chronic
+Elmidae	prey	Chronic
+Gammarus pulex	prey	Chronic
+Anax junius	prey	Chronic
+Cerastoderma edule	prey	Chronic
+Cyclopidae	prey	Chronic
+Valvata piscinalis	prey	Chronic
+Gobiomorphus cotidianus	prey	Chronic
+Pacifastacus leniusculus	prey	Chronic
+Gambusia affinis	prey	Chronic
+Palaemonetes argentinus	prey	Chronic
+Mesocyclops edax	prey	Chronic
+Lepomis cyanellus	prey	Chronic
+Psammechinus miliaris	prey	Chronic
+Tipulidae	prey	Chronic
+Carassius gibelio	prey	Chronic
+Gyraulus parvus	prey	Chronic
+Keratella cochlearis	prey	Chronic
+Collembola	prey	Chronic
+Spodoptera frugiperda	prey	Chronic
+Parophrys vetulus	prey	Chronic
+Formicidae	prey	Chronic
+Ceratopogonidae	prey	Chronic
+Corixidae	prey	Chronic
+Curculionidae	prey	Chronic
+Phragmites australis	prey	Chronic
+Limnodrilus hoffmeisteri	prey	Chronic
+Caenis horaria	prey	Chronic
+Cloeon dipterum	prey	Chronic
+Planorbidae	prey	Chronic
+Fungi	prey	Chronic
+Chaoborus flavicans	prey	Chronic
+Lumbricus terrestris	prey	Chronic
+Epithemia sp.	prey	Chronic
+Cryptophyceae	prey	Chronic
+Chlorella vulgaris	prey	Chronic
+Hygrotus versicolor	prey	Chronic
+Filinia longiseta	prey	Chronic
+Notemigonus crysoleucas	prey	Chronic
+Coenagrion pulchellum	prey	Chronic
+Rhithropanopeus harrisii	prey	Chronic
+Palaemon serratus	prey	Chronic
+Ipomoea aquatica	prey	Chronic
+Lota lota	prey	Chronic
+Persicaria amphibia	prey	Chronic
+Synechococcus elongatus	prey	Chronic
+Hydrophilidae	prey	Chronic
+Austropotamobius pallipes	prey	Chronic
+Peromyscus maniculatus	prey	Chronic
+Mytilus galloprovincialis	prey	Chronic
+Portunus pelagicus	prey	Chronic
+Cladocera	prey	Chronic
+Simocephalus vetulus	prey	Chronic
+Coregonus clupeaformis	prey	Chronic
+Alligator mississippiensis	prey	Chronic
+Oreochromis mossambicus	prey	Chronic
+Naididae	prey	Chronic
+Magnoliophyta	prey	Chronic
+Daphnia pulex	prey	Chronic
+Xyrauchen texanus	prey	Chronic
+Chlamydomonas reinhardtii	prey	Chronic
+Diaphanosoma brachyurum	prey	Chronic
+Oncorhynchus nerka	prey	Chronic
+Cherax quadricarinatus	prey	Chronic
+Chilina gibbosa	prey	Chronic
+Ameiurus nebulosus	prey	Chronic
+Coenagrion puella	prey	Chronic
+Paranephrops zealandicus	prey	Chronic
+Aphididae	prey	Chronic
+Hemiptera	prey	Chronic
+Laminaria digitata	prey	Chronic
+Sander lucioperca	prey	Chronic
+Hydracarina	prey	Chronic
+Mollusca	prey	Chronic
+Menidia beryllina	prey	Chronic
+Sorghum bicolor	prey	Chronic
+Acanthocyclops vernalis	prey	Chronic
+Petromyzon marinus	prey	Chronic
+Insecta	prey	Chronic
+Scenedesmus quadricauda	prey	Chronic
+Chironomus sp.	prey	Chronic
+Strongylocentrotus droebachiensis	prey	Chronic
+Turdus migratorius	prey	Chronic
+Picea sitchensis	prey	Chronic
+Araneae	prey	Chronic
+Bufo bufo	prey	Chronic
+Pseudacris regilla	prey	Chronic
+Heptageniidae	prey	Chronic
+Hippoglossus hippoglossus	prey	Chronic
+Acartia clausi	prey	Chronic
+Chlorophyta	prey	Chronic
+Lymnaea stagnalis	prey	Chronic
+Physa fontinalis	prey	Chronic
+Physella acuta	prey	Chronic
+Lemna minor	prey	Chronic
+Potamogeton perfoliatus	prey	Chronic
+Faxonius rusticus	prey	Chronic
+Oligochaeta	prey	Chronic
+Coenagrionidae	prey	Chronic
+Protozoa	prey	Chronic
+Keratella quadrata	prey	Chronic
+Bosmina longirostris	prey	Chronic
+Palmaria palmata	prey	Chronic
+Acipenser baerii	predator	Chronic
+Mylopharyngodon piceus	predator	Chronic
+Pangasius pangasius	predator	Chronic
+Carassius carassius	predator	Chronic
+Gadus morhua callarias	predator	Chronic
+Channa striata	predator	Chronic
+Trichopodus pectoralis	predator	Chronic
+Rhamdia quelen	predator	Chronic
+Cirrhinus cirrhosus	predator	Chronic
+Larimichthys crocea	predator	Chronic
+Penaeus monodon	predator	Chronic
+Piaractus mesopotamicus	predator	Chronic
+Chimaera monstrosa	predator	Chronic
+Pandalus montagui	predator	Chronic
+Seriola dumerili	predator	Chronic
+Sparus aurata	predator	Chronic
+Oncorhynchus aguabonita	predator	Chronic
+Seriola zonata	predator	Chronic
+Epinephelus flavocaeruleus	predator	Chronic
+Danio rerio	predator	Chronic
+Palaemon elegans	predator	Chronic
+Seriola lalandi	predator	Chronic
+Epinephelus malabaricus	predator	Chronic
+Acipenser ruthenus	predator	Chronic
+Perna canaliculus	predator	Chronic
+Penaeus vannamei	predator	Chronic
+Anguilla japonica	predator	Chronic
+Ictalurus punctatus	predator	Chronic
+Pandalus borealis	predator	Chronic
+Epinephelus coioides	predator	Chronic
+Pagrus auratus	predator	Chronic
+Pangasianodon hypophthalmus	predator	Chronic
+Magallana gigas	predator	Chronic
+Salmo macrostigma	predator	Chronic
+Monopterus albus	predator	Chronic
+Dicentrarchus	predator	Chronic
+Epinephelus tauvina	predator	Chronic
+Astacus leptodactylus	predator	Chronic
+Colossoma macropomum	predator	Chronic
+Lateolabrax japonicus	predator	Chronic
+RID00111	chemical	Chronic
+RID00092	chemical	Chronic
+RID00113	chemical	Chronic
+RID00230	chemical	Chronic
+RID00139	chemical	Chronic
+RID00315	chemical	Chronic
+RID00080	chemical	Chronic
+RID00127	chemical	Chronic
+RID00116	chemical	Chronic
+RID00098	chemical	Chronic
+RID00181	chemical	Chronic
+RID00186	chemical	Chronic
+RID00252	chemical	Chronic
+RID00302	chemical	Chronic
+RID00105	chemical	Chronic
+RID00137	chemical	Chronic
+RID00185	chemical	Chronic
+RID00053	chemical	Chronic
+RID00244	chemical	Chronic
+RID00141	chemical	Chronic
+Oncorhynchus gorbuscha	both	Chronic
+Artemia salina	both	Chronic
+Artemia franciscana	both	Chronic
+Macrobrachium rosenbergii	both	Chronic
+Procambarus clarkii	both	Chronic
+Paracentrotus lividus	both	Chronic
+Pimephales promelas	both	Chronic
+Poecilia reticulata	both	Chronic
+Paralichthys olivaceus	both	Chronic
+Lates calcarifer	both	Chronic
+Labeo rohita	both	Chronic
+Dicentrarchus labrax	both	Chronic
+Oreochromis niloticus	both	Chronic
+Ctenopharyngodon idella	both	Chronic
+Carassius auratus	both	Chronic
+Oncorhynchus tshawytscha	both	Chronic
+Salmo salar	both	Chronic
+Clarias gariepinus	both	Chronic
+Lithobates catesbeianus	both	Chronic
+Daphnia magna	both	Chronic
+Trachinotus ovatus	both	Chronic
+Oncorhynchus mykiss	both	Chronic
+Gadus morhua	both	Chronic
+Anguilla anguilla	both	Chronic
+Salmo trutta	both	Chronic
+Cyprinus carpio	both	Chronic
+Micropterus salmoides	both	Chronic
+Homarus americanus	both	Chronic
+Lepomis macrochirus	both	Chronic
+Gambusia holbrooki	both	Chronic
