@@ -10,6 +10,7 @@ This folder contains scripts for retrieving and processing data from external da
 Scripts to process data downloaded from the [Comparative Toxicogenomics Database (CTD)](http://ctdbase.org/).
 
 CTD version used: Oct 23, 2025
+
 Gene2Go version used: Oct 1 2025
 
 | File | Description |
