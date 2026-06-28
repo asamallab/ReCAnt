@@ -72,4 +72,4 @@ See [`Code/Analysis/README.md`](Code/Analysis/README.md) for further details.
 
 ---
 
-Note: All codes were tested on Python version 3.11 and R version 4.4.2
+Note: All codes were tested on Python version 3.11 and R version 4.4.2. Before running the codes, ensure that file paths are set correctly, as some files are located in the `external_data` folder and others in the `Data` folder outside the `Code` folder. 
