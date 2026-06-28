@@ -1,4 +1,4 @@
-# A comprehensive resource on chemicals used in aquaculture and their ecotoxicity 
+# An extensive resource on chemicals used in aquaculture and their ecotoxicity 
 
 ## Contributors
 
