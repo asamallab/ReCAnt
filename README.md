@@ -7,8 +7,10 @@
 ## Reference
 
 This repository is associated with the manuscript: 
-Shreyes Rajan Madgaonkar, Shrish Vashishth, Nikhil Chivukula, Vasavi Garisetti, Shambanagouda Rudragouda Marigoudar, Krishna Venkatarama Sharma & Areejit Samal\*, *[A comprehensive resource on chemicals used in aquaculture and their ecotoxicity](https://www.biorxiv.org/content/10.64898/2026.01.26.701529)* bioRxiv 2026.01.26.701529 (2026).
+Shreyes Rajan Madgaonkar, Shrish Vashishth, Nikhil Chivukula, Vasavi Garisetti, Shambanagouda Rudragouda Marigoudar, Krishna Venkatarama Sharma & Areejit Samal\*, *An extensive resource on chemicals used in aquaculture and their ecotoxicity.* Submitted (2026).
 (\* Corresponding author: [asamal@imsc.res.in](mailto:asamal@imsc.res.in)) 
+
+Preprint available at: *[https://www.biorxiv.org/content/10.64898/2026.01.26.701529](https://www.biorxiv.org/content/10.64898/2026.01.26.701529)*
 
 
 ---
