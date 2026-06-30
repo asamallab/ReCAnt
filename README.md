@@ -44,7 +44,7 @@ The `Data/` folder contains the core ReCAnt database as flat `.tsv` files. These
 
 ## Code
 
-All code is organised into two stages: **Data_processing** and **Analysis**. Raw data files are not provided due to size restrictions. However, additional dependency files required to run each script are provided in the `external_data/` subfolder within the respective code folder.
+All code is organised into two stages: **Data_processing** and **Analysis**. Certain raw data files, such as those for ECOTOX and CTD, are not provided due to size and licensing restrictions. However, additional dependency files required to run each script are provided in the `external_data/` subfolder within the respective code folder.
 
 ### Data_processing
 

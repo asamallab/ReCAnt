@@ -9,7 +9,7 @@ This folder contains the core ReCAnt database as flat `.tsv` files. These files 
 | File | Description |
 |---|---|
 | `MAIN_aqsoldb_data.tsv` | Aqueous solubility data sourced from AqSolDB |
-| `MAIN_biotransformation_data.tsv` | Biotransformation pathway data |
+| `MAIN_biotransformation_data.tsv` | Biotransformation data |
 | `MAIN_chem_category.tsv` | Chemical category classifications |
 | `MAIN_chemical_structure_data.tsv` | Chemical structure information including SMILES and identifiers |
 | `MAIN_ctd_chem_dis.tsv` | CTD chemical-disease association data |
@@ -23,11 +23,11 @@ This folder contains the core ReCAnt database as flat `.tsv` files. These files 
 | `MAIN_ecotox_toxicity_data.tsv` | Ecotoxicity data from the ECOTOX Knowledgebase |
 | `MAIN_episuite_data.tsv` | Physicochemical and fate-related property estimates from EPI Suite |
 | `MAIN_exposome_lists.tsv` | Exposome-related chemical lists |
-| `MAIN_filtered_edgelist.tsv` | Edge list of the filtered food web network |
-| `MAIN_filtered_nodelist.tsv` | Node list of the filtered food web network |
+| `MAIN_filtered_edgelist.tsv` | Edge list of the filtered food web-based trophic transfer network |
+| `MAIN_filtered_nodelist.tsv` | Node list of the filtered food web-based trophic transfer network |
 | `MAIN_foodweb_feed_bcf.tsv` | Food web data combined with BCF values for trophic transfer analysis |
 | `MAIN_foodweb_feed_tox.tsv` | Food web data combined with toxicity values for trophic transfer analysis |
-| `MAIN_pbmt.tsv` | Predicted biotransformation data |
+| `MAIN_pbmt.tsv` | PBMT classification data |
 | `MAIN_physicochem_prop.tsv` | Physicochemical properties of aquaculture chemicals |
 | `MAIN_regulation_lists.tsv` | Regulatory lists relevant to aquaculture chemicals |
 | `MAIN_regulations_curated.tsv` | Curated regulatory information |

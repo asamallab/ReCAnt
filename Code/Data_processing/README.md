@@ -1,6 +1,6 @@
 # Data_processing
 
-This folder contains scripts for retrieving and processing data from external databases and sources. The outputs feed into the `Data/` folder and the downstream analysis pipelines. Raw data files are not provided due to size restrictions. Additional dependency files required to run each script are provided in the `external_data/` subfolder within each code folder.
+This folder contains scripts for retrieving and processing data from external databases and sources. The outputs feed into the `Data/` folder and the downstream analysis pipelines. Raw data files are not provided due to size and licensing restrictions. Additional dependency files required to run each script are provided in the `external_data/` subfolder within each code folder.
 
 ---
 
@@ -20,7 +20,7 @@ The following files must be manually downloaded from the CTD downloads page befo
 
 CTD version used: 23 Oct 2025
 
-Gene2Go version used: 1 Oct 2025
+[Gene2Go](https://ftp.ncbi.nih.gov/gene/DATA/) version used: 1 Oct 2025
 
 | File | Description |
 |---|---|
